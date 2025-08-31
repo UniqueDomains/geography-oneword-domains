@@ -551,6 +551,12 @@ b408ad33-e54a-4a60-b874-2743f846a22f,thematic.pro,expiring,78,84,8,Squarespace D
 3b863fd7-e1a8-4338-a532-3008eabb12a4,thematic.tech,expiring,78,84,8,Squarespace Domains II LLC,15/07/2021 15:05,15/07/2025 23:59
 e349232f-3f85-4562-8996-bb0dffde4144,thematic.xyz,available,78,84,8,,,
 acbee2d6-3ffd-4418-8de6-c19a4e2ea4f3,thematic.zone,available,78,84,8,,,
+dd4894cf-1b82-4b69-9ee1-8c085442c7f0,atlas.app,expiring,84,84,5,"GoDaddy.com, LLC",28/07/2019 15:32,28/07/2025 15:32
+b5d47928-e83a-4044-b8e4-7323f16685b1,atlas.at,available,84,84,5,,,
+c46d17e3-86d7-486e-965c-46db51337080,atlas.cloud,resell,84,84,5,GoDaddy,12/02/2020 14:39,13/02/2026 14:08
+7e908c57-c139-4b41-ae60-f9abbfa70c13,atlas.io,expiring,84,84,5,"GoDaddy.com, LLC",08/08/2011 14:45,08/08/2025 14:45
+1576f9a1-70fd-4573-9027-c14ab829f5af,atlas.me,expiring,84,84,5,"Spaceship, Inc.",17/07/2008 15:14,17/07/2025 15:14
+e17bf06a-11ff-4eec-b4ee-52bf7fe26cee,atlas.us,expired,84,84,5,Epik LLC,29/06/2007 18:01,28/06/2025 23:59
 40c3251c-5c87-41f9-8ead-4ffe9e57217d,planning.at,available,70,80,8,,,
 1b409849-a0c6-4809-a908-964bcc8a8611,planning.co,available,70,80,8,,,
 617a5d8d-22e6-4bf4-9574-97271beaf35b,planning.dev,available,70,80,8,,,
@@ -572,12 +578,6 @@ ac05986d-0fe1-4d5b-b5cf-789029482be1,production.site,available,70,96,10,,,
 3118a1bb-7a46-4e40-873f-ede1f27db978,production.space,available,70,96,10,,,
 8eb2eda6-1550-4fb8-baa8-304cd75e2c97,production.store,available,70,96,10,,,
 24470564-017e-474d-a43c-8a363bba4692,production.tech,available,70,96,10,,,
-dd4894cf-1b82-4b69-9ee1-8c085442c7f0,atlas.app,expiring,84,84,5,"GoDaddy.com, LLC",28/07/2019 15:32,28/07/2025 15:32
-b5d47928-e83a-4044-b8e4-7323f16685b1,atlas.at,available,84,84,5,,,
-c46d17e3-86d7-486e-965c-46db51337080,atlas.cloud,resell,84,84,5,GoDaddy,12/02/2020 14:39,13/02/2026 14:08
-7e908c57-c139-4b41-ae60-f9abbfa70c13,atlas.io,expiring,84,84,5,"GoDaddy.com, LLC",08/08/2011 14:45,08/08/2025 14:45
-1576f9a1-70fd-4573-9027-c14ab829f5af,atlas.me,expiring,84,84,5,"Spaceship, Inc.",17/07/2008 15:14,17/07/2025 15:14
-e17bf06a-11ff-4eec-b4ee-52bf7fe26cee,atlas.us,expired,84,84,5,Epik LLC,29/06/2007 18:01,28/06/2025 23:59
 c7c21343-6daa-44d2-911f-99e132443bca,systems.expert,available,,56,7,,,
 54fbe8eb-ac56-4240-9b87-a4ea9d6141d7,systems.gg,resell,,56,7,"Spaceship, Inc (https://www.spaceship.com)",,
 b5e91c24-2afb-472e-8f79-395317f6a704,systems.me,expiring,,56,7,"GoDaddy.com, LLC",17/07/2008 16:05,17/07/2025 16:05
@@ -941,61 +941,61 @@ d8681b25-ff85-453e-bbdc-c93c37eeee88,place.xyz,available,78,30,5,,,
 ca2db71c-f049-40eb-9746-28c3eecfb9c0,place.yachts,available,78,30,5,,,
 7eb97603-a038-4a6f-9623-7d843c34bc18,place.zip,available,78,30,5,,,
 d6fdf872-9c03-44af-92a8-6cb3bf0453fb,place.zone,resell,78,30,5,"Chengdu West Dimension Digital Technology Co., Ltd.",16/11/2018 16:17,16/11/2025 16:17
-f570ecdf-ee4a-4b5a-832f-b03d32d2ce3a,remote.at,sold,108,88,6,Vautron Rechenzentrum AG ( https://nic.at/registrar/610 ),,
-533be676-4728-4f8f-b574-c3679184cf6f,remote.cloud,available,108,88,6,,,
-ceb0852d-90a4-487a-bd80-01d3d4806331,remote.co,expiring,108,88,6,"GoDaddy.com, LLC",21/07/2010 21:36,20/07/2025 23:59
-e9a2ff19-5766-4bc4-9581-bed452b7ea15,remote.expert,expiring,108,88,6,"GoDaddy.com, LLC",28/07/2015 20:37,28/07/2025 20:37
-1699e592-f5f6-4bed-837f-ab26a79bc6cc,remote.ninja,expired,108,88,6,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,26/04/2024 17:00,26/04/2025 17:00
-e7c2858e-be15-4cf5-ab5d-4b1811052a22,remote.store,available,108,88,6,,,
-9ac9b5a5-5cf4-4fff-9ecb-3ddad6b5a187,remote.us,resell,108,88,6,"GoDaddy.com, LLC",03/06/2004 13:24,02/06/2026 23:59
-1d2d964c-77ef-4392-b78b-bf13f808f8b1,sensing.at,available,64,68,7,,,
-5c7e7052-00d6-44bb-89ef-feeea5d8b015,sensing.co,expiring,64,68,7,"GoDaddy.com, LLC",20/07/2010 18:10,19/07/2025 23:59
-22a8f66e-070b-4267-ac5d-69e2a9e47525,sensing.expert,available,64,68,7,,,
-09124632-bacb-43d3-bf71-b87524de226c,sensing.gg,available,64,68,7,,,
-362f46db-5ca1-4387-833b-05c752d885ba,sensing.io,resell,64,68,7,"GoDaddy.com, LLC",30/04/2015 00:30,30/04/2026 00:30
-50cafa37-1f25-4179-bd03-345ee1466b82,sensing.it,resell,64,68,7,,03/05/2012 03:39,18/05/2026 00:00
-fd5c8982-a2f3-4a62-b88a-2630dbe6d372,sensing.me,resell,64,68,7,"Chengdu West Dimension Digital Technology Co., Ltd.",13/11/2024 17:43,13/11/2025 17:43
-8612538a-4e37-4c48-9e4a-4a832c89f4e8,sensing.ninja,available,64,68,7,,,
-8dd3b5a7-3e3a-48be-bdfc-7cafadd1cdd3,sensing.site,available,64,68,7,,,
-10f97123-6d64-449d-af49-cd4f212876f9,sensing.so,available,64,68,7,,,
-caac8de5-fd72-442c-8da5-db1aa41f5670,sensing.us,resell,64,68,7,"GoDaddy.com, LLC",10/01/2014 06:27,09/01/2026 23:59
-24d02503-b7e2-45f4-b417-226698da91e5,sensing.xyz,resell,64,68,7,Dynadot LLC,22/06/2019 19:05,22/06/2027 23:59
-08228a57-436e-4cce-a590-01949a6a421e,sensing.zone,available,64,68,7,,,
-f5ee4537-e20b-49bd-a172-ee682e329cb9,imagery.ai,resell,74,72,7,Dynadot Inc,24/12/2018 04:09,24/12/2026 04:09
-919944ac-2705-4f33-b0c1-d5ec176e7056,imagery.co,expiring,74,72,7,"GoDaddy.com, LLC",21/07/2010 20:37,20/07/2025 23:59
-c5aafb6e-5fa7-4187-b838-73ca507b5c94,imagery.com,resell,74,72,7,Dynadot Inc,11/01/2000 12:09,11/01/2026 12:09
-0d158c75-6fd4-42f0-b506-7b4bcd351d9f,imagery.gg,available,74,72,7,,,
-3393f7b9-786b-4429-968a-6fba55a4ac65,imagery.io,resell,74,72,7,"GoDaddy.com, LLC",23/08/2023 15:15,23/08/2025 15:15
-119cf460-793f-464d-9794-fef0db661f00,imagery.it,resell,74,72,7,,13/03/2012 09:18,30/03/2026 00:00
-47ae8f41-8ab3-45df-8862-99b43751f1da,imagery.me,available,74,72,7,,,
-4eaf3cde-886d-44d6-b873-ecbba45b51e5,imagery.ninja,available,74,72,7,,,
-a9c060e7-af45-4730-8d04-574dc8716f00,imagery.online,available,74,72,7,,,
-f8aa1816-ec6e-474d-aacf-b982a4c7067d,imagery.pro,available,74,72,7,,,
-f9751d32-ed0f-49ea-99b3-304b27dc0cf5,imagery.site,available,74,72,7,,,
-0b3244cd-e2df-412e-93c3-ee4960b363fe,imagery.so,available,74,72,7,,,
-00d0dce5-a610-453a-a5ea-e52a4473c119,imagery.space,available,74,72,7,,,
-10398841-62ca-457a-9c1d-e46e3d1eff05,imagery.us,resell,74,72,7,"GoDaddy.com, LLC",29/07/2010 18:01,28/07/2026 23:59
-f3060ecd-f255-49d4-9784-72c55f659cae,imagery.zone,available,74,72,7,,,
-2e0c7de0-497c-42eb-8ac3-41355dd2582f,photography.app,available,,88,11,,,
-f893784a-8d00-48f3-bf42-181754c46709,photography.at,sold,,88,11,easyname GmbH ( https://nic.at/registrar/414 ),,
-da959eda-88fb-4f96-8e38-abe8fe01c55b,photography.cloud,available,,88,11,,,
-51742a2a-327a-44e1-9c04-223a188b921f,photography.co,resell,,88,11,Hello Internet Corp.,24/02/2010 23:05,23/02/2026 23:59
-bcf1745a-b6ac-4091-90ed-5874f26719ac,photography.dev,available,,88,11,,,
-8709d813-5e2a-4815-af4d-39a5a14bd2ac,photography.expert,available,,88,11,,,
-a3b1af60-f73e-424d-b708-65db15b7dc01,photography.me,expiring,,88,11,"GoDaddy.com, LLC",10/07/2008 03:30,10/07/2025 03:30
-e793e044-bad1-4417-afbc-7861656b4d23,photography.ninja,available,,88,11,,,
-36adb439-35a5-496d-a5bf-38a99fba2ad3,photography.online,available,,88,11,,,
-3e67ef3b-7b61-40a5-8a27-75f6522c52b7,photography.site,available,,88,11,,,
-e1ab36a0-d323-4e4e-87da-c56ceb531249,photography.space,available,,88,11,,,
-ffb2783a-feb5-45aa-bbc1-efbcda509820,photography.store,available,,88,11,,,
-13f8d662-8e3f-40ac-9d2c-1bbe1d09d709,photography.tech,available,,88,11,,,
-f53f005b-2183-4e37-bfec-f19224047046,photography.xyz,available,,88,11,,,
-135730e9-4dc5-4fa7-a007-ac5cd75437c2,photography.zone,expired,,88,11,Squarespace Domains II LLC,19/05/2023 13:54,19/05/2025 13:54
-d383c5f2-73d6-4e90-9e75-432e27b6ae41,satellite.at,resell,90,92,9,Realtime Register B.V. ( https://nic.at/registrar/423 ),,
-894cf0cb-fb57-41df-9f92-f20cf5c02b98,satellite.com,resell,90,92,9,"eNom, LLC",08/07/1996 04:00,07/07/2026 04:00
-3054d6f4-31da-4cf7-980b-515d7dd08faa,satellite.expert,available,90,92,9,,,
-d283af6f-be99-4422-b184-53afab75fca9,satellite.online,available,90,92,9,,,
-a30f9157-7bb5-4f26-b8c4-06b8cf574e27,satellite.site,available,90,92,9,,,
-54f84a15-dd71-42ae-9698-deea7e463647,satellite.store,available,90,92,9,,,
-c590630b-efc2-45a4-a5b0-e82ad6847c40,satellite.tech,available,90,92,9,,,
-7fcac6ea-f415-4037-b1e6-9434ee12622b,satellite.us,resell,90,92,9,"GoDaddy.com, LLC",24/04/2002 14:04,23/04/2026 23:59
+d2533d17-f78b-4f9a-ae06-391d4e29a043,remote.accountant,resell,108,40,6,"GoDaddy.com, LLC",29/09/2020 19:44,29/09/2026 19:44
+9cffaed9-9e45-4384-bc77-37d32f8627ff,remote.adult,available,108,40,6,,,
+6d2b97ea-f315-4862-905b-39756f0fd8f7,remote.airforce,available,108,40,6,,,
+d1c1668b-9307-48eb-b67d-34ae6902ae43,remote.apartments,available,108,40,6,,,
+43116f02-6498-44fd-ac63-24954c547070,remote.app,resell,108,40,6,Dynadot LLC.,30/10/2022 00:15,30/10/2026 00:15
+853f7060-c224-4afe-9dc4-77ce1eda1a64,remote.army,resell,108,40,6,"GoDaddy.com, LLC",26/12/2024 15:53,26/12/2025 15:53
+8098fcf4-dbf7-4ee0-a7e7-f7d514f232a0,remote.art,available,108,40,6,,,
+5279fe2b-5166-4621-8f4d-dfc3d71699b7,remote.asia,resell,108,40,6,Dynadot Inc,15/07/2025 13:02,15/07/2026 13:02
+f570ecdf-ee4a-4b5a-832f-b03d32d2ce3a,remote.at,sold,108,40,6,Vautron Rechenzentrum AG ( https://nic.at/registrar/610 ),,
+c6ab4420-ebf2-4ac5-b225-b4606ac7f239,remote.auction,available,108,40,6,,,
+bc7ca181-de77-430c-af7f-7779c24e9048,remote.audio,available,108,40,6,,,
+33c9517e-2a94-4930-8a1f-22055286140e,remote.auto,available,108,40,6,,,
+bd09827e-e240-4981-af6a-8b1b6a6ee22c,remote.autos,resell,108,40,6,"Xiamen ChinaSource Internet Service Co., Ltd",05/10/2024 10:20,05/10/2025 23:59
+c4e9b7ff-662d-446a-adfd-af24ed7a8cc1,remote.bar,available,108,40,6,,,
+dc5b9565-8a7f-4c64-a1aa-402d473235a0,remote.bargains,available,108,40,6,,,
+9c62a0e6-154b-4de9-9540-cb8d19850374,remote.bayern,available,108,40,6,,,
+bb3284a4-dd9c-42c1-a5e6-013464dc3bc7,remote.beauty,resell,108,40,6,Dynadot LLC,17/07/2025 16:14,17/07/2026 23:59
+c6af5e97-ccd3-48bf-9496-052795191536,remote.bet,resell,108,40,6,Dynadot Inc,30/12/2024 15:15,30/12/2027 15:15
+8b991337-9a8c-48ca-8d9f-348a8edd9f7f,remote.bid,available,108,40,6,,,
+aed5ddc2-38c0-4ef1-8c47-76e7ed236ab4,remote.bike,available,108,40,6,,,
+e9701d0b-87ca-4b2e-8c26-914fd06de375,remote.bingo,available,108,40,6,,,
+205185cd-3b2b-4dde-98dc-8cfcec73bc76,remote.bio,available,108,40,6,,,
+2217d2a0-5b11-4e8a-ba41-9c14f6d847cc,remote.black,available,108,40,6,,,
+dd721512-3f2c-439e-b0a1-2889e3e0443a,remote.blackfriday,available,108,40,6,,,
+1b89a78f-8a93-4cb1-a04b-ea38586fb3f6,remote.blue,available,108,40,6,,,
+60a73e50-9a1c-45c0-9f85-cda427b1f99f,remote.boats,expiring,108,40,6,"Spaceship, Inc.",26/09/2024 04:41,26/09/2025 23:59
+812062c0-c0f6-4ab2-b82b-d11e7812ea69,remote.boo,available,108,40,6,,,
+42165fc3-cb30-40c7-82ed-9e7bba521238,remote.boston,expired,108,40,6,Sav.com LLC,12/08/2024 05:15,12/08/2025 05:15
+4f65870d-7845-4cdc-98bc-aa7dc7a70472,remote.boutique,available,108,40,6,,,
+00c82df9-e7d0-47fe-9fcc-9eace1398808,remote.builders,resell,108,40,6,"Sav.com, LLC",05/10/2024 17:10,05/10/2025 17:10
+d5c82f30-1790-4f8d-ac3b-78071705cef0,remote.buzz,expired,108,40,6,Squarespace Domains II LLC,19/06/2020 02:57,19/06/2025 02:57
+85d8ca23-1460-400c-892a-f2b19aa461c0,remote.cab,available,108,40,6,,,
+78d7ed0c-c22e-4f7b-b0a3-f0fe237f045f,remote.cam,available,108,40,6,,,
+79036250-a6c2-4ef8-83cd-f04fc3ff30c5,remote.camera,resell,108,40,6,Dynadot Inc,01/09/2017 23:20,01/09/2026 23:20
+e86c54e0-1146-4ff9-bd4c-8b5a0fd4ad43,remote.car,available,108,40,6,,,
+0dee27f3-2478-4219-b404-50ab6b4b7afa,remote.cards,available,108,40,6,,,
+8b7f2a9d-4b57-4461-928d-97e533f4d0e0,remote.care,resell,108,40,6,Dynadot Inc,28/01/2018 23:22,28/01/2026 23:22
+18799c00-4d83-4931-acdb-2f52f1e139cd,remote.cars,available,108,40,6,,,
+9f5e39a1-aba5-46aa-a992-8bc5b686f0ba,remote.casino,resell,108,40,6,"Sav.com, LLC",02/06/2021 13:45,02/06/2028 13:45
+b65c3f92-64d9-4e12-b6fa-a1ed36390669,remote.cc,resell,108,40,6,"GoDaddy.com, LLC",16/12/2008 09:04,16/12/2026 09:04
+f3b7265f-efb1-4a34-9e05-cd82c64675b4,remote.center,resell,108,40,6,"Chengdu West Dimension Digital Technology Co., Ltd.",29/02/2020 11:16,28/02/2026 11:16
+1bb3bc77-9432-4e03-9b96-521d4e33e2db,remote.ceo,available,108,40,6,,,
+fbf4536f-f0ee-425d-8af1-374b4faca671,remote.cfd,available,108,40,6,,,
+df0214e0-ea26-466c-ae7f-099015b989f6,remote.cheap,resell,108,40,6,Dynadot Inc,24/06/2025 17:01,24/06/2026 17:01
+70ced856-fe81-487a-9b42-f8c595b17b3f,remote.christmas,available,108,40,6,,,
+4dc94c85-1b5c-4727-90fd-2ad7d7997f46,remote.claims,available,108,40,6,,,
+ca45be7e-58dc-4af3-8c7c-60ba0cef7011,remote.cleaning,resell,108,40,6,"NameCheap, Inc.",22/05/2021 16:57,22/05/2026 16:57
+16b2c83d-fbe2-4a6d-b0f9-f58705435896,remote.clinic,expiring,108,40,6,"GoDaddy.com, LLC",14/09/2020 10:06,14/09/2025 10:06
+533be676-4728-4f8f-b574-c3679184cf6f,remote.cloud,sold,108,40,6,NAMECHEAP,16/07/2025 16:22,16/07/2026 16:22
+ceb0852d-90a4-487a-bd80-01d3d4806331,remote.co,sold,108,40,6,"GoDaddy.com, LLC",21/07/2010 21:36,20/07/2026 23:59
+0a4c5f8c-72f9-44d9-8cfc-cbb348fd4894,remote.computer,resell,108,40,6,GoDaddy Online Services Cayman Islands Ltd.,05/07/2015 18:56,05/07/2026 18:56
+4f9b26d0-405d-4370-a3b7-f51a8ba20cbe,remote.condos,available,108,40,6,,,
+1b10d8d3-515c-4b32-ae19-8f6a5d889bab,remote.contact,resell,108,40,6,"Spaceship, Inc.",09/12/2020 16:00,09/12/2025 16:00
+5326153f-1af5-4719-ae3e-d3eca245c9e5,remote.contractors,resell,108,40,6,"Sav.com, LLC - 1",01/12/2022 15:15,01/12/2028 15:15
+815415e4-32bd-4b78-bb2b-80170e0f231f,remote.cool,expiring,108,40,6,"Sav.com, LLC",29/09/2024 17:07,29/09/2025 17:07
+132d4cf9-e62b-4549-b82a-8f208f85af6e,remote.country,available,108,40,6,,,
+f444d359-acec-4136-bdf9-78df95c81b4f,remote.coupons,available,108,40,6,,,
+0b144f38-16f2-42d3-a40e-3265088fd7e2,remote.credit,available,108,40,6,,,
