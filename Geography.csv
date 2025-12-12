@@ -583,6 +583,15 @@ cac02823-ee3d-4310-87e0-803b3d4cb8e0,demography.so,available,60,80,10,,,
 d6c38085-9423-44d2-8a82-5738a3540bac,demography.store,available,60,80,10,,,
 be59e87c-6d3a-4e37-b96c-08fcb4c67ade,demography.tech,available,60,80,10,,,
 559335c8-257a-4ba6-8070-eea1cb83e1b9,demography.zone,available,60,80,10,,,
+df20c739-2948-421a-876e-b6692872cb02,spatial.app,resell,56,84,7,"GoDaddy.com, LLC",24/10/2019 07:34,24/10/2025 07:34
+db815d6e-fa1d-4d16-86e9-4a68e0bba15e,spatial.at,sold,56,84,7,T-Mobile Austria GmbH ( https://nic.at/registrar/60 ),,
+b54c8cbc-6e93-4a1a-9511-0bec30757a35,spatial.co,expiring,56,84,7,Dynadot Inc,21/07/2010 03:00,20/07/2025 23:59
+b608f68a-6ec5-40e3-8a5b-58ecc340ea8f,spatial.dev,resell,56,84,7,"GoDaddy.com, LLC",13/02/2022 19:21,13/02/2026 19:21
+7b3791fb-7a7c-4a27-b1da-d26ceaf64952,spatial.gg,resell,56,84,7,Dynadot Inc. (https://www.dynadot.com),,
+0c45d852-2994-4ad9-979e-d7fbd566dc1f,spatial.it,resell,56,84,7,,03/10/2017 16:00,03/10/2025 00:00
+c87fb0ba-7072-464b-8275-42054f58aaaa,spatial.online,premium,56,84,7,,,
+039e79c0-4455-4bc3-af4e-6fa483a2e0f0,spatial.store,resell,56,84,7,"NameSilo, LLC",17/06/2019 18:12,17/06/2026 23:59
+e5a5bfaf-97bc-4361-8ccb-e721a065a6e4,spatial.xyz,expiring,56,84,7,Squarespace Domains II LLC,26/07/2014 01:14,26/07/2025 23:59
 79ab920c-fae0-4b0d-a7b9-f83687084d12,map.ac,expiring,78,36,3,Porkbun LLC,29/12/2022 15:15,29/12/2025 15:15
 d558f9b1-cbbe-424b-be09-d35232d8813e,map.accountant,premium,78,36,3,,,
 d8f9cbc8-477a-4ee2-b481-c17d7200b9f0,map.adult,premium,78,36,3,,,
@@ -893,15 +902,6 @@ bb5e2389-1ef7-4a8b-8185-f9c9b3f5c8e5,map.wedding,premium,78,36,3,,,
 96af78c6-fa97-480d-866c-2cc25389a762,map.yoga,premium,78,36,3,,,
 cce893ae-cb33-4ce9-853c-428a6e367fe5,map.you,premium,78,36,3,,,
 c6b3b462-09d4-4a58-8bd2-e230802b2d93,map.zip,premium,78,36,3,,,
-df20c739-2948-421a-876e-b6692872cb02,spatial.app,resell,56,84,7,"GoDaddy.com, LLC",24/10/2019 07:34,24/10/2025 07:34
-db815d6e-fa1d-4d16-86e9-4a68e0bba15e,spatial.at,sold,56,84,7,T-Mobile Austria GmbH ( https://nic.at/registrar/60 ),,
-b54c8cbc-6e93-4a1a-9511-0bec30757a35,spatial.co,expiring,56,84,7,Dynadot Inc,21/07/2010 03:00,20/07/2025 23:59
-b608f68a-6ec5-40e3-8a5b-58ecc340ea8f,spatial.dev,resell,56,84,7,"GoDaddy.com, LLC",13/02/2022 19:21,13/02/2026 19:21
-7b3791fb-7a7c-4a27-b1da-d26ceaf64952,spatial.gg,resell,56,84,7,Dynadot Inc. (https://www.dynadot.com),,
-0c45d852-2994-4ad9-979e-d7fbd566dc1f,spatial.it,resell,56,84,7,,03/10/2017 16:00,03/10/2025 00:00
-c87fb0ba-7072-464b-8275-42054f58aaaa,spatial.online,premium,56,84,7,,,
-039e79c0-4455-4bc3-af4e-6fa483a2e0f0,spatial.store,resell,56,84,7,"NameSilo, LLC",17/06/2019 18:12,17/06/2026 23:59
-e5a5bfaf-97bc-4361-8ccb-e721a065a6e4,spatial.xyz,expiring,56,84,7,Squarespace Domains II LLC,26/07/2014 01:14,26/07/2025 23:59
 815e921a-f1fa-4f6d-b099-7afeb31b8992,design.academy,resell,108,42,6,"eNom, LLC",19/03/2014 06:03,19/03/2026 06:03
 d51f904e-0d7d-4eab-8a45-888bd2e9caa2,design.accountant,premium,108,42,6,,,
 45632a96-6625-4245-a709-03ffe5653f4b,design.accountants,available,108,42,6,,,
