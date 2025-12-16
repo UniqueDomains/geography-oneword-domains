@@ -598,6 +598,7 @@ e5a5bfaf-97bc-4361-8ccb-e721a065a6e4,spatial.xyz,expiring,56,84,7,Squarespace Do
 d558f9b1-cbbe-424b-be09-d35232d8813e,map.accountant,premium,78,36,3,,,
 d8f9cbc8-477a-4ee2-b481-c17d7200b9f0,map.adult,premium,78,36,3,,,
 5c24428a-a568-4cd8-b5b6-27971fb1af6d,map.agency,expiring,78,36,3,Porkbun LLC,01/01/2019 23:25,01/01/2026 23:25
+1ab5bb8f-768e-47a9-a4e8-66fcce74ed59,map.airforce,expiring,78,36,3,Porkbun LLC,12/01/2025 10:06,12/01/2026 10:06
 0fa1b5c3-0ea4-4713-a61a-2425a7839418,map.apartments,premium,78,36,3,,,
 fe2f7f5c-eb21-4d2c-bedf-0cb0400c3a60,map.app,resell,78,36,3,West263 International Limited,17/07/2019 03:35,17/07/2026 03:35
 e8d3733f-4383-46aa-8566-53e5f6fd0e9b,map.archi,available,78,36,3,,,
@@ -644,7 +645,7 @@ ff24cd0f-521a-462e-b5ed-691de2328214,map.cleaning,available,78,36,3,,,
 1d7883a9-70f9-451c-a1ba-73bdefdfdcb7,map.clothing,premium,78,36,3,,,
 9821bdf9-622e-4621-8ab3-7f50ec342146,map.cloud,resell,78,36,3,Tucows Domains Inc.,12/02/2020 14:39,13/02/2026 14:22
 f6dcba09-0b83-4cf2-a176-dee5c20a6ff9,map.co,resell,78,36,3,"GoDaddy.com, LLC",24/02/2010 22:43,23/02/2026 23:59
-a6c73fea-664f-4f6d-9f46-725ec6f87b65,map.coffee,expiring,78,36,3,"GoDaddy.com, LLC",09/12/2024 14:11,09/12/2025 14:11
+a6c73fea-664f-4f6d-9f46-725ec6f87b65,map.coffee,sold,78,36,3,"GoDaddy.com, LLC",09/12/2024 14:11,09/12/2026 14:11
 2ca1bcf7-c2f2-4814-abce-8a6163b92bce,map.college,premium,78,36,3,,,
 8de14d6c-4ed6-434e-838c-7009be395420,map.company,resell,78,36,3,"Xiamen ChinaSource Internet Service Co., Ltd",28/10/2024 15:15,28/10/2026 15:15
 0add7bd2-8b94-4222-aa4c-55e8f9872145,map.computer,premium,78,36,3,,,
@@ -736,7 +737,7 @@ c8ec2b6d-7370-472b-b20f-2ae61f7c02cc,map.hot,premium,78,36,3,,,
 25359262-fac8-4dd7-a2a5-d4e35b31f036,map.how,premium,78,36,3,,,
 8200293d-7d55-4308-b35e-a7aa8209c23d,map.icu,premium,78,36,3,,,
 0394026e-8147-48d9-9aab-5022808be304,map.im,premium,78,36,3,,,
-ecd6ef23-7bda-4ee9-aea9-fc7bd74d8006,map.immo,expiring,78,36,3,united-domains GmbH,10/12/2014 16:39,10/12/2025 16:39
+ecd6ef23-7bda-4ee9-aea9-fc7bd74d8006,map.immo,sold,78,36,3,united-domains GmbH,10/12/2014 16:39,10/12/2026 16:39
 0c616a03-da2a-40cc-8e4b-acbae7d04c9f,map.industries,premium,78,36,3,,,
 567bdf1c-3dd7-4a96-aaa5-5788dda5473b,map.info,resell,78,36,3,"Sav.com, LLC",31/07/2001 20:14,31/07/2026 20:14
 5df8a246-520f-4064-84f5-907b55cc3589,map.ing,premium,78,36,3,,,
@@ -788,6 +789,7 @@ c8326b42-3212-483f-9fc9-8fc55980773c,map.mov,premium,78,36,3,,,
 2a1d64b6-f5f3-4f3d-b2e4-5ef1e33739f3,map.movie,available,78,36,3,,,
 fe04817f-305d-4ae2-aa59-b37062d91176,map.music,premium,78,36,3,,,
 15c86511-4d9d-4bbb-9daa-6d5aee3e3012,map.mx,premium,78,36,3,,,
+a92ca09f-a055-45f1-b6b9-394ccc7557fc,map.my,expiring,78,36,3,QINETICS SOLUTIONS SDN BHD (Webnic.cc),14/01/2008 16:00,14/01/2026 16:00
 909008ed-2297-48a1-a650-12432c265909,map.navy,available,78,36,3,,,
 426267f1-5f7e-4b66-b327-bfc910549516,map.network,expiring,78,36,3,"Sav.com, LLC",20/12/2023 06:40,20/12/2025 06:40
 64f9c973-540b-465b-9373-a379042e3d43,map.nexus,premium,78,36,3,,,
@@ -811,6 +813,7 @@ aa9fa1dc-9177-4999-9ef3-6bb30c3f9888,map.pizza,premium,78,36,3,,,
 e0a93b3b-a375-44fd-93d5-f77a5c2fc0da,map.poker,premium,78,36,3,,,
 fae69df2-9f35-46ea-8ab2-67e3c792a0ef,map.porn,premium,78,36,3,,,
 3e894807-cbe9-40b5-b9d3-a57dd3a13391,map.press,premium,78,36,3,,,
+b86b39e4-f78e-48dd-8e22-ced3e94db999,map.pro,expiring,78,36,3,"eNom, LLC",13/01/2011 00:00,13/01/2026 00:00
 d3fa6e77-699f-4d52-9f0a-4b0a5b3787ee,map.productions,premium,78,36,3,,,
 39bb4d7d-23fd-406e-a77e-b2c27eeb4ee3,map.prof,premium,78,36,3,,,
 ccddc9db-9e48-4557-8b95-1221f530fafc,map.promo,premium,78,36,3,,,
@@ -845,8 +848,8 @@ c625624d-2f6f-42a3-93a5-0afffbd37e9c,map.schule,premium,78,36,3,,,
 67f5093d-952e-4090-ad2c-31eb7ec46ab8,map.sexy,premium,78,36,3,,,
 477635d4-2e35-41f8-8629-515d48b77123,map.shiksha,available,78,36,3,,,
 42b2067a-8507-4e6e-a8c9-dd9e7efa04c8,map.shoes,available,78,36,3,,,
-9e779183-1a86-42c9-bd1b-9c745410d48b,map.shopping,expiring,78,36,3,Dynadot Inc,11/12/2022 15:15,11/12/2025 15:15
-a9bfb873-6ae9-446a-8883-28bd4329e50f,map.show,expiring,78,36,3,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),09/12/2016 17:52,09/12/2025 17:52
+9e779183-1a86-42c9-bd1b-9c745410d48b,map.shopping,sold,78,36,3,Dynadot Inc,11/12/2022 15:15,11/12/2026 15:15
+a9bfb873-6ae9-446a-8883-28bd4329e50f,map.show,sold,78,36,3,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),09/12/2016 17:52,09/12/2026 17:52
 97aa8baf-5474-40d2-b694-c70b37a9cc88,map.site,premium,78,36,3,,,
 e9f587ef-589e-496b-8262-22df578f0e46,map.ski,premium,78,36,3,,,
 db73eedd-85e7-4af4-a77d-1dffa6bdbcf3,map.skin,premium,78,36,3,,,
@@ -996,6 +999,3 @@ b16153a0-6b1b-4fb1-a478-bd36bc7e2d5f,design.digital,sold,108,40,6,1API GmbH,17/0
 44528a96-6b60-4f33-aa0e-389064e78c0f,design.esq,premium,108,40,6,,,
 b3940cfc-f60d-4686-a301-279ff1d7bd3d,design.events,resell,108,40,6,"Name.com, Inc.",20/09/2015 08:08,20/09/2026 08:08
 20b021fc-3f02-442d-8ce7-1f79d4c32c33,design.expert,sold,108,40,6,"Go China Domains, LLC",12/07/2015 16:00,12/07/2026 16:00
-93fd9412-91bc-4494-b46e-d6cdeec934d4,design.exposed,premium,108,40,6,,,
-2cfb78b5-d848-4585-bd20-0bc20839d2ce,design.fail,premium,108,40,6,,,
-94623494-697b-4bb8-a17b-f342068211d1,design.family,premium,108,40,6,,,
