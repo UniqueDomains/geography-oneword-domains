@@ -1,12 +1,12 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
-845c3b04-5824-4354-ab94-2be5a414f9fd,mapping.me,resell,66,80,7,"GoDaddy.com, LLC",11/08/2008 11:00,11/08/2026 11:00
-36995fd1-58ab-4173-abfd-f1d2fd56db99,mapping.so,available,66,80,7,,,
-35e3d1fd-ded3-4c74-a276-0d986d3b7cb8,mapping.store,premium,66,80,7,,,
-6f558be4-e19a-4ac4-875f-48317815f61d,mapping.us,resell,66,80,7,"GoDaddy.com, LLC",24/04/2020 00:04,24/04/2026 00:04
 3ea4e43e-1d7c-4397-af54-0b0a75265749,mapping.app,expiring,66,80,7,"GoDaddy.com, LLC",05/07/2024 17:14,05/07/2025 17:14
 cf70cea1-6d04-49fe-89d8-0aa8b1c761c1,mapping.co,resell,66,80,7,"GoDaddy.com, LLC",21/12/2018 17:40,21/12/2025 17:40
 058ea75c-0c22-451d-bb4a-5a34560fd907,mapping.dev,premium,66,80,7,,,
 e0240a58-5cef-4bb5-a382-3427d2887500,mapping.gg,available,66,80,7,,,
+845c3b04-5824-4354-ab94-2be5a414f9fd,mapping.me,resell,66,80,7,"GoDaddy.com, LLC",11/08/2008 11:00,11/08/2026 11:00
+36995fd1-58ab-4173-abfd-f1d2fd56db99,mapping.so,available,66,80,7,,,
+35e3d1fd-ded3-4c74-a276-0d986d3b7cb8,mapping.store,premium,66,80,7,,,
+6f558be4-e19a-4ac4-875f-48317815f61d,mapping.us,resell,66,80,7,"GoDaddy.com, LLC",24/04/2020 00:04,24/04/2026 00:04
 072b6655-bc05-43fc-807b-fd7e97b3cc24,geography.expert,available,66,80,9,,,
 815e283f-47d3-49ec-9805-a2c86c6642fb,geography.io,premium,66,80,9,,,
 983d86db-5c8a-4904-acb8-c02cd25eaff3,geography.it,expiring,66,80,9,,28/06/2015 09:00,25/07/2025 00:00
@@ -75,6 +75,9 @@ c2a02d7d-43f3-49c7-b330-dfeeb231d16d,topography.pro,expired,58,80,10,Dynadot Inc
 cd975b62-1549-4841-aa7c-b58550e9aa34,topography.us,expiring,58,80,10,"GoDaddy.com, LLC",11/07/2015 16:31,10/07/2025 23:59
 290b0a0f-ae3e-4fcb-95a7-264cbeca88c5,topography.xyz,resell,58,80,10,"Sav.com, LLC - 1",14/02/2022 00:39,14/02/2026 23:59
 4902534d-1f69-4cab-afc1-4aef8f2aadba,topography.zone,available,58,80,10,,,
+1d1e77e1-7dad-43a0-9e73-3dbaf5ea6520,mapprojection.us,available,56,72,14,,,
+97c60090-a17f-4161-b22b-97b4d2c12e1b,mapprojection.xyz,available,56,72,14,,,
+98d6c6ae-63b1-418f-a691-ff2874b0ec20,mapprojection.zone,available,56,72,14,,,
 f8e3ea64-3a0c-4b20-bc51-d9ce10a8b7af,mapprojection.ai,available,56,72,14,,,
 08445d19-ef5a-47f1-a1d7-77ae017d892c,mapprojection.app,available,56,72,14,,,
 177ee322-6b80-4af3-8a38-6e1133421d29,mapprojection.at,available,56,72,14,,,
@@ -95,9 +98,6 @@ a05f8ff1-ce67-4622-87de-44e8fe385855,mapprojection.so,available,56,72,14,,,
 c94d32ff-9294-4566-8c4e-2a409b20f605,mapprojection.space,available,56,72,14,,,
 7380b080-0c07-48a4-91bd-d871f0ef748d,mapprojection.store,available,56,72,14,,,
 1cfe9e0a-07cd-4dd1-b98f-7bd37a27dc36,mapprojection.tech,available,56,72,14,,,
-1d1e77e1-7dad-43a0-9e73-3dbaf5ea6520,mapprojection.us,available,56,72,14,,,
-97c60090-a17f-4161-b22b-97b4d2c12e1b,mapprojection.xyz,available,56,72,14,,,
-98d6c6ae-63b1-418f-a691-ff2874b0ec20,mapprojection.zone,available,56,72,14,,,
 f90699fb-e745-4052-982a-a308f544fa12,placenames.ai,available,,16,11,,,
 91276793-03e3-47d9-851e-adc46dcd2e63,placenames.app,available,,16,11,,,
 c61431ef-16d3-4bba-a21e-c7ebf179bc9e,placenames.at,available,,16,11,,,
@@ -316,7 +316,7 @@ a1bdb927-3f1f-4f58-b1fd-fc38d9db9edc,analysis.inc,premium,80,18,8,,,
 3634bb95-8018-49d2-b71d-4672052d5658,analysis.industries,premium,80,18,8,,,
 0db0a46a-eba8-47ee-8133-ef7e05943641,analysis.info,resell,80,18,8,"GoDaddy.com, LLC",14/09/2001 14:19,14/09/2026 14:19
 a5c33060-ff10-4ef8-b74b-731e3564aaf9,analysis.ing,premium,80,18,8,,,
-744ac0b2-2e25-47cf-b2cc-a5ff82d7c7a0,analysis.ink,resell,80,18,8,"Spaceship, Inc.",16/01/2025 01:20,16/01/2026 01:20
+744ac0b2-2e25-47cf-b2cc-a5ff82d7c7a0,analysis.ink,expiring,80,18,8,"Spaceship, Inc.",16/01/2025 01:20,16/01/2026 01:20
 c7cc33c4-2323-47d6-b393-d8ef5c362e9c,analysis.insure,available,80,18,8,,,
 effdf334-ad1f-4ba5-a06f-d4c8df4565cc,analysis.international,available,80,18,8,,,
 c485d05d-7a23-4b4f-8abb-681bfa5410ca,analysis.investments,premium,80,18,8,,,
@@ -342,7 +342,7 @@ d89bd214-c571-4c59-8cce-b3b331146c36,analysis.legal,available,80,18,8,,,
 8193e841-e575-409d-9800-976ee3518276,analysis.limited,available,80,18,8,,,
 b6bb954d-d302-4a49-953c-0cd3cd85d750,analysis.limo,available,80,18,8,,,
 cdac1dd6-1091-442b-a617-fcb29c365503,analysis.link,premium,80,18,8,,,
-03dc0526-76dc-4690-ace9-787cee01e999,analysis.live,resell,80,18,8,Dynadot Inc,15/06/2025 17:02,15/06/2026 17:02
+03dc0526-76dc-4690-ace9-787cee01e999,analysis.live,sold,80,18,8,Dynadot Inc,15/06/2025 17:02,15/06/2026 17:02
 76936bb5-e979-47ba-8c69-884fde944732,analysis.living,available,80,18,8,,,
 f836e4dc-6e1f-47cb-aa78-51e5c8029510,analysis.loans,available,80,18,8,,,
 ecb025d3-5668-405f-9ff4-9552a2152da8,analysis.locker,sold,80,18,8,"Dynadot, LLC",26/10/2025 22:41,26/10/2026 22:41
@@ -375,7 +375,7 @@ f9644ded-186a-4110-9a60-3411c56277c0,analysis.music,premium,80,18,8,,,
 97fc6fed-818d-4a3b-af02-461f948bd25b,analysis.my,premium,80,18,8,,,
 de448fc1-927c-4c0b-bab3-9eac97f34320,analysis.name,expiring,80,18,8,IONOS SE,05/01/2024 12:06,05/01/2026 12:06
 09e91d1a-1981-4aec-ae90-2885503b02f0,analysis.navy,available,80,18,8,,,
-7cdcbfab-ae22-428f-8c18-995e3cd0fc75,analysis.news,expiring,80,18,8,"NameCheap, Inc.",21/12/2024 21:44,21/12/2025 21:44
+7cdcbfab-ae22-428f-8c18-995e3cd0fc75,analysis.news,sold,80,18,8,"NameCheap, Inc.",21/12/2024 21:44,21/12/2026 21:44
 29634104-bff8-4977-8de4-63d4e8207074,analysis.nexus,premium,80,18,8,,,
 6bcdb14e-ad70-4da5-8f7a-3c12b5dab81d,analysis.ngo,available,80,18,8,,,
 6d2ac87e-369a-406b-bb16-13d3d1fdf280,analysis.now,resell,80,18,8,Dynadot Inc,08/07/2025 21:21,08/07/2026 21:21
@@ -485,7 +485,7 @@ e1cbdd2e-75fb-419a-8689-352d586965bd,analysis.tips,resell,80,18,8,"GoDaddy.com, 
 c5003bd2-1e90-4f80-a77e-112907169d94,analysis.town,available,80,18,8,,,
 1e5d3c3f-f5d6-4d34-972e-8f909811fc14,analysis.travel,available,80,18,8,,,
 40407e24-9a32-45d2-aa1d-44f9c36f6b6d,analysis.tube,premium,80,18,8,,,
-d5b9d9f9-de3b-4553-9d1b-fa3f9868d285,analysis.tv,resell,80,18,8,"GoDaddy.com, LLC",20/01/2006 03:58,20/01/2026 03:58
+d5b9d9f9-de3b-4553-9d1b-fa3f9868d285,analysis.tv,expiring,80,18,8,"GoDaddy.com, LLC",20/01/2006 03:58,20/01/2026 03:58
 e9f9b642-91d6-42ae-b5b0-2900b10acf4d,analysis.uk,resell,80,18,8,"GoDaddy.com, LLC.",18/06/2014 06:13,18/06/2026 06:13
 59313f85-c73e-42ff-a76d-4b5105e5b52a,analysis.university,available,80,18,8,,,
 550e8d73-4406-4850-886a-75e0922efc49,analysis.uno,premium,80,18,8,,,
