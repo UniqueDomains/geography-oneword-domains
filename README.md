@@ -1,22 +1,22 @@
-# Geography One-Word Domains (14,999)
+# Geography Keyword Domains (20,287)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-14%2C999%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C287%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of geography one-word domains from Unique Domains.
+These domains are a broad selection of geography keyword names spread across 505 TLDs, including examples like data.ryukyu, information.eco, and information.hamburg. Updated daily. The set includes 20,287 domains, with a median ask of 1,107.88.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **14,999 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **20,287 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 14,999 domains
+**Public extract:** 1,000 rows · **Live catalog:** 20,287 domains · **Median ask:** $1,107.88 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-04  
 **Canonical page:** `https://unique.domains/domains/sector/Geography`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------------ | --------- | ----------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| geography.zone     | available | $14.99      | $50.99        | 66             | 80     | 9      | name.com                                                  |
-| map.co             | resell    | $263,769.75 | $48.99        | 78             | 42     | 3      | GoDaddy.com, LLC                                          |
-| geography.tech     | premium   | $325        | $1,300        | 66             | 80     | 9      | namecheap                                                 |
-| geography.ninja    | available | $9.99       | $39.99        | 66             | 80     | 9      | name.com                                                  |
-| map.camera         | resell    | $72.98      | —             | 78             | 42     | 3      | Dynadot Inc                                               |
-| geography.store    | premium   | $156.25     | $625          | 66             | 80     | 9      | name.com                                                  |
-| geography.expert   | available | $11.99      | $79.99        | 66             | 80     | 9      | name.com                                                  |
-| geology.pro        | resell    | —           | —             | 70             | 84     | 7      | Registrar of Domain Names REG.RU LLC                      |
-| geography.space    | premium   | $812.50     | $3,250        | 66             | 80     | 9      | namecheap                                                 |
-| cartography.zone   | available | $51.98      | —             | 60             | 80     | 11     | namecheap                                                 |
-| geology.org        | resell    | —           | —             | 70             | 84     | 7      | GoDaddy.com, LLC                                          |
-| geography.site     | premium   | $312.50     | $1,250        | 66             | 80     | 9      | name.com                                                  |
-| cartography.ninja  | available | $42.98      | —             | 60             | 80     | 11     | namecheap                                                 |
-| geology.app        | resell    | —           | —             | 70             | 84     | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
-| geography.online   | premium   | $781.25     | $3,125        | 66             | 80     | 9      | name.com                                                  |
-| cartography.gg     | available | $82.98      | —             | 60             | 80     | 11     | namecheap                                                 |
-| geology.ai         | resell    | —           | —             | 70             | 84     | 7      | Deep Vision Architects                                    |
-| cartography.tech   | premium   | $156.25     | $625          | 60             | 80     | 11     | name.com                                                  |
-| cartography.expert | available | $82.48      | —             | 60             | 80     | 11     | namecheap                                                 |
-| terrain.pro        | resell    | —           | —             | 60             | 84     | 7      | OVH SAS                                                   |
+| domain            | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ----------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| mapping.so        | available | $68.98      | —             | 66             | 80     | 7      | namecheap                                                 |
+| map.co            | resell    | $263,769.75 | $48.99        | 78             | 42     | 3      | GoDaddy.com, LLC                                          |
+| mapping.store     | premium   | $781.25     | $3,125        | 66             | 80     | 7      | name.com                                                  |
+| mapping.gg        | available | $82.98      | —             | 66             | 80     | 7      | namecheap                                                 |
+| map.camera        | resell    | $72.98      | —             | 78             | 42     | 3      | Dynadot Inc                                               |
+| mapping.dev       | premium   | $411.25     | $411.25       | 66             | 80     | 7      | name.com                                                  |
+| geography.zone    | available | $14.99      | $50.99        | 66             | 80     | 9      | name.com                                                  |
+| geology.pro       | resell    | —           | —             | 70             | 84     | 7      | Registrar of Domain Names REG.RU LLC                      |
+| geography.tech    | premium   | $325        | $1,300        | 66             | 80     | 9      | namecheap                                                 |
+| geography.ninja   | available | $9.99       | $39.99        | 66             | 80     | 9      | name.com                                                  |
+| geology.org       | resell    | —           | —             | 70             | 84     | 7      | GoDaddy.com, LLC                                          |
+| geography.store   | premium   | $156.25     | $625          | 66             | 80     | 9      | name.com                                                  |
+| geography.expert  | available | $11.99      | $79.99        | 66             | 80     | 9      | name.com                                                  |
+| geology.app       | resell    | —           | —             | 70             | 84     | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
+| geography.space   | premium   | $812.50     | $3,250        | 66             | 80     | 9      | namecheap                                                 |
+| cartography.zone  | available | $51.98      | —             | 60             | 80     | 11     | namecheap                                                 |
+| geology.ai        | resell    | —           | —             | 70             | 84     | 7      | Deep Vision Architects                                    |
+| geography.site    | premium   | $312.50     | $1,250        | 66             | 80     | 9      | name.com                                                  |
+| cartography.ninja | available | $42.98      | —             | 60             | 80     | 11     | namecheap                                                 |
+| terrain.pro       | resell    | —           | —             | 60             | 84     | 7      | OVH SAS                                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 14,999 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 20,287 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection focuses on domains tied to the keyword geography, with broad variation in extension, use case, and buyer fit. The sample includes combinations such as data.ryukyu, relief.ryukyu, information.eco, information.hamburg, and information.new, which shows a mix of topical terms and niche or geo-linked TLDs. When comparing these domains, start with extension relevance, then weigh asking price against memorability and commercial clarity. For founders, shorter and clearer combinations usually make a faster shortlist. For investors, pricing discipline matters more when the keyword is broad and spread across many TLDs.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- 20,287 geography keyword domains in this selection
+- 505 TLDs create wide variation in fit and renewal
+- Median ask is 1,107.88 across the set
+- Check keyword clarity, TLD relevance, and pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Geography One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Geography Keyword Domains*. Version 2026-05-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
