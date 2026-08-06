@@ -1,29 +1,29 @@
-# Geography Keyword Domains (20,345)
+# One-Word Geography Domain Names Across 506 TLDs (140,061)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C345%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-140%2C061%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-These domains are a broad selection of geography keyword names spread across 505 TLDs, including examples like data.ryukyu, information.eco, and information.hamburg. Updated daily. The set includes 20,287 domains, with a median ask of 1,107.88.
+This selection includes 139,727 one-word geography domain names across 506 TLDs, with a median ask of $708. Updated daily, it covers a wide range of extensions and price points for comparing brandability, renewal cost, and fit before choosing a name.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **20,345 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **140,061 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 20,345 domains · **Median ask:** $1,114.67 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 140,061 domains · **Median ask:** $686.04 · **High-demand under $2,500:** 568
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/sector/Geography`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/sector/geography`
 **Best for:** founders, investors, studios
 
 ---
 
 <p align="center">
-  <a href="https://unique.domains/domains/sector/Geography?utm_source=github&utm_medium=referral&utm_campaign=repo_geography_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
+  <a href="https://unique.domains/domains/sector/geography?utm_source=github&utm_medium=referral&utm_campaign=repo_geography_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./geography.csv">CSV</a> / <a href="./geography.json">JSON</a>
   · <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_geography_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_geography_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
@@ -31,25 +31,25 @@ These domains are a broad selection of geography keyword names spread across 505
 
 ---
 
-➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/sector/Geography?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_geography_oneword_domains&utm_content=top_create_radar)  
-➡️ **Founders:** [Start a Project from this exact search](https://unique.domains/domains/sector/Geography?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_geography_oneword_domains&utm_content=top_start_project)  
+➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/sector/geography?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_geography_oneword_domains&utm_content=top_create_radar)  
+➡️ **Founders:** [Start a Project from this exact search](https://unique.domains/domains/sector/geography?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_geography_oneword_domains&utm_content=top_start_project)  
 ➡️ **Builders:** [Connect to our API](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_geography_oneword_domains&utm_content=top_api_docs)
 
 ---
 
 ## 📦 What this repository contains
 
-This repository is the public extract for the exact Unique Domains search represented by `https://unique.domains/domains/sector/Geography`.
+This repository is the public extract for the exact Unique Domains search represented by `https://unique.domains/domains/sector/geography`.
 
 ### Files
 
-- `geography.csv` — public CSV extract (1,000 rows)
-- `geography.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `geography.csv`, public CSV extract (1,000 rows)
+- `geography.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ----------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| science.fan       | premium   | —           | —             | 88             | 44     | 7      | —                                                         |
-| mapping.so        | available | $68.98      | —             | 66             | 80     | 7      | namecheap                                                 |
-| map.enterprises   | resell    | $47.98      | —             | 78             | 43     | 3      | Sav.com, LLC                                              |
-| mapping.store     | premium   | $781.25     | $3,125        | 66             | 80     | 7      | name.com                                                  |
-| mapping.gg        | available | $82.98      | —             | 66             | 80     | 7      | namecheap                                                 |
-| map.co            | resell    | $263,769.75 | $48.99        | 78             | 43     | 3      | GoDaddy.com, LLC                                          |
-| mapping.dev       | premium   | $411.25     | $411.25       | 66             | 80     | 7      | name.com                                                  |
-| geography.zone    | available | $14.99      | $50.99        | 66             | 80     | 9      | name.com                                                  |
-| map.camera        | resell    | $72.98      | —             | 78             | 43     | 3      | Dynadot Inc                                               |
-| geography.tech    | premium   | $325        | $1,300        | 66             | 80     | 9      | namecheap                                                 |
-| geography.ninja   | available | $9.99       | $39.99        | 66             | 80     | 9      | name.com                                                  |
-| geology.pro       | resell    | —           | —             | 70             | 84     | 7      | Registrar of Domain Names REG.RU LLC                      |
-| geography.store   | premium   | $156.25     | $625          | 66             | 80     | 9      | name.com                                                  |
-| geography.expert  | available | $11.99      | $79.99        | 66             | 80     | 9      | name.com                                                  |
-| geology.org       | resell    | —           | —             | 70             | 84     | 7      | GoDaddy.com, LLC                                          |
-| geography.space   | premium   | $812.50     | $3,250        | 66             | 80     | 9      | namecheap                                                 |
-| cartography.zone  | available | $51.98      | —             | 60             | 80     | 11     | namecheap                                                 |
-| geology.app       | resell    | —           | —             | 70             | 84     | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
-| geography.site    | premium   | $312.50     | $1,250        | 66             | 80     | 9      | name.com                                                  |
-| cartography.ninja | available | $42.98      | —             | 60             | 80     | 11     | namecheap                                                 |
+| domain          | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar         |
+| --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| travel.sh       | resell    | —          | —             | high           | medium | 6      | GoDaddy.com, LLC  |
+| map.organic     | available | $19.99     | —             | high           | medium | 3      | name.com          |
+| area.zone       | resell    | —          | —             | high           | low    | 4      | DNSPod, Inc.      |
+| map.green       | premium   | $650       | $650          | high           | medium | 3      | namecheap         |
+| area.organic    | available | $19.99     | —             | high           | low    | 4      | name.com          |
+| city.farm       | resell    | —          | —             | high           | medium | 4      | Porkbun LLC       |
+| map.space       | premium   | $1,625     | $6,500        | high           | medium | 3      | namecheap         |
+| area.ryukyu     | available | $22.98     | —             | high           | low    | 4      | namecheap         |
+| data.city       | resell    | —          | —             | medium         | medium | 4      | Spaceship, Inc.   |
+| sea.poker       | premium   | $22,372.84 | —             | medium         | low    | 3      | Dynadot Inc       |
+| data.republican | available | $5.98      | $43.98        | medium         | medium | 4      | namecheap         |
+| data.computer   | resell    | —          | —             | medium         | medium | 4      | Dynadot Inc       |
+| sea.quest       | premium   | $11,712.34 | —             | medium         | low    | 3      | InterNetX GmbH    |
+| land.ryukyu     | available | $22.98     | —             | medium         | low    | 4      | namecheap         |
+| data.forsale    | resell    | —          | —             | medium         | medium | 4      | Porkbun LLC       |
+| area.green      | premium   | $625       | —             | high           | low    | 4      | name.com          |
+| line.paris      | available | $51.98     | —             | high           | medium | 4      | namecheap         |
+| data.golf       | resell    | —          | —             | medium         | medium | 4      | Sav.com, LLC - 34 |
+| city.shop       | premium   | $12,500    | —             | high           | medium | 4      | name.com          |
+| maps.apartments | available | $19.99     | $83.99        | medium         | low    | 4      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,39 +93,39 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 20,345 live domains                        |
+| 1,000-row public sample | 140,061 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 568 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
-[Create Radar](https://unique.domains/domains/sector/Geography?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_geography_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/sector/Geography?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_geography_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_geography_oneword_domains&utm_content=related_pricing)
+[Create Radar](https://unique.domains/domains/sector/geography?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_geography_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/sector/geography?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_geography_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_geography_oneword_domains&utm_content=related_pricing)
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection focuses on domains tied to the keyword geography, with broad variation in extension, use case, and buyer fit. The sample includes combinations such as data.ryukyu, relief.ryukyu, information.eco, information.hamburg, and information.new, which shows a mix of topical terms and niche or geo-linked TLDs. When comparing these domains, start with extension relevance, then weigh asking price against memorability and commercial clarity. For founders, shorter and clearer combinations usually make a faster shortlist. For investors, pricing discipline matters more when the keyword is broad and spread across many TLDs.
+This is a large, diverse set of one-word domain names built around the geography theme, spanning 506 different TLD extensions with a median asking price of $708. Some names lean toward mainstream extensions with broader recognition, while others sit on niche TLDs that trade at a discount. When comparing these domains, look at total cost of ownership — asking price plus renewal — alongside spelling simplicity and how well the name fits a geography-related brand or portfolio.
 
-- 20,287 geography keyword domains in this selection
-- 505 TLDs create wide variation in fit and renewal
-- Median ask is 1,107.88 across the set
-- Check keyword clarity, TLD relevance, and pricing
+- 139,727 one-word geography domains across 506 TLDs
+- Median ask of $708 — compare pricing before you commit
+- Wide TLD coverage spans niche and mainstream extensions
+- Compare renewal cost and brandability before you decide
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,14 +142,14 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Geography Keyword Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Geography Domain Names Across 506 TLDs*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 
 ## 🔗 Related links
 
-- [Live search](https://unique.domains/domains/sector/Geography?utm_source=github&utm_medium=referral&utm_campaign=repo_geography_oneword_domains&utm_content=top_open_search)
+- [Live search](https://unique.domains/domains/sector/geography?utm_source=github&utm_medium=referral&utm_campaign=repo_geography_oneword_domains&utm_content=top_open_search)
 - [Technology and scoring](https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_geography_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_geography_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_geography_oneword_domains&utm_content=top_api_docs)
