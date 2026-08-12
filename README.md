@@ -1,10 +1,10 @@
-# One-Word Geography Domain Names Across 506 TLDs (140,801)
+# One-Word Geography Domain Names Across 506 TLDs (142,030)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-140%2C801%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-142%2C030%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 139,727 one-word geography domain names across 506 TLDs, with a median ask of $708. Updated daily, it covers a wide range of extensions and price points for comparing brandability, renewal cost, and fit before choosing a name.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **140,801 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **142,030 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 140,801 domains · **Median ask:** $669.85 · **High-demand under $2,500:** 568
+**Public extract:** 1,000 rows · **Live catalog:** 142,030 domains · **Median ask:** $664.61 · **High-demand under $2,500:** 568
 
 **Last updated:** 2026-08-11
 **Canonical page:** `https://unique.domains/domains/sector/geography`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar            |
-| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| travel.sh        | resell    | —          | —             | high           | medium | 6      | GoDaddy.com, LLC     |
-| map.organic      | available | $19.99     | —             | high           | medium | 3      | name.com             |
-| water.info       | resell    | $5,750     | $35.99        | high           | medium | 5      | GoDaddy.com, LLC     |
-| map.green        | premium   | $650       | $650          | high           | medium | 3      | namecheap            |
-| area.organic     | available | $19.99     | —             | high           | low    | 4      | name.com             |
-| analysis.io      | resell    | $71,472.50 | $59.99        | high           | low    | 8      | Sav.com, LLC         |
-| map.site         | premium   | $1,562.50  | $6,250        | high           | medium | 3      | name.com             |
-| area.ryukyu      | available | $22.98     | —             | high           | low    | 4      | namecheap            |
-| environmental.io | resell    | $45,994.25 | $73.99        | high           | low    | 13     | GoDaddy.com, LLC     |
-| map.space        | premium   | $1,625     | $6,500        | high           | medium | 3      | namecheap            |
-| data.ryukyu      | available | $22.98     | —             | high           | medium | 4      | namecheap            |
-| map.io           | resell    | —          | —             | high           | medium | 3      | Atom.com Domains LLC |
-| sea.green        | premium   | $3,125     | —             | high           | low    | 3      | name.com             |
-| line.paris       | available | $51.98     | —             | high           | medium | 4      | namecheap            |
-| sea.organic      | resell    | —          | —             | high           | low    | 3      | Sav.com, LLC - 8     |
-| area.eco         | premium   | $4,375     | —             | high           | low    | 4      | name.com             |
-| maps.movie       | available | $40.98     | $446.98       | medium         | low    | 4      | namecheap            |
-| area.zone        | resell    | —          | —             | high           | low    | 4      | DNSPod, Inc.         |
-| area.green       | premium   | $625       | —             | high           | low    | 4      | name.com             |
-| maps.rentals     | available | $6.98      | $56.98        | medium         | low    | 4      | namecheap            |
+| domain          | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar         |
+| --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| travel.sh       | resell    | —          | —             | high           | medium | 6      | GoDaddy.com, LLC  |
+| data.republican | available | $5.98      | $43.98        | medium         | medium | 4      | namecheap         |
+| area.zone       | resell    | —          | —             | high           | low    | 4      | DNSPod, Inc.      |
+| sea.poker       | premium   | $22,372.84 | —             | medium         | low    | 3      | Dynadot Inc       |
+| hill.ryukyu     | available | $22.98     | —             | medium         | low    | 4      | namecheap         |
+| data.city       | resell    | —          | —             | medium         | medium | 4      | Spaceship, Inc.   |
+| sea.quest       | premium   | $11,712.34 | —             | medium         | low    | 3      | InterNetX GmbH    |
+| land.ryukyu     | available | $22.98     | —             | medium         | low    | 4      | namecheap         |
+| data.computer   | resell    | —          | —             | medium         | medium | 4      | Dynadot Inc       |
+| city.shop       | premium   | $12,500    | —             | high           | medium | 4      | name.com          |
+| maps.apartments | available | $19.99     | $83.99        | medium         | low    | 4      | name.com          |
+| data.golf       | resell    | —          | —             | medium         | medium | 4      | Sav.com, LLC - 34 |
+| data.press      | premium   | $937.50    | $1,875        | medium         | medium | 4      | name.com          |
+| maps.auction    | available | $4.99      | $52.99        | medium         | low    | 4      | name.com          |
+| data.marketing  | resell    | —          | —             | high           | medium | 4      | Porkbun LLC       |
+| maps.art        | premium   | $3,450     | $83.30        | medium         | low    | 4      | namesilo          |
+| maps.bz         | available | $21.98     | $26.98        | medium         | low    | 4      | namecheap         |
+| data.zone       | resell    | —          | —             | high           | medium | 4      | Porkbun LLC       |
+| maps.bar        | premium   | $1,968.75  | $2,812.50     | medium         | low    | 4      | name.com          |
+| maps.cars       | available | $2,070     | $2,950        | medium         | low    | 4      | namecheap         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 140,801 live domains                       |
+| 1,000-row public sample | 142,030 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 568 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
