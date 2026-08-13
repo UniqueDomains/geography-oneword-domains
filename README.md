@@ -1,10 +1,10 @@
-# One-Word Geography Domain Names Across 506 TLDs (142,030)
+# One-Word Geography Domain Names Across 506 TLDs (144,434)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-142%2C030%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-144%2C434%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 139,727 one-word geography domain names across 506 TLDs, with a median ask of $708. Updated daily, it covers a wide range of extensions and price points for comparing brandability, renewal cost, and fit before choosing a name.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **142,030 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **144,434 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 142,030 domains · **Median ask:** $664.61 · **High-demand under $2,500:** 568
+**Public extract:** 1,000 rows · **Live catalog:** 144,434 domains · **Median ask:** $654.49 · **High-demand under $2,500:** 568
 
-**Last updated:** 2026-08-11
+**Last updated:** 2026-08-13
 **Canonical page:** `https://unique.domains/domains/sector/geography`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar         |
-| --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| travel.sh       | resell    | —          | —             | high           | medium | 6      | GoDaddy.com, LLC  |
-| data.republican | available | $5.98      | $43.98        | medium         | medium | 4      | namecheap         |
-| area.zone       | resell    | —          | —             | high           | low    | 4      | DNSPod, Inc.      |
-| sea.poker       | premium   | $22,372.84 | —             | medium         | low    | 3      | Dynadot Inc       |
-| hill.ryukyu     | available | $22.98     | —             | medium         | low    | 4      | namecheap         |
-| data.city       | resell    | —          | —             | medium         | medium | 4      | Spaceship, Inc.   |
-| sea.quest       | premium   | $11,712.34 | —             | medium         | low    | 3      | InterNetX GmbH    |
-| land.ryukyu     | available | $22.98     | —             | medium         | low    | 4      | namecheap         |
-| data.computer   | resell    | —          | —             | medium         | medium | 4      | Dynadot Inc       |
-| city.shop       | premium   | $12,500    | —             | high           | medium | 4      | name.com          |
-| maps.apartments | available | $19.99     | $83.99        | medium         | low    | 4      | name.com          |
-| data.golf       | resell    | —          | —             | medium         | medium | 4      | Sav.com, LLC - 34 |
-| data.press      | premium   | $937.50    | $1,875        | medium         | medium | 4      | name.com          |
-| maps.auction    | available | $4.99      | $52.99        | medium         | low    | 4      | name.com          |
-| data.marketing  | resell    | —          | —             | high           | medium | 4      | Porkbun LLC       |
-| maps.art        | premium   | $3,450     | $83.30        | medium         | low    | 4      | namesilo          |
-| maps.bz         | available | $21.98     | $26.98        | medium         | low    | 4      | namecheap         |
-| data.zone       | resell    | —          | —             | high           | medium | 4      | Porkbun LLC       |
-| maps.bar        | premium   | $1,968.75  | $2,812.50     | medium         | low    | 4      | name.com          |
-| maps.cars       | available | $2,070     | $2,950        | medium         | low    | 4      | namecheap         |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| hill.ryukyu     | available | $22.98    | —             | medium         | low    | 4      | namecheap           |
+| city.apartments | resell    | —         | —             | high           | medium | 4      | Porkbun LLC         |
+| maps.accountant | premium   | $625      | $81.25        | medium         | low    | 4      | name.com            |
+| maps.actor      | available | $11.98    | $54.98        | medium         | low    | 4      | namecheap           |
+| data.tools      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC         |
+| maps.bayern     | premium   | $290.24   | $50.99        | medium         | low    | 4      | name.com            |
+| maps.associates | available | $12.98    | $49.98        | medium         | low    | 4      | namecheap           |
+| data.zone       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC         |
+| maps.channel    | premium   | $623.75   | $623.75       | medium         | low    | 4      | name.com            |
+| maps.bargains   | available | $14.98    | $37.98        | medium         | low    | 4      | namecheap           |
+| edge.coach      | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 13   |
+| maps.club       | premium   | $960      | $17.70        | medium         | low    | 4      | namesilo            |
+| maps.berlin     | available | $79.98    | $89.98        | medium         | low    | 4      | namecheap           |
+| line.archi      | resell    | —         | —             | high           | medium | 4      | Tucows Domains Inc. |
+| maps.college    | premium   | $625      | $625          | medium         | low    | 4      | name.com            |
+| maps.boutique   | available | $2.48     | $41.98        | medium         | low    | 4      | namecheap           |
+| maps.ac         | resell    | —         | —             | medium         | low    | 4      | Zhuimi Inc          |
+| maps.consulting | premium   | $280      | $560          | medium         | low    | 4      | namecheap           |
+| maps.broker     | available | $11.98    | $47.98        | medium         | low    | 4      | namecheap           |
+| maps.asia       | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 142,030 live domains                       |
+| 1,000-row public sample | 144,434 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 568 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Geography Domain Names Across 506 TLDs*. Version 2026-08-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Geography Domain Names Across 506 TLDs*. Version 2026-08-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
