@@ -1,10 +1,10 @@
-# One-Word Geography Domain Names Across 506 TLDs (144,434)
+# One-Word Geography Domain Names Across 506 TLDs (145,651)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-144%2C434%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-145%2C651%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 139,727 one-word geography domain names across 506 TLDs, with a median ask of $708. Updated daily, it covers a wide range of extensions and price points for comparing brandability, renewal cost, and fit before choosing a name.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **144,434 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **145,651 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 144,434 domains · **Median ask:** $654.49 · **High-demand under $2,500:** 568
+**Public extract:** 1,000 rows · **Live catalog:** 145,651 domains · **Median ask:** $649.79 · **High-demand under $2,500:** 568
 
 **Last updated:** 2026-08-13
 **Canonical page:** `https://unique.domains/domains/sector/geography`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| hill.ryukyu     | available | $22.98    | —             | medium         | low    | 4      | namecheap           |
-| city.apartments | resell    | —         | —             | high           | medium | 4      | Porkbun LLC         |
-| maps.accountant | premium   | $625      | $81.25        | medium         | low    | 4      | name.com            |
-| maps.actor      | available | $11.98    | $54.98        | medium         | low    | 4      | namecheap           |
-| data.tools      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC         |
-| maps.bayern     | premium   | $290.24   | $50.99        | medium         | low    | 4      | name.com            |
-| maps.associates | available | $12.98    | $49.98        | medium         | low    | 4      | namecheap           |
-| data.zone       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC         |
-| maps.channel    | premium   | $623.75   | $623.75       | medium         | low    | 4      | name.com            |
-| maps.bargains   | available | $14.98    | $37.98        | medium         | low    | 4      | namecheap           |
-| edge.coach      | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 13   |
-| maps.club       | premium   | $960      | $17.70        | medium         | low    | 4      | namesilo            |
-| maps.berlin     | available | $79.98    | $89.98        | medium         | low    | 4      | namecheap           |
-| line.archi      | resell    | —         | —             | high           | medium | 4      | Tucows Domains Inc. |
-| maps.college    | premium   | $625      | $625          | medium         | low    | 4      | name.com            |
-| maps.boutique   | available | $2.48     | $41.98        | medium         | low    | 4      | namecheap           |
-| maps.ac         | resell    | —         | —             | medium         | low    | 4      | Zhuimi Inc          |
-| maps.consulting | premium   | $280      | $560          | medium         | low    | 4      | namecheap           |
-| maps.broker     | available | $11.98    | $47.98        | medium         | low    | 4      | namecheap           |
-| maps.asia       | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc         |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| hill.ryukyu     | available | $22.98    | —             | medium         | low    | 4      | namecheap   |
+| city.apartments | resell    | —         | —             | high           | medium | 4      | Porkbun LLC |
+| maps.bayern     | premium   | $290.24   | $50.99        | medium         | low    | 4      | name.com    |
+| maps.actor      | available | $11.98    | $54.98        | medium         | low    | 4      | namecheap   |
+| data.tools      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC |
+| maps.channel    | premium   | $623.75   | $623.75       | medium         | low    | 4      | name.com    |
+| maps.bargains   | available | $14.98    | $37.98        | medium         | low    | 4      | namecheap   |
+| data.zone       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC |
+| maps.club       | premium   | $960      | $17.70        | medium         | low    | 4      | namesilo    |
+| maps.boutique   | available | $2.48     | $41.98        | medium         | low    | 4      | namecheap   |
+| maps.ac         | resell    | —         | —             | medium         | low    | 4      | Zhuimi Inc  |
+| maps.college    | premium   | $625      | $625          | medium         | low    | 4      | name.com    |
+| maps.broker     | available | $11.98    | $47.98        | medium         | low    | 4      | namecheap   |
+| maps.asia       | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc |
+| maps.consulting | premium   | $280      | $560          | medium         | low    | 4      | namecheap   |
+| maps.car        | available | $2,070    | $2,400        | medium         | low    | 4      | namecheap   |
+| maps.bot        | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC |
+| maps.courses    | premium   | $625      | $625          | medium         | low    | 4      | name.com    |
+| maps.claims     | available | $11.98    | $82.98        | medium         | low    | 4      | namecheap   |
+| maps.cool       | resell    | —         | —             | medium         | low    | 4      | Epik LLC    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 144,434 live domains                       |
+| 1,000-row public sample | 145,651 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 568 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
