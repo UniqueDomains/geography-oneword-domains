@@ -16,7 +16,7 @@ This selection includes 139,727 one-word geography domain names across 506 TLDs,
 
 **Public extract:** 1,000 rows · **Live catalog:** 146,859 domains · **Median ask:** $644.81 · **High-demand under $2,500:** 568
 
-**Last updated:** 2026-08-16
+**Last updated:** 2026-08-17
 **Canonical page:** `https://unique.domains/domains/sector/geography`
 **Best for:** founders, investors, studios
 
@@ -77,13 +77,13 @@ print(df.head())
 | data.ryukyu      | available | $22.98     | —             | high           | medium | 4      | namecheap            |
 | map.io           | resell    | —          | —             | high           | medium | 3      | Atom.com Domains LLC |
 | sea.green        | premium   | $3,125     | —             | high           | low    | 3      | name.com             |
+| line.country     | available | $2,450     | —             | high           | medium | 4      | namecheap            |
+| sea.organic      | resell    | —          | —             | high           | low    | 3      | Sav.com, LLC - 8     |
+| area.eco         | premium   | $4,375     | —             | high           | low    | 4      | name.com             |
 | line.paris       | available | $51.98     | —             | high           | medium | 4      | namecheap            |
 | area.zone        | resell    | —          | —             | high           | low    | 4      | DNSPod, Inc.         |
-| area.eco         | premium   | $4,375     | —             | high           | low    | 4      | name.com             |
-| maps.computer    | available | $17.48     | $48.98        | medium         | low    | 4      | namecheap            |
-| city.farm        | resell    | —          | —             | high           | medium | 4      | Porkbun LLC          |
 | area.green       | premium   | $625       | —             | high           | low    | 4      | name.com             |
-| maps.dentist     | available | $63.98     | $81.98        | medium         | low    | 4      | namecheap            |
+| soil.bayern      | available | $47.99     | $50.99        | high           | low    | 4      | name.com             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Geography Domain Names Across 506 TLDs*. Version 2026-08-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Geography Domain Names Across 506 TLDs*. Version 2026-08-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
