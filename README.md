@@ -16,7 +16,7 @@ This selection includes 139,727 one-word geography domain names across 506 TLDs,
 
 **Public extract:** 1,000 rows · **Live catalog:** 154,827 domains · **Median ask:** $635.74 · **High-demand under $2,500:** 599
 
-**Last updated:** 2026-08-22
+**Last updated:** 2026-08-24
 **Canonical page:** `https://unique.domains/domains/sector/geography`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar            |
-| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| travel.sh        | resell    | —          | —             | high           | medium | 6      | GoDaddy.com, LLC     |
-| map.organic      | available | $19.99     | —             | high           | medium | 3      | name.com             |
-| water.info       | resell    | $5,750     | $35.99        | high           | medium | 5      | GoDaddy.com, LLC     |
-| map.green        | premium   | $650       | $650          | high           | medium | 3      | namecheap            |
-| area.organic     | available | $19.99     | —             | high           | low    | 4      | name.com             |
-| analysis.io      | resell    | $71,472.50 | $59.99        | high           | low    | 8      | Sav.com, LLC         |
-| map.site         | premium   | $1,562.50  | $6,250        | high           | medium | 3      | name.com             |
-| data.ryukyu      | available | $22.98     | —             | high           | medium | 4      | namecheap            |
-| environmental.io | resell    | $45,994.25 | $73.99        | high           | low    | 13     | GoDaddy.com, LLC     |
-| map.space        | premium   | $1,625     | $6,500        | high           | medium | 3      | namecheap            |
-| line.country     | available | $2,450     | —             | high           | medium | 4      | namecheap            |
-| map.io           | resell    | —          | —             | high           | medium | 3      | Atom.com Domains LLC |
-| sea.green        | premium   | $3,125     | —             | high           | low    | 3      | name.com             |
-| soil.bayern      | available | $47.99     | $50.99        | high           | low    | 4      | name.com             |
-| sea.organic      | resell    | —          | —             | high           | low    | 3      | Sav.com, LLC - 8     |
-| area.eco         | premium   | $4,375     | —             | high           | low    | 4      | name.com             |
-| soil.berlin      | available | $89.98     | —             | high           | low    | 4      | namecheap            |
-| area.zone        | resell    | —          | —             | high           | low    | 4      | DNSPod, Inc.         |
-| area.green       | premium   | $625       | —             | high           | low    | 4      | name.com             |
-| soil.city        | available | $7.99      | $41.99        | high           | low    | 4      | name.com             |
+| domain          | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar         |
+| --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| travel.sh       | resell    | —          | —             | high           | medium | 6      | GoDaddy.com, LLC  |
+| area.ryukyu     | available | $22.98     | —             | high           | low    | 4      | namecheap         |
+| area.zone       | resell    | —          | —             | high           | low    | 4      | DNSPod, Inc.      |
+| map.green       | premium   | $650       | $650          | high           | medium | 3      | namecheap         |
+| data.republican | available | $5.98      | $43.98        | medium         | medium | 4      | namecheap         |
+| city.farm       | resell    | —          | —             | high           | medium | 4      | Porkbun LLC       |
+| map.space       | premium   | $1,625     | $6,500        | high           | medium | 3      | namecheap         |
+| land.ryukyu     | available | $22.98     | —             | medium         | low    | 4      | namecheap         |
+| data.city       | resell    | —          | —             | medium         | medium | 4      | Spaceship, Inc.   |
+| sea.poker       | premium   | $22,372.84 | —             | medium         | low    | 3      | Dynadot Inc       |
+| line.paris      | available | $51.98     | —             | high           | medium | 4      | namecheap         |
+| data.computer   | resell    | —          | —             | medium         | medium | 4      | Dynadot Inc       |
+| sea.quest       | premium   | $11,712.34 | —             | medium         | low    | 3      | InterNetX GmbH    |
+| maps.apartments | available | $19.99     | $83.99        | medium         | low    | 4      | name.com          |
+| data.golf       | resell    | —          | —             | medium         | medium | 4      | Sav.com, LLC - 34 |
+| area.green      | premium   | $625       | —             | high           | low    | 4      | name.com          |
+| maps.auction    | available | $4.99      | $52.99        | medium         | low    | 4      | name.com          |
+| data.marketing  | resell    | —          | —             | high           | medium | 4      | Porkbun LLC       |
+| city.shop       | premium   | $12,500    | —             | high           | medium | 4      | name.com          |
+| maps.bingo      | available | $14.99     | $77.99        | medium         | low    | 4      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Geography Domain Names Across 506 TLDs*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Geography Domain Names Across 506 TLDs*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
