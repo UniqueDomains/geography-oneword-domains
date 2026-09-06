@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar            |
-| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| travel.sh        | resell    | —          | —             | high           | medium | 6      | GoDaddy.com, LLC     |
-| map.organic      | available | $19.99     | —             | high           | medium | 3      | name.com             |
-| analysis.io      | resell    | $71,472.50 | $59.99        | high           | low    | 8      | Sav.com, LLC         |
-| map.green        | premium   | $650       | $650          | high           | medium | 3      | namecheap            |
-| area.organic     | available | $19.99     | —             | high           | low    | 4      | name.com             |
-| environmental.io | resell    | $45,994.25 | $73.99        | high           | low    | 13     | GoDaddy.com, LLC     |
-| map.site         | premium   | $1,562.50  | $6,250        | high           | medium | 3      | name.com             |
-| data.ryukyu      | available | $22.98     | —             | high           | medium | 4      | namecheap            |
-| map.io           | resell    | —          | —             | high           | medium | 3      | Atom.com Domains LLC |
-| map.space        | premium   | $1,625     | $6,500        | high           | medium | 3      | namecheap            |
-| line.country     | available | $2,450     | —             | high           | medium | 4      | namecheap            |
-| sea.organic      | resell    | —          | —             | high           | low    | 3      | Sav.com, LLC - 8     |
-| sea.green        | premium   | $3,125     | —             | high           | low    | 3      | name.com             |
-| soil.bayern      | available | $47.99     | $50.99        | high           | low    | 4      | name.com             |
-| area.zone        | resell    | —          | —             | high           | low    | 4      | DNSPod, Inc.         |
-| area.eco         | premium   | $4,375     | —             | high           | low    | 4      | name.com             |
-| soil.berlin      | available | $89.98     | —             | high           | low    | 4      | namecheap            |
-| hill.green       | resell    | —          | —             | medium         | low    | 4      | DNSPod, Inc.         |
-| area.green       | premium   | $625       | —             | high           | low    | 4      | name.com             |
-| soil.city        | available | $7.99      | $41.99        | high           | low    | 4      | name.com             |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| hill.ryukyu     | available | $22.98    | —             | medium         | low    | 4      | namecheap                                    |
+| city.apartments | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                  |
+| maps.bayern     | premium   | $290.24   | $50.99        | medium         | low    | 4      | name.com                                     |
+| maps.bargains   | available | $14.98    | $37.98        | medium         | low    | 4      | namecheap                                    |
+| data.tools      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                  |
+| maps.channel    | premium   | $623.75   | $623.75       | medium         | low    | 4      | name.com                                     |
+| maps.berlin     | available | $79.98    | $89.98        | medium         | low    | 4      | namecheap                                    |
+| maps.asia       | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc                                  |
+| maps.club       | premium   | $960      | $17.70        | medium         | low    | 4      | namesilo                                     |
+| maps.boutique   | available | $2.48     | $41.98        | medium         | low    | 4      | namecheap                                    |
+| maps.bot        | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC                                  |
+| maps.college    | premium   | $625      | $625          | medium         | low    | 4      | name.com                                     |
+| maps.broker     | available | $11.98    | $47.98        | medium         | low    | 4      | namecheap                                    |
+| maps.id         | resell    | —         | —             | medium         | low    | 4      | PT Cloud Hosting Indonesia                   |
+| maps.courses    | premium   | $625      | $625          | medium         | low    | 4      | name.com                                     |
+| maps.car        | available | $2,070    | $2,400        | medium         | low    | 4      | namecheap                                    |
+| maps.ltd        | resell    | —         | —             | medium         | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| maps.cyou       | premium   | $384      | $768          | medium         | low    | 4      | namesilo                                     |
+| maps.clinic     | available | $11.98    | $82.98        | medium         | low    | 4      | namecheap                                    |
+| maps.town       | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
