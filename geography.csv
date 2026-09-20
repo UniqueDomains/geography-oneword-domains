@@ -1,45 +1,546 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
+0700484f-c9d1-499c-b857-5566f2e1e3bc,territory.id,available,17.99,20.75,high,low,9,namesilo,,,
 b6f4549c-cfb3-4036-b6e6-2af4f49aa57e,geography.zone,available,14.99,50.99,medium,high,9,name.com,,,
+e788fe1c-7acb-472d-8a03-d78f29c38e08,location.shop,premium,3125,,high,low,8,name.com,,,
 4a60e91b-9ef6-4d7e-a9ce-5542ee9361bf,geography.space,premium,812.5,3250,medium,high,9,namecheap,,,
+3444c536-1790-4e1c-bf61-0858d4bf6d48,maps.asia,resell,,,medium,low,4,Dynadot Inc,10/05/2010 02:35,10/05/2027 02:35,
+425068ef-3d27-4ed5-8230-81b5622c4952,continent.country,available,2298,2450,medium,low,9,namecheap,,,11/08/2026 23:26
+59273938-3cd5-4971-b6ae-c449202afe3b,location.ryukyu,available,22.98,,high,low,8,namecheap,,,
+07682ae7-3667-48fc-98a4-6396ea1f0ea9,maps.motorcycles,premium,812.5,20.99,medium,low,4,name.com,,,
+b96f9386-20b4-427c-a8ad-2d8061617722,maps.condos,available,58.99,58.99,medium,low,4,namesilo,,,
+98349775-1d96-4033-b7b4-773275d26fa6,maps.makeup,premium,812.5,20.99,medium,low,4,name.com,,,
+306dfc82-51b6-42d2-acdd-8931e0133008,land.ryukyu,available,22.98,,medium,low,4,namecheap,,,
+80b18934-ed04-404a-a799-1401f09c597b,maps.ac,resell,,,medium,low,4,Zhuimi Inc,01/05/2022 13:15,01/05/2027 13:15,
+267c3f99-b20e-43e9-bdc8-d1cbccb13bec,maps.game,premium,1625,1625,medium,low,4,name.com,,,
+8be2e722-18a3-41c0-9862-7b49a10e0db4,spatial.casa,available,1.98,17.98,medium,high,7,namecheap,,,10/09/2026 15:07
+6ef93827-7898-47f6-8a03-241f51748bb4,maps.degree,available,14.99,64.99,medium,low,4,name.com,,,
 e1dec398-6d92-4481-9690-7363c084dab7,geography.site,premium,312.5,1250,medium,high,9,name.com,,,
+0d3ca6fb-2259-4093-ba6d-8308747691ad,maps.flowers,available,64.99,114.99,medium,low,4,namesilo,,,
+aefb2f01-ee4b-47d9-9afc-fb9a721a3bd4,maps.prof,premium,811.25,811.25,medium,low,4,name.com,,,
 50056acd-357f-4cc8-835c-90713808d6bf,geography.us,resell,,,medium,high,9,"GoDaddy.com, LLC",24/04/2002 14:05,23/04/2026 23:59,
+102ed908-d04d-4f47-8354-200fd8854ffa,maps.forum,premium,87.5,125,medium,low,4,name.com,,,
+d4ccb46c-0c52-426c-aaf4-1ee95e78a9ba,maps.surf,premium,242,29.5,medium,low,4,namesilo,,,
+a16d5599-7858-45c3-a8e3-6203333f6c32,geographic.melbourne,available,44.98,53.98,low,low,10,namecheap,,,18/08/2026 22:27
+24b45ccc-5d75-4f79-a5c2-66e24a2dc500,domain.rocks,resell,,,high,medium,6,"GoDaddy.com, LLC",24/11/2024 03:07,24/11/2026 03:07,18/09/2026 12:40
+91389240-14be-4a4b-8b38-294155d67fd0,maps.email,resell,,,medium,low,4,Dynadot Inc,26/01/2026 17:00,26/01/2027 17:00,
+38cf4924-bbc8-4da3-9aa7-2b559949e401,maps.law,available,95.99,95.99,medium,low,4,namesilo,,,
+d5db7695-a6ad-4e57-81ed-9a987c696b6b,spatial.soy,available,28.98,39.98,medium,high,7,namecheap,,,10/09/2026 15:07
+f1c75fbb-f92d-4278-88e1-32db43a1eaa1,maps.win,premium,116,29.5,medium,low,4,namesilo,,,
+b8f822f1-9776-4430-9019-8418f353b27c,spatial.esq,premium,115.7,115.7,medium,high,7,namecheap,,,10/09/2026 15:07
+9b52f816-32c0-48b7-aeda-06a1b0fd0c51,maps.florist,available,14.99,46.99,medium,low,4,name.com,,,
+2baaab5f-23cf-4fe9-9211-eedd49802a21,countries.ryukyu,available,22.98,,medium,low,9,namecheap,,,
 815e283f-47d3-49ec-9805-a2c86c6642fb,geography.io,available,,,medium,high,9,,,,
+36a69f10-9a16-4459-9750-efa281a38496,maps.dating,available,12.98,86.98,medium,low,4,namecheap,,,
+f36244a3-fac1-4ad6-a575-b2f1254d0b3f,maps.theatre,available,509.99,529.99,medium,low,4,namesilo,,,
+00f45755-45a1-421e-b12a-15e381669c4f,geographic.observer,available,10.99,10.99,low,low,10,namesilo,,,18/08/2026 22:27
+09d753da-c347-4aa1-b9a2-6d83d5a64f78,maps.yoga,available,32.49,32.49,medium,low,4,namesilo,,,
+4e45b4ee-d25c-4cf0-a074-bc4f99e57227,geographic.plus,available,4.98,72.98,low,low,10,namecheap,,,18/08/2026 22:27
+de1432e4-bd93-4632-b600-f2bce5298e53,spatial.xxx,available,69.98,154.98,medium,high,7,namecheap,,,10/09/2026 15:07
+2be4633b-9185-4f97-bf1f-f404f2cc30d5,maps.catering,available,38.99,38.99,medium,low,4,namesilo,,,
+c3f336ee-6b2f-432d-8d90-1c44c72808ec,maps.observer,premium,29.5,29.5,medium,low,4,namesilo,,,
+17492eb7-732c-4820-9bca-72833d3d674b,geographic.viajes,available,37.99,37.99,low,low,10,namesilo,,,18/08/2026 22:27
+27ef773d-75f4-4b5b-9488-a9c1595ce737,geographic.charity,available,5.99,40.99,low,low,10,name.com,,,18/08/2026 22:27
+6414d6db-eb9e-4bf2-8af4-4e2d207bc56a,geographic.juegos,available,368.98,478.98,low,low,10,namecheap,,,18/08/2026 22:27
+d4ff4f47-6f29-48ae-8421-e3c9d5721c57,geographic.pizza,available,5.98,83.98,low,low,10,namecheap,,,18/08/2026 22:27
+725ebc61-a758-49e5-9912-0452648563bb,spatial.miami,available,23.49,23.49,medium,high,7,namesilo,,,10/09/2026 15:07
+e709ce7f-1f5f-4bd5-9f24-9d3596283793,maps.cab,resell,,,medium,low,4,"DNSPod, Inc.",15/02/2025 15:15,15/02/2027 15:15,
+f3313ae5-9444-4342-9b62-97c6d24a0193,maps.kiwi,premium,73.4,73.4,medium,low,4,name.com,,,
+852d3033-2e5e-42e7-8d50-0f87e155625f,spatial.phd,premium,115.7,115.7,medium,high,7,namecheap,,,10/09/2026 15:07
+e6cef9d5-9a30-4fba-b44b-abdd0c8dc381,maps.vacations,available,9.99,50.99,medium,low,4,name.com,,,
+9ee8a405-abe9-484f-891a-bf8cae5109e7,maps.green,premium,3125,3125,medium,low,4,name.com,,,
+791550ad-cb62-4ef5-89a6-88d233f1bf24,geographic.place,available,22.49,22.49,low,low,10,namesilo,,,18/08/2026 22:27
+23b69dea-199c-47f8-b6ec-7a5dce641956,spatial.mov,premium,167.7,167.7,medium,high,7,namecheap,,,10/09/2026 15:07
+8d1552ec-5c57-4d4e-8a1d-ab1d815d95eb,continent.org,resell,,,medium,low,9,"GoDaddy.com, LLC",28/09/2005 18:54,28/09/2026 18:54,11/08/2026 23:26
+dd6d17ec-b6bd-42b2-9264-d3c954297859,geographic.cam,available,2.98,22.98,low,low,10,namecheap,,,18/08/2026 22:27
+ff089104-d885-4244-a443-412639900c64,geographic.food,premium,455,650,low,low,10,namecheap,,,18/08/2026 22:27
+8f02453d-2f51-40ce-bda4-fd375f400dd6,geographic.kim,available,5.98,32.98,low,low,10,namecheap,,,18/08/2026 22:27
+25125359-92fc-4ea2-89b7-4bd6d0962e65,spatial.channel,premium,76.7,76.7,medium,high,7,namecheap,,,10/09/2026 15:07
+84c6dfcf-b3c6-4a81-8c14-792f4a10d05a,maps.desi,available,19.98,22.98,medium,low,4,namecheap,,,
+1cc1d215-aa70-48df-ae04-c5e0755a593d,continent.sh,available,34.98,76.98,low,low,9,namecheap,,,11/08/2026 23:26
+a6b1e4bc-57f8-46d3-8164-eb8ac2dd95b9,geographic.finance,available,11.99,84.99,low,low,10,name.com,,,18/08/2026 22:27
+de496db1-d9fc-40f2-8643-dc1ac564f148,countries.shop,premium,750,,medium,low,9,name.com,,,
+003705e9-f723-46eb-9d96-003eded7601f,continent.ag,available,89,141.99,low,low,9,name.com,,,11/08/2026 23:26
+40010874-f9b9-4a87-92a8-e24f4dda931c,maps.living,premium,245,350,medium,low,4,namecheap,,,
+e018451d-3093-490c-a308-265f01c26f1d,maps.country,available,2298,2450,medium,low,4,namecheap,,,
+b301e969-fc9b-431a-85fe-6d11955e9b65,spatial.diet,available,104.99,114.99,medium,high,7,namesilo,,,10/09/2026 15:07
+65961599-9051-463b-93e4-32de0aae736a,spatial.paris,available,66.98,66.98,medium,high,7,namecheap,,,10/09/2026 15:07
+e51eaf78-cea9-4df2-9ae3-7add1623c3f5,map.fail,resell,,,high,medium,3,"NameCheap, Inc.",30/06/2024 01:29,30/06/2026 01:29,
+dfc9abbc-9677-4a85-870f-d1e60b406181,spatial.qpon,available,2.19,11.49,medium,high,7,namesilo,,,10/09/2026 15:07
+e7ca64be-2927-4233-9e3d-bd198449c272,geographic.shiksha,available,11.98,69.98,low,low,10,namecheap,,,18/08/2026 22:27
+25bc7378-ee5d-4c04-8d41-d4f07e47681f,spatial.trade,resell,,,medium,high,7,Dynadot Inc,24/05/2022 10:39,24/05/2027 10:39,10/09/2026 15:07
+c1ea8d53-ad34-4f2b-9e42-a9ca4c74b54f,region.xyz,resell,,,high,low,6,Dynadot LLC,04/05/2017 08:14,04/05/2029 23:59,
+b0ae7493-3a15-488d-9886-a7911395a940,spatial.loan,available,5.25,6.25,medium,high,7,namesilo,,,10/09/2026 15:07
+8403beae-ae60-4ac8-8f52-0ed0c5049eb0,maps.immobilien,available,14.99,48.99,medium,low,4,name.com,,,
+cde46faf-4ee9-4c2d-b63d-4ca9019fd172,geographic.vote,available,23.98,119.98,low,low,10,namecheap,,,18/08/2026 22:27
+a5fdcdb5-0b37-468a-9e44-24e4a0858a2c,geographic.rsvp,premium,36.25,36.25,low,low,10,name.com,,,18/08/2026 22:27
+010a9747-b071-4f5d-8387-8f3cec033187,continent.markets,available,5.98,26.98,low,low,9,namecheap,,,11/08/2026 23:26
+a96c2b18-3b5c-46ee-b80a-48ce0a17b8dc,geographic.center,resell,,,low,low,10,"Sav.com, LLC",27/07/2022 20:01,27/07/2027 20:01,18/08/2026 22:27
+2a5d5f67-5967-4f9e-bfe9-86b000729faf,continent.sucks,available,218.99,218.99,low,low,9,namesilo,,,11/08/2026 23:26
+688201c6-8d6a-433b-ab86-549428ab841a,geographic.voting,available,1398,1448,low,low,10,namecheap,,,18/08/2026 22:27
+ff11b741-ca65-49b9-8564-92212ff0016f,climate.soccer,resell,,,high,low,7,"GoDaddy.com, LLC",28/12/2018 04:13,28/12/2026 04:13,
+fcf2dd4c-08c9-4d25-836d-a56d0ed05e02,geographic.healthcare,available,88.99,88.99,low,low,10,namesilo,,,18/08/2026 22:27
+5fc3e737-ba6e-41d6-995b-d2769a8222a7,geographic.auto,available,1999.99,2199,low,low,10,namesilo,,,18/08/2026 22:27
+7a73ff7d-1d15-41a7-8216-a5ed232b9834,spatial.net,resell,,,medium,high,7,Dynadot Inc,11/02/1997 05:00,12/02/2028 05:00,10/09/2026 15:07
+9f49dde8-0f88-4797-96b0-8faacbe34118,geographic.bot,available,64.98,78.98,low,low,10,namecheap,,,18/08/2026 22:27
+85d3b92b-47a6-45c9-b04a-11a14a2ae5ef,geographic.degree,available,14.99,64.99,low,low,10,name.com,,,18/08/2026 22:27
+24ea4f4c-9b6c-4750-8115-40467427ba39,spatial.adult,available,69.98,166.98,medium,high,7,namecheap,,,10/09/2026 15:07
+bec3ef9b-6ef0-4390-a6e1-7490af3a713e,continent.irish,available,5.98,31.98,low,low,9,namecheap,,,11/08/2026 23:26
+b57af2a8-b43d-44fa-a101-d11e4dab497b,continent.casa,available,1.98,17.98,medium,low,9,namecheap,,,11/08/2026 23:26
+d25692c6-e165-457b-bd3c-24340538c550,spatial.cc,resell,,,medium,high,7,"Spaceship, Inc.",12/04/2017 02:01,12/04/2027 02:01,10/09/2026 15:07
+2024f62b-07c3-47cd-af7a-5fde2eb101ad,maps.cars,available,2070,2950,medium,low,4,namecheap,,,
+ea80432a-5a7d-464a-a308-2457db00746e,geographic.my,available,2.98,38.98,low,low,10,namecheap,,,18/08/2026 22:27
+3d1079df-b2b5-4586-a030-76642f25ac25,countries.paris,available,51.98,,medium,low,9,namecheap,,,
+7b122059-50b8-47c3-a016-38482480472d,continent.salon,available,19.99,83.99,low,low,9,name.com,,,11/08/2026 23:26
+6be35aa3-af76-4e23-9f7f-2f06b283eb67,geographic.gay,available,2.98,50.98,low,low,10,namecheap,,,18/08/2026 22:27
+54a3ef0c-dfcd-4d07-8c4e-fba5538f6976,spatial.hiphop,resell,,,medium,high,7,Porkbun LLC,28/06/2022 21:53,28/06/2027 21:53,10/09/2026 15:07
+b9b1286a-1dc6-46a1-9cca-bf659041f09e,geographic.locker,available,6.88,37.99,low,low,10,namesilo,,,18/08/2026 22:27
+022e4b51-7e64-4e6b-bdb3-f1cd119f1399,maps.plus,resell,,,medium,low,4,"Spaceship, Inc.",17/08/2025 00:51,17/08/2026 00:51,
+9bd9a54a-ce14-4e5a-a1f9-c3d555db660e,maps.engineering,available,10.48,85.98,medium,low,4,namecheap,,,
+27b2779f-933c-45bd-8175-d40debb22b5f,geographic.auction,available,4.99,52.99,low,low,10,name.com,,,18/08/2026 22:27
+1b90f46d-6d5d-44bb-8261-636f44d825f8,maps.srl,premium,54.28,30.68,medium,low,4,namesilo,,,
+b4ba56db-375d-4f60-ba73-03518b5bdc72,continent.travel,available,23.98,186.98,medium,low,9,namecheap,,,11/08/2026 23:26
+96c646b6-05e6-4c2f-a83b-07a29820fe3b,geographic.town,available,6.98,47.48,low,low,10,namecheap,,,18/08/2026 22:27
+759c4bb4-8eca-41d7-a970-71e660e98c65,navigation.spot,premium,116,116,medium,low,10,namesilo,,,10/09/2026 00:36
+eb992de4-c197-406c-89af-8761deaaf2eb,maps.bid,premium,1107,116,medium,low,4,namesilo,,,
+f77a19b8-b02c-40f4-bd5c-e4b95061c08d,spatial.bar,premium,819,1170,medium,high,7,namecheap,,,10/09/2026 15:07
+4dd20d33-9e83-439c-ad50-de80654aa54c,continent.farm,available,4.98,49.98,low,low,9,namecheap,,,11/08/2026 23:26
+23c61cee-1f88-482d-8a51-b528e8e6573c,maps.villas,available,19.99,80.99,medium,low,4,name.com,,,
+2e0cb38c-1d91-45a1-9965-f167105f2578,state.ryukyu,available,22.98,,high,medium,5,namecheap,,,
+14fdbeb3-0d6b-45c2-bf05-01fd3a6118d4,maps.dance,available,10.48,36.98,medium,low,4,namecheap,,,
+6f66f7d6-a058-4aed-8ede-bbf86e77f2fc,continent.art,premium,291.2,83.3,low,low,9,namesilo,,,11/08/2026 23:26
+ab054b93-6a74-47ca-8a23-9df09f6f6966,geographic.ventures,available,5.98,75.98,low,low,10,namecheap,,,18/08/2026 22:27
+9d234181-5961-4214-8de9-98df88d39d96,maps.llc,premium,2500,2500,medium,low,4,name.com,,,
+ea449db1-e29a-49f0-acb1-21791ccdf496,geographic.group,resell,,,low,low,10,Porkbun LLC,12/04/2024 17:30,12/04/2027 17:30,18/08/2026 22:27
+29359b6e-584d-4d8e-8ac7-ab60ee2b1f6c,continent.solutions,available,5.99,41.99,low,low,9,name.com,,,11/08/2026 23:26
+6b4b6242-3ecc-4b7e-85f1-fd45c99b20c2,continent.nyc,available,6.98,43.98,low,low,9,namecheap,,,11/08/2026 23:26
+cc45a97f-189c-4770-893d-4a8c2fd6f6fc,geographic.stream,premium,437.5,62.5,low,low,10,name.com,,,18/08/2026 22:27
+91c6c98c-e04f-4714-8263-344fd2a9b9d1,maps.meme,premium,1625,1625,medium,low,4,name.com,,,
+30b320b5-5415-4471-ba54-6b944ba60cea,continent.autos,available,1.8,19.98,low,low,9,namecheap,,,11/08/2026 23:26
 beee7016-379f-4c88-902a-cc8ee51a6060,map.space,premium,1625,6500,high,medium,3,namecheap,,,
+f7aefc1d-35a4-446b-88e4-2092238c1039,hill.ryukyu,available,22.98,,medium,low,4,namecheap,,,
+0aa059f9-a96a-411f-812d-7d54d1c2e2c3,geographic.tennis,available,65.99,65.99,low,low,10,namesilo,,,18/08/2026 22:27
+bd4ec879-b0b1-4ebd-99e6-ebde45823661,continent.flowers,available,64.99,114.99,low,low,9,namesilo,,,11/08/2026 23:26
+8b5352fb-250c-480e-9b5f-341019f252e3,continent.fishing,available,32.49,32.49,low,low,9,namesilo,,,11/08/2026 23:26
+969ca4f9-38f9-41f0-883c-690a3a491075,maps.tienda,available,9.99,77.99,medium,low,4,name.com,,,
+92ea32ec-ca6b-4e35-8529-885e4d47ade8,geographic.systems,available,11.98,47.48,low,low,10,namecheap,,,18/08/2026 22:27
+a138d426-cff5-4911-84d4-51f72e41d195,boundaries.hamburg,available,59.99,,medium,low,10,name.com,,,
+02c8d1aa-7a6c-41d8-a774-2ba8108e92c2,maps.estate,available,12.98,52.98,medium,low,4,namecheap,,,
+0f2cdb4a-43f5-4ee2-adbe-8c25c09ba872,maps.family,premium,242,242,medium,low,4,namesilo,,,
 90f96844-2868-407c-abf4-58d091ac9f68,map.country,available,,,high,low,3,,,,
+fe027c83-4678-42af-85e7-14533cadbb09,maps.diy,premium,218.75,312.5,medium,low,4,name.com,,,
+bac6ae88-899d-4976-9fd2-bb7dce8a0391,boundaries.organic,available,19.99,,medium,low,10,name.com,,,
+a3e76115-1c2b-4c8f-ab67-1bc2f498f6de,boundaries.reisen,available,24.99,,medium,low,10,name.com,,,
+5288747f-809e-47e7-9183-c9393b3c83cf,river.shop,premium,625,,medium,low,5,name.com,,,
+637250ac-d752-4071-8eba-ffa0e5e20a9b,geographic.vana,available,2298,2498,low,low,10,namecheap,,,18/08/2026 22:27
+bb0e42f1-2f43-45df-8d5b-7e0b55ae56dc,spatial.gay,available,2.98,50.98,medium,high,7,namecheap,,,10/09/2026 15:07
+6a3a41f9-ce50-4f2e-9988-0bc8fd2ad475,maps.agency,resell,,,medium,low,4,"GoDaddy.com, LLC",26/04/2025 15:15,26/04/2027 15:15,
+e0c57e4f-066d-43a9-a5ff-2a1c6bd6d2c1,navigation.lat,available,1.8,40.98,medium,low,10,namecheap,,,10/09/2026 00:36
+275f9e8c-d047-4fa0-a283-0425141796f2,continent.partners,available,10.48,88.98,low,low,9,namecheap,,,11/08/2026 23:26
 6bf6c6ea-8d06-497d-b1d5-b6856e6fc66f,geography.online,premium,781.25,3125,medium,high,9,name.com,,,
+e7c42741-2578-4340-80a0-74fac1dd77a0,maps.properties,available,10.99,50.99,medium,low,4,name.com,,,
+a2a2b40a-5ba0-4fd7-b6ce-56f7e39d8117,geographic.republican,available,5.98,43.98,low,low,10,namecheap,,,18/08/2026 22:27
+a8dfccbd-4225-4cc4-87de-8dcc4222cc35,maps.soccer,available,19.99,37.99,medium,low,4,name.com,,,
+602add63-fb56-4416-9e43-0f335bdbdd66,continent.degree,available,14.99,64.99,low,low,9,name.com,,,11/08/2026 23:26
+35812155-e8bc-490a-992b-ae282983c71a,continent.family,available,9.99,50.99,low,low,9,name.com,,,11/08/2026 23:26
+4b676d8b-e828-464f-af3c-b352c6a22724,spatial.storage,available,509.99,529.99,medium,high,7,namesilo,,,10/09/2026 15:07
+53a5e919-f196-4263-af29-aa0516ae573b,maps.art,premium,3450,83.3,medium,low,4,namesilo,,,
+091aec24-3709-465a-88d4-4ccbdcc7c741,science.bet,resell,,,medium,low,7,Dynadot Inc,01/05/2019 16:09,01/05/2028 16:09,19/09/2026 02:41
+b2755454-cfb1-4024-807d-40d100d4d489,maps.republican,available,5.99,46.99,medium,low,4,name.com,,,
+56eb038c-5451-4e32-aa72-7098d3cfbe9e,maps.rsvp,premium,623.75,623.75,medium,low,4,name.com,,,
+83895511-f0f0-4498-80aa-ff49448cc378,continent.hamburg,available,59.99,59.99,low,low,9,name.com,,,11/08/2026 23:26
+e565ed91-af41-44d8-a6f5-7ddeb0e0c390,boundaries.country,available,2450,,medium,low,10,namecheap,,,
+451c7d5e-b500-436c-9994-9a40cdb113a8,boundaries.report,available,14.99,,medium,low,10,name.com,,,
+736ffd94-081d-4838-b004-bc2089dd997e,geographic.rentals,available,6.98,56.98,low,low,10,namecheap,,,18/08/2026 22:27
+a45de406-aff7-414d-b729-85ef099632b9,maps.gold,resell,,,medium,low,4,"DNSPod, Inc.",02/09/2019 11:31,02/09/2026 11:31,
+e9459d94-a3c3-4a87-99b5-3c8a1f02de2e,geographic.uno,premium,312.5,625,low,low,10,name.com,,,18/08/2026 22:27
+df727d25-0c0a-45f7-a7c2-74a46c96a99a,geographic.vin,premium,118.8,118.8,low,low,10,namesilo,,,18/08/2026 22:27
+4217b54e-d57e-47c3-a4bc-639752fa29e4,geographic.industries,available,17.49,65.99,low,low,10,name.com,,,18/08/2026 22:27
+a4fa4dce-51b3-4bca-974f-91f0ae092b07,continent.pet,premium,1107,1107,low,low,9,namesilo,,,11/08/2026 23:26
+7f11c2ee-de28-4533-bde3-4c3434cdfc5c,maps.mobile,premium,1250,1250,medium,low,4,name.com,,,
+f97fba2f-bbb3-4ef2-aabd-a6a648fb2f47,boundaries.loans,available,19.99,,medium,low,10,name.com,,,
+83603f7a-d40d-43db-912b-6a70ffbc11cb,maps.security,available,2070,2950,medium,low,4,namecheap,,,
+85d10ac0-95f8-454f-99da-c8d5a3979440,geographic.fm,available,69.98,118.98,low,low,10,namecheap,,,18/08/2026 22:27
+5bf21c41-11eb-4da9-b6a3-1027725dcfd9,science.cab,available,33.98,41.98,medium,low,7,namecheap,,,19/09/2026 02:41
+43001d65-5fba-4454-8225-33ebbc6e2785,maps.navy,available,41.99,41.99,medium,low,4,namesilo,,,
+ba599e69-f350-4cc7-aa89-d21a4b260d5b,maps.auction,available,4.99,52.99,medium,low,4,name.com,,,
+5dabeb2d-7c74-45fc-9eb7-5772c257ded7,navigation.fashion,available,32.49,32.49,medium,low,10,namesilo,,,10/09/2026 00:36
+0a69ea57-f53f-4764-8c8c-25c9ecdb390d,continent.cool,available,5.98,50.98,low,low,9,namecheap,,,11/08/2026 23:26
+1d0e14d4-9a8f-4078-be89-6b89418609e4,maps.vision,available,9.99,50.99,medium,low,4,name.com,,,
+a3c5842f-81a4-453a-aa98-d5e1bab34cf6,geographic.you,premium,53.92,53.92,low,low,10,namesilo,,,18/08/2026 22:27
+ffa2a4ac-1979-4e3e-84d3-1eb2c937c196,maps.bz,available,21.98,26.98,medium,low,4,namecheap,,,
+d82dd919-3243-43f7-997f-315e02658224,maps.cfd,premium,384,768,medium,low,4,namesilo,,,
+ef658444-15de-4d5d-be5b-6932e3b5a5a0,continent.wedding,available,32.49,32.49,low,low,9,namesilo,,,11/08/2026 23:26
+ec4d4f2b-5caa-433f-adc2-d36adcefea3d,navigation.bayern,available,34.99,34.99,medium,low,10,namesilo,,,10/09/2026 00:36
+0d8686c7-f000-4ca6-844c-21e6238d66a4,continent.gift,available,14.99,14.99,low,low,9,namesilo,,,11/08/2026 23:26
+d562a4af-9a3d-4e92-a4ed-5aeedd228f27,maps.locker,premium,318.46,8.8,medium,low,4,namesilo,,,
+f6612fa5-e3cd-422d-8d2c-eb61e73eb171,boundaries.science,premium,3125,,medium,low,10,name.com,,,
+1b5254a2-b157-4023-8a8c-0bf5ea6a2636,boundaries.biz,premium,31.99,,medium,low,10,name.com,,,
+29514a4f-4f3e-40e7-a50f-77b5db0d8da4,seas.channel,premium,36.25,36.25,medium,low,4,name.com,,,
+b9168a25-9299-4d54-9ff1-4c67f0602996,geographic.pics,available,1.8,40.98,low,low,10,namecheap,,,18/08/2026 22:27
 072b6655-bc05-43fc-807b-fd7e97b3cc24,geography.expert,available,11.99,79.99,medium,high,9,name.com,,,
+8d3f6beb-636b-477d-9cf8-d14d2b6b7bc9,navigation.management,available,25.99,25.99,medium,low,10,namesilo,,,10/09/2026 00:36
+90cdea68-f935-4b7e-9894-ebeee66f63b6,boundaries.bet,available,14.99,,medium,low,10,name.com,,,
+e7346e9d-50a8-46f3-9baa-57b5bb59e19f,nature.shop,premium,625,,high,low,6,name.com,,,
+fc96d1bd-a078-4b9b-9371-8217bfda21a8,navigation.equipment,available,28.99,28.99,medium,low,10,namesilo,,,10/09/2026 00:36
+73d7fcdf-f9db-4588-bc98-67dca1510bd6,navigation.stream,premium,116,29.5,medium,low,10,namesilo,,,10/09/2026 00:36
+60d8749f-8562-4bd2-b7a3-f498d6dd5280,geographic.fishing,available,32.49,32.49,low,low,10,namesilo,,,18/08/2026 22:27
+eefe0313-d580-4ae9-ad25-660bfbd93bd1,maps.irish,available,5.98,31.98,medium,low,4,namecheap,,,
+d77d1621-d2bd-4934-907a-ff122c698293,seas.zip,premium,36.25,36.25,medium,low,4,name.com,,,
+26ba2743-ea8c-4df5-8f81-dfc2ae6133b4,continent.properties,available,10.99,50.99,medium,low,9,name.com,,,11/08/2026 23:26
+ff0e3ed5-f073-45aa-b066-20d91ae6673f,geographic.dealer,premium,2015,2600,low,low,10,namecheap,,,18/08/2026 22:27
+ba8035a3-9508-4113-b181-66c37756052b,continent.holdings,premium,78.54,78.54,low,low,9,namesilo,,,11/08/2026 23:26
+8268adb2-598b-44db-86ff-7e0db3246bfa,continent.soy,available,24.99,24.99,low,low,9,name.com,,,11/08/2026 23:26
 b0220616-8618-420d-836c-170516dfb51d,geography.tech,premium,325,1300,medium,high,9,namecheap,,,
+4e3bd9f3-9c44-4195-945a-1a193c71bb27,temperature.markets,available,9.99,,high,low,11,name.com,,,
+837f08de-2464-4169-9428-50a95c9216c5,seas.horse,available,32.49,32.49,medium,low,4,namesilo,,,
 97aa8baf-5474-40d2-b694-c70b37a9cc88,map.site,premium,1562.5,6250,high,medium,3,name.com,,,
+d214052b-8041-43c2-a277-072c3dd96613,geographic.osaka,available,32.98,41.98,low,low,10,namecheap,,,18/08/2026 22:27
+ee7b4b69-96a0-408c-bb5e-670f6b14d54e,geographic.film,available,65.99,65.99,low,low,10,namesilo,,,18/08/2026 22:27
+6dccd879-e2e0-4e4b-ab09-eafee368c1e7,navigation.group,resell,,,medium,low,10,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),23/01/2025 15:15,23/01/2028 15:15,10/09/2026 00:36
+3861fba7-1dd4-45e6-8d4a-5401b6bfbcb5,seas.boo,premium,36.25,36.25,medium,low,4,name.com,,,
+aa2aeb64-89f6-4731-a8d0-2edf745d860d,maps.buzz,premium,3553.5,46.99,medium,low,4,name.com,,,
+9ac00279-bd15-4573-9df7-952675fef42d,seas.graphics,available,22.98,31.98,medium,low,4,namecheap,,,
+94144b0d-1d7a-4ae0-896c-9cb542d60b54,seas.storage,available,509.99,529.99,medium,low,4,namesilo,,,
+f456a25d-ae19-416c-aed9-3d3b521b5fb7,navigation.watch,available,3.48,56.98,medium,low,10,namecheap,,,10/09/2026 00:36
+7bd76e24-dc3a-46cd-af4a-f88dfc4c2db3,seas.hiv,available,184.99,184.99,medium,low,4,name.com,,,
 a4630424-89a4-4ad8-b16d-3c03b70b6503,geography.xyz,resell,,,medium,high,9,"Go Daddy, LLC",02/06/2014 17:10,02/06/2026 23:59,
+bde62974-bd20-4462-bebe-6ce253649a41,seas.luxury,available,49.99,49.99,medium,low,4,name.com,,,
+574c6d3b-557a-4375-9d3d-e10a43243f2d,boundaries.events,available,21.99,,medium,low,10,name.com,,,
+f53cee88-0ee5-4be3-953a-94ee225f09ba,maps.lifestyle,premium,245,350,medium,low,4,namecheap,,,
+17ba32f2-ad7e-42b8-857e-e5de25a23943,seas.group,resell,,,medium,low,4,"Chengdu West Dimension Digital Technology Co., Ltd.",13/06/2017 12:28,13/06/2026 12:28,
+c8f7ebb3-5c86-4724-95cb-3507fa606bbb,geological.eco,available,72.98,101.98,low,low,10,namecheap,,,18/08/2026 22:28
+f0f5616e-fbe7-4bf3-9c90-6b9fc6a99806,navigation.parts,available,10.48,45.98,medium,low,10,namecheap,,,10/09/2026 00:36
+fcafe011-9d69-493f-bb03-a170d4dfe3c3,geographic.soccer,available,19.99,37.99,low,low,10,name.com,,,18/08/2026 22:27
+f9ad8d17-cd23-49bd-b973-48224ec1e6c0,boundaries.reise,available,99.99,,medium,low,10,name.com,,,
+3d71f0c3-b1aa-49c9-9ec9-6a8fdb0147da,navigation.graphics,available,22.98,31.98,medium,low,10,namecheap,,,10/09/2026 00:36
+62e931a4-4f08-4aa4-8633-f2c5455e7a4d,geographic.school,available,9.99,46.99,low,low,10,name.com,,,18/08/2026 22:27
+7dc7714f-1ec8-48b5-b013-7becd7e6cc79,navigation.hockey,available,59.99,59.99,medium,low,10,namesilo,,,10/09/2026 00:36
+e308decb-5ded-4f7b-ad1b-d52348794db6,navigation.gallery,available,28.99,28.99,medium,low,10,namesilo,,,10/09/2026 00:36
+971599b7-16da-40f0-ae19-11e431c13e49,seas.tires,available,5.99,78.99,medium,low,4,namesilo,,,
+4a162748-bd39-4346-a898-52de5532ec17,global.international,resell,,,high,medium,6,Porkbun LLC,25/06/2015 12:09,25/06/2026 12:09,
+640b35c3-c122-46ad-ba73-7b86b6d0dc9e,continent.charity,available,5.99,40.99,low,low,9,name.com,,,11/08/2026 23:26
+b7995e3f-95cf-4a6a-ae1a-7ad3a33602cb,maps.racing,premium,116,116,medium,low,4,namesilo,,,
+1ab46051-cde0-4f62-9cc1-b8b89152e3e1,maps.apartments,available,19.99,83.99,medium,low,4,name.com,,,
 97490dc2-e4af-4af3-9848-85f008a3b01c,map.green,premium,650,650,high,medium,3,namecheap,,,
+f22c4d8c-4087-4c13-ace4-a28889875148,navigation.construction,available,38.99,38.99,medium,low,10,namesilo,,,10/09/2026 00:36
+5dc134dc-d855-43b4-a4f1-a801a9519699,bordered.ryukyu,available,22.98,,medium,low,8,namecheap,,,
+12fb6e05-5527-41bd-b9cb-6e5ae74b2d0f,navigation.kim,available,5.98,32.98,medium,low,10,namecheap,,,10/09/2026 00:36
 7e7a88dc-ef44-46af-bac7-647f6e97bfb6,geography.ninja,available,9.99,39.99,medium,high,9,name.com,,,
+bbef13f4-8b7b-444c-ad9f-2d6e418baa62,boundaries.photos,available,14.99,,medium,low,10,name.com,,,
+9fbf6b62-f5f1-4b59-a756-63c30901cfd5,charts.build,available,32.98,39.98,low,low,6,namecheap,,,18/09/2026 23:12
+b7837e70-e83f-47ab-ae86-99f36de54681,geographic.wine,available,8.48,75.98,low,low,10,namecheap,,,18/08/2026 22:27
+44a97e78-d21b-4074-9035-3d76cfa36d3e,maps.voto,available,11.98,86.98,medium,low,4,namecheap,,,
+d4d08198-bcf1-42c4-bed5-b8bc7a6fd5e8,seas.engineering,available,10.48,85.98,medium,low,4,namecheap,,,
+ae917809-ea2f-49a2-8010-40d9ea8cdc0e,navigation.viajes,available,37.99,37.99,medium,low,10,namesilo,,,10/09/2026 00:36
+81744df6-2259-4934-b3c6-4e9f1a750b4d,continent.forex,available,11.98,133.98,low,low,9,namecheap,,,11/08/2026 23:26
+1b1853b5-e509-4975-a18d-25b0207205f4,seas.gives,available,5.99,40.99,medium,low,4,name.com,,,
+f06fcd58-525f-4547-afb7-ee442b931a6d,continent.juegos,available,368.98,478.98,low,low,9,namecheap,,,11/08/2026 23:26
+c7e3575e-8b59-479d-86f8-f395cbdac710,navigation.courses,available,1.98,50.98,medium,low,10,namecheap,,,10/09/2026 00:36
+ab101c2c-d909-4a8e-93b7-73f56a79a0ae,remote.shop,premium,1250,,high,medium,6,name.com,,,
+16ed10b7-b656-4b9a-86bd-e85d335838d4,spatial.menu,available,27.99,27.99,medium,high,7,namesilo,,,10/09/2026 15:07
+6ac61316-85b7-4f38-9923-7e59d4b7dcef,boundaries.gallery,available,36.98,,medium,low,10,namecheap,,,
+9ebe08ec-17a1-4616-8359-d51b9a2b36cb,seas.prof,premium,61.25,61.25,medium,low,4,name.com,,,
+07bfe761-ad34-4d7c-94be-ab5658ceabdc,boundaries.land,available,19.99,,medium,low,10,name.com,,,
+25c70599-6c25-4710-b7e7-e04f37674dd4,boundaries.catering,available,46.99,,medium,low,10,name.com,,,
+fba2d13e-6e62-4bda-acf4-3712283eba9f,navigation.email,available,4.98,40.98,medium,low,10,namecheap,,,10/09/2026 00:36
+f06d9c81-9a2e-4a58-9d9d-2e47a7989dc6,geographic.gives,available,5.99,40.99,low,low,10,name.com,,,18/08/2026 22:27
+7d447009-b89b-4510-a215-8969ce436ce0,navigation.bot,resell,,,medium,low,10,"Dynadot, LLC",24/02/2026 20:34,24/02/2027 20:34,10/09/2026 00:36
+ff4e0ca0-2d4b-48dd-801d-c7fd5129e00b,continent.mortgage,available,14.99,81.99,low,low,9,name.com,,,11/08/2026 23:26
+796d3dbb-abc5-41f6-8319-142e5b15d1dd,navigation.international,available,9.48,40.48,medium,low,10,namecheap,,,10/09/2026 00:36
+6486c47b-8bb0-4100-b51e-e412b93967c6,geographic.press,premium,312.5,625,low,low,10,name.com,,,18/08/2026 22:27
+780f5d57-b2c5-4d45-85e0-a140a281ecf6,spatial.gift,available,14.99,14.99,medium,high,7,namesilo,,,10/09/2026 15:07
+3bb69a2c-28b3-4fde-abad-7fc169253f43,geological.la,available,27.99,27.99,low,low,10,namesilo,,,18/08/2026 22:28
+3b19e804-d119-4c35-b2c6-5e56f51ff042,continent.cricket,premium,437.5,62.5,low,low,9,name.com,,,11/08/2026 23:26
+f9550c32-ce77-4327-b368-2ed9a3bbc402,continent.dance,available,10.48,36.98,low,low,9,namecheap,,,11/08/2026 23:26
+81cea18e-7153-4dc1-9cb2-dc27b7e75dd3,seas.esq,premium,61.25,61.25,medium,low,4,name.com,,,
+036d1401-d932-4af7-900b-aa7723b93920,spatial.ceo,resell,,,medium,high,7,"GoDaddy.com, LLC",17/01/2024 16:38,17/01/2027 23:59,10/09/2026 15:07
+e0db8741-c48d-4f01-82d8-4c7e41823a67,charts.cc,resell,,,low,low,6,"GoDaddy.com, LLC",13/05/2010 01:54,13/05/2028 01:54,18/09/2026 23:12
 5781aa89-0465-474f-8ebb-a62f7a604448,map.organic,available,19.99,,high,medium,3,name.com,,,
+38c03164-2e71-45e0-8743-547c070e06f8,spatial.bond,premium,192,384,medium,high,7,namesilo,,,10/09/2026 15:07
 8786abba-67e2-415f-899e-8235aa7973a4,map.land,resell,,,high,medium,3,Porkbun LLC,08/05/2025 18:38,08/05/2027 18:38,
+c67dc1a7-01a3-4ee8-bba2-cec2769205c1,navigation.republican,available,5.98,43.98,medium,low,10,namecheap,,,10/09/2026 00:36
+0caf0bee-4ab8-4442-ba9e-a85fac4810c5,seas.gratis,available,23.99,23.99,medium,low,4,namesilo,,,
 350fb60a-7412-401b-87dc-a78f97ac16fe,map.bayern,premium,117.53,,high,medium,3,name.com,,,
+59d12db2-fee1-4c83-815b-2878b7dbf427,boundaries.works,available,7.99,,medium,low,10,name.com,,,
 e1290741-3aba-4fa3-8791-78ee54f9ffd9,geography.store,premium,156.25,625,medium,high,9,name.com,,,
+9fd69f81-198e-43e0-abcd-8897cb1ae51c,continent.exchange,available,5.98,49.98,low,low,9,namecheap,,,11/08/2026 23:26
+d2a026e3-bef7-47f9-8314-da5cf8516e6b,boundaries.cam,available,22.98,,medium,low,10,namecheap,,,
+e002bbc7-dad8-4171-abc2-57158d29f3ae,navigation.college,available,1.5,81.98,medium,low,10,namecheap,,,10/09/2026 00:36
+d2662302-930a-41db-b737-47920be2e2b1,countries.desi,available,22.98,,medium,low,9,namecheap,,,
+ea4d1bbb-18e9-4d92-80e4-3581e1491f02,temperature.moi,available,25.99,25.99,high,low,11,namesilo,,,
+9b81384b-a038-4018-bdd6-3e96f8c1f11e,continent.institute,available,5.98,37.98,low,low,9,namecheap,,,11/08/2026 23:26
+c22b98d6-0e74-4f2a-b511-eaefd1f6f3ed,spatial.barcelona,available,38.98,38.98,medium,high,7,namecheap,,,10/09/2026 15:07
 771361df-fb93-42b9-8922-207bf0a719a5,map.io,resell,,,high,medium,3,Atom.com Domains LLC,16/10/2010 23:06,16/10/2027 23:06,
+64125fc1-e037-45f5-abe1-22612b020db0,navigation.accountants,available,117.99,117.99,medium,low,10,namesilo,,,10/09/2026 00:36
+4bb16e38-0d59-4436-befc-de2ac10dc681,earth.engineering,resell,,,medium,medium,5,"Sav.com, LLC - 18",16/10/2025 15:15,16/10/2026 15:15,
+81de6e6c-583c-475f-959f-11331ea31325,geographic.build,premium,625,625,low,low,10,name.com,,,18/08/2026 22:27
+aa57487d-f1ee-4bb6-b20d-53db8f83630d,navigation.porn,available,69.98,154.98,medium,low,10,namecheap,,,10/09/2026 00:36
+e689c19e-5082-41ad-9e87-6709f0f200cf,boundaries.fan,available,11.99,,medium,low,10,name.com,,,
+375fc002-314b-4a75-81b2-c85720498886,charts.enterprises,available,9.48,47.98,low,low,6,namecheap,,,18/09/2026 23:12
+b93b1bed-f10b-4b5b-b78a-7d19b63274b7,continent.food,available,4.98,48.98,low,low,9,namecheap,,,11/08/2026 23:26
+05b56bd3-e154-486f-b48a-012be105c83d,charts.hiv,available,195.99,195.99,low,low,6,namesilo,,,18/09/2026 23:12
+9927cb39-866b-4a80-9c95-18e51d52ce83,limit.gg,resell,,,high,low,5,Dynadot Inc. (https://www.dynadot.com),,,
+a8dc3f99-e5cf-448f-9c62-3a4efe690753,countries.barcelona,available,38.98,,medium,low,9,namecheap,,,
 8e88ad93-538b-4f7a-8735-b414329797b1,map.city,resell,,,high,low,3,Dynadot Inc,05/08/2015 16:00,05/08/2026 16:00,
+4e38b3dd-5f3e-4a3a-a69a-b7b82c375116,boundaries.school,available,9.99,,medium,low,10,name.com,,,
+4a16764f-f7b3-442d-8c86-e50a89a1cdcd,valley.dog,available,5.99,,medium,low,6,name.com,,,
+007d7e25-fb3e-44df-b951-695779739f8e,geological.green,available,11.98,102.98,low,low,10,namecheap,,,18/08/2026 22:28
+854e109e-ee98-459f-9506-b28d8863252e,regions.xxx,premium,322.4,322.4,low,low,7,namecheap,,,17/09/2026 14:38
+386c029d-c4d5-4b1d-8d2a-3acac05547ea,charts.schule,available,28.99,28.99,low,low,6,namesilo,,,18/09/2026 23:12
+640b0121-2bcd-4e65-93fc-e2598bce1cd4,continent.luxe,available,19.49,19.49,low,low,9,namesilo,,,11/08/2026 23:26
+8e0ebacf-5e14-466c-9e62-42f3fe72c13c,seas.voyage,available,9.99,83.99,medium,low,4,name.com,,,
+6fd9ec36-2d5a-4eba-b137-d2bba4bb1367,geological.mobile,available,22.98,26.98,low,low,10,namecheap,,,18/08/2026 22:28
+27a08d14-ab6c-4e08-b248-3b7b6b4d6638,boundaries.ac,available,49.99,,medium,low,10,name.com,,,
+ed84531b-24dc-4bdc-9ff8-3cbb8e3a386e,spatial.dealer,premium,2015,2600,medium,high,7,namecheap,,,10/09/2026 15:07
+0fcd05bb-afca-45ce-86de-c679c7c61cc5,continent.living,available,1.8,48.98,medium,low,9,namecheap,,,11/08/2026 23:26
+61f19bc0-a436-4a0d-95e9-c63ac12daa2e,geographic.sucks,available,218.99,218.99,low,low,10,namesilo,,,18/08/2026 22:27
+a10612a9-1104-4788-936e-3904cb2bd1c2,boundaries.how,available,34.99,,medium,low,10,name.com,,,
+8b429efe-4629-4fee-a178-7a9720508464,charts.archi,available,19.99,103.99,low,low,6,namesilo,,,18/09/2026 23:12
+2b8059b7-f2f6-4a1a-a3ce-1a93ab6ee5f2,continent.work,available,2.98,17.98,low,low,9,namecheap,,,11/08/2026 23:26
+32059027-9ca7-47ac-bd20-b4fa12abeb43,navigation.gifts,available,36.99,36.99,medium,low,10,namesilo,,,10/09/2026 00:36
+16c40ac4-fc2a-4366-9dab-b1a44f1f63ea,maps.pw,premium,1872.92,3745.83,medium,low,4,name.com,,,
+f517a9c5-35cb-40b3-ad7f-831f5813d58f,spatial.christmas,available,1.8,49.98,medium,high,7,namecheap,,,10/09/2026 15:07
+de89fe99-b7d3-40d5-8f3a-17fb66ad5c9c,navigation.loans,available,17.48,144.98,medium,low,10,namecheap,,,10/09/2026 00:36
+22310c6f-af66-4f64-a5fd-34eee1d1b687,continent.auto,available,1999.99,2199,low,low,9,namesilo,,,11/08/2026 23:26
+0024d875-a86f-4397-be30-22ef15beef29,geological.link,premium,41.3,41.3,low,low,10,namesilo,,,18/08/2026 22:28
+a4402c86-4204-4c0f-97f5-b0401d80ce45,geological.farm,available,4.98,49.98,low,low,10,namecheap,,,18/08/2026 22:28
+f986a74c-6a93-4d33-af51-f1430ae2b930,navigation.free,premium,116,116,medium,low,10,namesilo,,,10/09/2026 00:36
+0be7113d-36c1-4be0-b968-4e4938bfbe93,geological.graphics,available,22.98,31.98,low,low,10,namecheap,,,18/08/2026 22:28
+da404219-b61d-4b3a-af84-f2978b577f2e,regions.sydney,available,58,58,low,low,7,namesilo,,,17/09/2026 14:38
+8c1045c8-2138-44a7-b020-729c59e761dd,seas.protection,available,1999.99,2049.99,medium,low,4,namesilo,,,
+390b101c-ed2e-418a-97b0-e35879ba2551,navigation.bar,premium,2047.5,2925,medium,low,10,namecheap,,,10/09/2026 00:36
+47face4c-d219-496c-b8ae-fc803374f1ce,regions.london,available,12.98,41.98,low,low,7,namecheap,,,17/09/2026 14:38
+344bdcb8-cae4-4ce3-8d6a-c7f569b1ce08,continent.moe,available,13.99,13.99,low,low,9,namesilo,,,11/08/2026 23:26
+5a4bf2ba-bb23-4cf4-b856-4f0cbeb952cc,geological.fyi,available,6.98,9.68,low,low,10,namecheap,,,18/08/2026 22:28
+9255a4b0-f424-4977-a16f-2d00fabd12ea,maps.industries,available,17.49,65.99,medium,low,4,name.com,,,
+f1794be2-35b1-4ed5-8ef2-0baa5c2be317,geographic.loans,available,17.48,144.98,low,low,10,namecheap,,,18/08/2026 22:27
+0b2a9a3c-58be-4c40-920f-edf73954d6b9,measurement.mobile,premium,750,,medium,low,11,name.com,,,
+2d9c6194-e551-46ad-a6f2-ee8ffa104a4b,continent.fan,available,11.99,71.99,low,low,9,name.com,,,11/08/2026 23:26
+532c36b3-523b-47ea-85bb-f7746c663615,charts.engineering,available,16.99,64.99,low,low,6,namesilo,,,18/09/2026 23:12
+83f64cba-8d5d-4b64-9915-a0f751ce72bf,regions.cv,available,9.99,9.99,low,low,7,namesilo,,,17/09/2026 14:38
+40e6199c-b9bf-4edc-b5eb-2af6d31003ad,navigation.day,premium,76.7,76.7,medium,low,10,namecheap,,,10/09/2026 00:36
+54189ebb-d9f0-4115-9fff-738f48502681,seas.info,resell,,,medium,low,4,Dynadot Inc,26/02/2019 10:28,26/02/2027 10:28,
+f6b8ce96-656c-48f0-9f74-e5dcc40f8019,geographic.bid,available,5.25,6.25,low,low,10,namesilo,,,18/08/2026 22:27
+441aaa4c-0449-4d0f-9368-1eda6d92da1e,spatial.cv,premium,1309.75,19.5,medium,high,7,namecheap,,,10/09/2026 15:07
+094736c6-686e-44d5-aaf9-d5ee4738aea1,continent.kiwi,available,31.98,35.68,low,low,9,namecheap,,,11/08/2026 23:26
+881dccb6-db52-4b78-9942-4b6c5f33c1dd,seas.football,available,19.99,37.99,medium,low,4,name.com,,,
+cd56c01c-4d09-470a-905b-511ea3041a0e,continent.diamonds,available,54.99,54.99,low,low,9,namesilo,,,11/08/2026 23:26
+95f2ed14-7487-4064-8ea8-dfea1aca6331,seas.condos,available,58.99,58.99,medium,low,4,namesilo,,,
+182e1283-40df-483b-b81c-85f752afbfc0,countries.moi,available,39.99,,medium,low,9,name.com,,,
+8eb5e386-c0f1-4fb8-a3bf-da0c3b98ac34,geographic.accountant,premium,437.5,62.5,low,low,10,name.com,,,18/08/2026 22:27
+049c6143-5a4c-43e8-9852-0818475d34e2,geographic.top,available,1.88,4.88,low,low,10,namesilo,,,18/08/2026 22:27
+ef72472d-c414-49d9-9a41-de8dc0d45693,woods.cc,resell,,,medium,low,5,"Spaceship, Inc.",14/02/2026 09:31,14/02/2027 09:31,
+e9f7b54b-3944-4345-a385-311edd6089b1,boundaries.wine,available,9.99,,medium,low,10,name.com,,,
+4bc84880-6e5c-4f13-aa1a-1370574efb0c,geographic.energy,available,5.98,155.98,low,low,10,namecheap,,,18/08/2026 22:27
+ec428e5c-17df-434f-8f1c-b82c6763c9a1,charts.webcam,premium,640,77.35,low,low,6,namesilo,,,18/09/2026 23:12
+314ab04a-a22b-4d51-bdec-9ec90f9fd3ed,navigation.pet,available,6.98,35.98,medium,low,10,namecheap,,,10/09/2026 00:36
+ac993635-4e3a-4ce3-b807-cf05b0f2ce98,continent.lease,available,14.99,71.99,low,low,9,name.com,,,11/08/2026 23:26
+746aa682-9c63-4433-8c16-1b646e6c0620,boundaries.support,available,11.99,,medium,low,10,name.com,,,
+96c5e8a5-6093-44b8-85c7-71d2dac3cbf3,geological.tools,available,8.48,47.48,low,low,10,namecheap,,,18/08/2026 22:28
+0e9d3ee6-269d-4b41-a41a-f15603d3c8cf,geographic.photography,premium,242,242,low,low,10,namesilo,,,18/08/2026 22:27
+2d6ab31d-a928-4625-8f0a-f1271f8a8ffa,charts.auction,available,38.98,46.98,low,low,6,namecheap,,,18/09/2026 23:12
+892b5865-65ef-4d7c-a153-b3921ae9ee8f,boundaries.flights,available,59.99,,medium,low,10,name.com,,,
+0acbe50f-7a12-484b-a2cd-0859eb141c68,populations.country,available,2298,2450,low,low,11,namecheap,,,18/09/2026 17:58
+4d19c324-3490-48ce-89a0-ebbcd8b386b1,geological.wedding,available,32.49,32.49,low,low,10,namesilo,,,18/08/2026 22:28
+d46f88e4-1de1-46cd-aee3-703677ab693b,geographic.repair,available,5.98,47.48,low,low,10,namecheap,,,18/08/2026 22:27
+bd37f542-47c6-4196-8e0a-5a89efef21ec,spatial.racing,available,11.99,11.99,medium,high,7,namesilo,,,10/09/2026 15:07
+485a4021-addc-40fa-a3c5-cef6a8f825c1,geological.domains,available,19.99,56.99,low,low,10,name.com,,,18/08/2026 22:28
+d6f9c207-92e3-4f95-a5c6-6e23ea5b6781,maps.gift,available,14.99,14.99,medium,low,4,namesilo,,,
+704ece68-7979-4139-aa29-813cb5f153ca,geographic.contractors,available,9.99,45.99,low,low,10,name.com,,,18/08/2026 22:27
+6e2af5b4-5b36-442b-94ac-c91cc97c8d4a,continent.ooo,premium,15151.25,124.99,low,low,9,name.com,,,11/08/2026 23:26
+c25b3277-39f2-42bd-9452-31477f4d30f0,geographic.casino,available,6.98,191.98,low,low,10,namecheap,,,18/08/2026 22:27
+490fae5c-4566-4043-85b3-ec6bcc2404c2,boundaries.observer,available,15.99,,medium,low,10,name.com,,,
+0712c6c3-523a-42e3-9336-fd6e5d86b941,physical.meme,premium,195,195,medium,low,8,namecheap,,,08/09/2026 15:48
+348eb59b-4e9f-4fcc-8e6b-8434ebe6ec3c,physical.yachts,available,1.8,21.98,medium,low,8,namecheap,,,08/09/2026 15:48
+a440a657-377c-4213-a48a-380e2ddb3a56,continent.bot,available,64.98,78.98,low,low,9,namecheap,,,11/08/2026 23:26
+1f970987-c05e-4695-92c0-ff8d6182d025,maps.lease,available,14.99,71.99,medium,low,4,name.com,,,
+bdf3193b-024a-46b2-8b68-7550fd4c3def,geological.cleaning,available,75.49,75.49,low,low,10,namesilo,,,18/08/2026 22:28
+ce39fc6d-675e-45f2-84be-f496ccd71469,regions.fit,premium,47.2,29.5,low,low,7,namesilo,,,17/09/2026 14:38
+9ef565eb-4534-46fd-8e39-844ed222f956,boundaries.credit,available,11.99,,medium,low,10,name.com,,,
+5a5f1152-db34-4093-8b46-a24a9e6709d5,spatial.fans,premium,65,130,medium,high,7,namecheap,,,10/09/2026 15:07
+fdd5c37b-52b4-4deb-a4a7-52ab28beccf8,geographic.garden,available,1.98,43.98,low,low,10,namecheap,,,18/08/2026 22:27
+5a3849e1-5493-48f9-abd1-f298d1b25a4d,continent.consulting,available,8.48,67.98,low,low,9,namecheap,,,11/08/2026 23:26
 856a5cfc-f705-4d25-943e-dbcba0bd7147,map.vegas,premium,260,129.94,high,medium,3,namecheap,,,
 8fadaa8c-9b40-44eb-bb8a-f243d74f63b9,map.osaka,available,,,high,low,3,,,,
+dfbcc614-2ebd-4afd-8614-099845d0b3cb,charts.systems,available,18.99,34.99,low,low,6,namesilo,,,18/09/2026 23:12
+89315fbb-a008-4b7f-b7fa-f3ad46b9a282,navigation.cooking,available,32.49,32.49,medium,low,10,namesilo,,,10/09/2026 00:36
+c5b798cf-f5f3-46a9-8433-640032bad1d7,plans.law,available,95.99,95.99,medium,low,5,namesilo,,,
+9c6654fe-66c0-4ca1-abff-36f5d04ef5b1,boundaries.business,available,3.99,,medium,low,10,name.com,,,
 a695eb17-7259-4fb6-a721-d0fde0bae443,map.spot,premium,3250,3250,high,medium,3,namecheap,,,
+a45772b1-7812-404e-9bbd-2c1537587a91,spatial.cricket,available,23.59,23.59,medium,high,7,namesilo,,,10/09/2026 15:07
+90c36e99-0a2d-4e0d-a0c9-e18f2332d5a4,geological.vc,available,32.98,41.98,low,low,10,namecheap,,,18/08/2026 22:28
+5e79c5b2-3824-4502-bc19-09405bf2fa80,physical.land,available,5.98,54.98,medium,low,8,namecheap,,,08/09/2026 15:48
+6ccd24c5-4171-4f67-adfe-bbb31f457abb,physical.srl,premium,54.28,30.68,medium,low,8,namesilo,,,08/09/2026 15:48
+925efe05-b1ed-46fb-a078-e298ecb676e2,geographic.ooo,available,24.99,24.99,low,low,10,namesilo,,,18/08/2026 22:27
+bdf3775b-41b9-4cd4-b528-ab09e57f67d5,maps.equipment,available,19.99,41.99,medium,low,4,name.com,,,
+099debd1-0540-497c-980e-65ff4530048d,navigation.guide,premium,118.8,118.8,medium,low,10,namesilo,,,10/09/2026 00:36
 2bc63948-278c-4ee8-95e0-dbbdec3932ee,map.hamburg,resell,,,high,medium,3,,20/04/2016 14:44,20/04/2027 14:44,
+3f017a16-cef5-47d6-847e-c4df29bc1e3c,plans.shopping,available,14.99,,medium,low,5,name.com,,,
+3e733c29-931e-419c-808e-179be6773f58,seas.restaurant,available,11.98,81.98,medium,low,4,namecheap,,,
+27681af2-7b67-474c-8d38-e02c8e655f30,seas.uk,resell,,,medium,low,4,Shores Ltd,30/08/2017 12:15,30/08/2026 12:15,
+542093ea-a8c7-4844-b8fe-224c78e8a7f0,plans.sbs,premium,154.7,309.4,medium,low,5,namecheap,,,
+38e91007-18ec-4228-b40f-ff916e83444b,geological.associates,available,12.98,49.98,low,low,10,namecheap,,,18/08/2026 22:28
 ca494527-e95a-425a-bea2-81e900c4922a,map.asia,available,,,high,low,3,,,,
 37768bd3-e461-4b02-8717-65c2f250b503,map.berlin,resell,,,high,medium,3,,27/11/2015 16:02,27/11/2027 16:02,
+e5ccdce7-4a4b-4963-bc4d-b1c3cdad8e48,geological.vote,available,23.98,119.98,low,low,10,namecheap,,,18/08/2026 22:28
+aede3953-d545-44eb-877a-0f2db68a7486,geographic.luxury,premium,520,520,low,low,10,namecheap,,,18/08/2026 22:27
+7f1cf993-d160-4870-b9a4-69f29f88810c,seas.supplies,available,24.99,24.99,medium,low,4,namesilo,,,
+7f58eb4f-ab4d-4115-b843-cd1183ff2f54,atmosphere.country,available,2298,2450,low,low,10,namecheap,,,18/09/2026 16:39
+717e0388-3d1d-46fe-a6e9-0900f5e0feca,geological.navy,available,41.99,41.99,low,low,10,namesilo,,,18/08/2026 22:28
+c093ce5f-7333-4f21-a690-fd6ed517271c,navigation.link,premium,448,448,medium,low,10,namesilo,,,10/09/2026 00:36
 eddcfc85-bc17-4728-aaf2-49c4df823c09,map.london,premium,1385.92,34.65,high,medium,3,namecheap,,,
+32088b9c-364e-4010-be13-6b5bbef2af2d,physical.phd,premium,206.7,206.7,medium,low,8,namecheap,,,08/09/2026 15:48
+416db83a-945f-484c-ad01-50f2cb6eea28,boundaries.bot,available,78.98,,medium,low,10,namecheap,,,
+4c29113a-7a92-4827-92e8-70f70b2769a0,maps.gmbh,available,45.99,45.99,medium,low,4,namesilo,,,
+3e60cac4-7b80-4ae7-a1ae-141806212510,boundaries.tickets,available,399.99,,medium,low,10,name.com,,,
 2c81085d-a020-45eb-9e4a-b9570372fa03,map.sydney,available,,,high,low,3,,,,
+f8c882ac-2428-4417-a8da-f00cb783bf7f,geological.community,available,14.99,65.99,low,low,10,name.com,,,18/08/2026 22:28
+a3dcc6d6-48af-444a-849e-fed0e7727313,populations.eco,available,72.98,101.98,low,low,11,namecheap,,,18/09/2026 17:58
 97214d4f-26a8-4a40-972b-d1d3bc2c9256,map.melbourne,premium,431.69,431.69,high,medium,3,namecheap,,,
+a0b21011-858a-46cf-aa45-5e2e7654fb5b,charts.vodka,available,32.49,32.49,low,low,6,namesilo,,,18/09/2026 23:12
+43dd6961-bfe7-4677-b668-fc521e73e361,continent.phd,available,25.98,29.98,low,low,9,namecheap,,,11/08/2026 23:26
+5bc7073c-a8fd-4b9e-aab1-cff58a59a27c,boundaries.sbs,available,1.49,,medium,low,10,name.com,,,
+1be2a66c-ae20-4881-8201-759243c4e1a0,physical.sex,available,69.98,154.98,medium,low,8,namecheap,,,08/09/2026 15:48
+1b112361-b4f1-43f2-a2a3-f5a6874e6012,geological.party,available,5.25,6.25,low,low,10,namesilo,,,18/08/2026 22:28
+13c6e401-6e20-479c-b73b-2be313ea5e9a,surroundings.ag,available,89.99,79.99,low,low,12,namesilo,,,16/09/2026 13:55
+e8495a4c-051f-4387-b8ea-7c091088ca3c,continent.plus,available,4.98,72.98,low,low,9,namecheap,,,11/08/2026 23:26
+62ee841b-bf04-4777-89d3-4c1f78e5c31b,geographic.tube,premium,1250,34.99,low,low,10,name.com,,,18/08/2026 22:27
+98656509-6900-4179-89c9-412ff2d9203f,regions.bar,available,3.49,54.99,low,low,7,namesilo,,,17/09/2026 14:38
+2ccc763e-ef1f-4fee-82d0-903cb4cfd5f9,plans.coffee,available,23.99,,medium,low,5,name.com,,,
+7877298b-9898-444a-9623-5d6f5a5205ca,continent.cheap,available,5.98,49.98,low,low,9,namecheap,,,11/08/2026 23:26
+312d5608-fb05-47f2-980b-2768cd0aa66e,charts.hamburg,available,69.98,73.98,low,low,6,namecheap,,,18/09/2026 23:12
+c53e213f-3c34-4c72-a9c8-720a7346a9e7,charts.republican,available,7.49,28.99,low,low,6,namesilo,,,18/09/2026 23:12
+364ea880-4f41-4bc4-86a5-b816fda806d4,maps.limo,available,19.99,71.99,medium,low,4,name.com,,,
 8207f196-5f1e-4a04-8bc6-837148891dc6,map.nyc,available,,,high,low,3,,,,
+62706605-2d1a-44ce-8e5a-f801eb5c1fa0,boundaries.motorcycles,available,1.99,,medium,low,10,name.com,,,
+cb61996b-b7e4-4489-bc69-ee6ce49ee7ae,plans.adult,available,166.98,,medium,low,5,namecheap,,,
+5885855f-063a-4b36-9e0b-803edbac8d9a,geological.one,available,7.99,24.75,low,low,10,namesilo,,,18/08/2026 22:28
+22dd3355-4ccb-4610-83ae-9c43910077c0,physical.garden,available,1.98,43.98,medium,low,8,namecheap,,,08/09/2026 15:48
+aecd11b9-2448-4cb5-aca6-106e3cd0b9ea,continent.ngo,premium,62.5,31.25,low,low,9,name.com,,,11/08/2026 23:26
+6fdcc593-97a4-4691-aa31-4e2120935f12,regions.boats,premium,2660,2660,low,low,7,namesilo,,,17/09/2026 14:38
+afc16308-95f9-4791-b102-8a24043c6c1d,seas.meme,premium,62.5,62.5,medium,low,4,name.com,,,
+03cc6562-8c61-482f-bb5c-e36ccb10b531,geological.live,available,2.98,39.48,low,low,10,namecheap,,,18/08/2026 22:28
+78fff6af-d8df-42bf-b5de-a7420f0c3a0b,regions.lgbt,premium,85.8,85.8,low,low,7,namecheap,,,17/09/2026 14:38
+38cff443-886f-45bc-9b62-83691c3a1cd9,environment.black,available,27.99,64.99,medium,low,11,namesilo,,,19/09/2026 04:45
+1c3e4234-9241-4238-a3e2-6cf9fa357bbd,continent.observer,premium,11.8,11.8,low,low,9,namesilo,,,11/08/2026 23:26
+59faa076-051c-4d1b-acf5-3fdc39caf738,geographic.cards,available,3.99,50.99,low,low,10,name.com,,,18/08/2026 22:27
+316fbc22-6008-4790-b264-4861c8fe2c32,plans.careers,available,49.99,,medium,low,5,name.com,,,
+17a77c66-0795-422c-b980-e0e145ae5f20,regions.dealer,premium,2015,2600,low,low,7,namecheap,,,17/09/2026 14:38
+da112f37-3e99-4b9f-b990-941fbc1d139f,maps.bar,premium,1968.75,2812.5,medium,low,4,name.com,,,
+a63b6db4-9fba-4076-a65b-e05639be3547,geographic.engineer,available,17.99,56.99,low,low,10,name.com,,,18/08/2026 22:27
+6c810889-ed33-431e-b383-1d40de4c4809,mountain.house,resell,,,high,low,8,Porkbun LLC,06/02/2017 11:13,06/02/2027 11:13,
+4554e3f5-a036-4b25-8b6e-05f8b685b58e,charts.fund,available,14.99,71.99,low,low,6,namesilo,,,18/09/2026 23:12
+271c2973-719e-4147-a7b8-1deb824e646b,satellite.viajes,available,37.99,37.99,medium,low,9,namesilo,,,09/09/2026 21:34
+a91e86aa-c623-4425-93f7-4df8eb1a0039,seas.quest,available,1.8,19.98,medium,low,4,namecheap,,,
+299cd0bf-ba4f-4700-aec2-e67fe1c14f86,temperature.xyz,resell,,,high,low,11,West263 International Limited,02/11/2018 13:02,02/11/2027 23:59,
+6c38dab9-d229-40b7-b060-c40d39c255cc,countries.kiwi,available,35.68,,medium,low,9,namecheap,,,
+64a13d59-00eb-4644-8c65-199f8cba4983,charts.sucks,premium,2658.67,2658.67,low,low,6,namesilo,,,18/09/2026 23:12
+ec281ba5-c185-48fa-89ef-88dcec95ad1c,surroundings.archi,available,19.99,103.99,low,low,12,namesilo,,,16/09/2026 13:55
+8074a320-f974-4214-b7f8-2111e24ae73c,geological.jetzt,available,13.99,29.99,low,low,10,name.com,,,18/08/2026 22:28
+dade83d8-538e-4d69-9c17-023b3117eac7,atmosphere.vote,available,34.99,90.99,low,low,10,namesilo,,,18/09/2026 16:39
+0e30289d-5283-4cf1-98ce-aca724bea19e,regions.sex,available,69.98,154.98,low,low,7,namecheap,,,17/09/2026 14:38
+2cbc9445-937c-41b4-9fe8-651cebf82e76,regions.foo,premium,76.7,76.7,low,low,7,namecheap,,,17/09/2026 14:38
+0d086e71-a088-4de7-ab46-d5e91d144c5b,boundaries.broker,available,19.99,,medium,low,10,name.com,,,
+4e390fbd-4c14-427d-bedd-68fa3797f355,geological.soccer,available,19.99,37.99,low,low,10,name.com,,,18/08/2026 22:28
+643627ae-1725-4407-9689-71dc84953566,charts.cafe,available,5.98,64.98,low,low,6,namecheap,,,18/09/2026 23:12
+e0e61637-c3f4-40b8-9947-5f02195bbbd6,territory.ink,resell,,,high,low,9,"NameCheap, Inc.",15/08/2025 08:58,15/08/2026 08:58,
+12510d35-3077-43b5-8e4e-ade26ba9f7b3,charts.rsvp,premium,167.7,167.7,low,low,6,namecheap,,,18/09/2026 23:12
+5d5675d3-9b52-4a7e-8949-bac27e0da726,continent.skin,available,1.8,19.98,low,low,9,namecheap,,,11/08/2026 23:26
+84877d89-2704-4150-9ca0-7510ac2536e8,charts.farm,available,15.99,38.99,low,low,6,namesilo,,,18/09/2026 23:12
+d5516cf7-633c-496e-b3f5-5cfc7549aa7d,boundaries.supplies,available,32.48,,medium,low,10,namecheap,,,
+c06ac3a3-47f7-4d5e-8e4b-a0aa93124d7c,atmosphere.pub,available,39.99,39.99,low,low,10,namesilo,,,18/09/2026 16:39
+675577cd-4652-4cfc-ab61-42d683dc330e,continent.immo,available,14.99,45.99,medium,low,9,name.com,,,11/08/2026 23:26
+c59bf397-133e-480a-9a30-76f758bf0322,geological.archi,available,14.98,132.98,low,low,10,namecheap,,,18/08/2026 22:28
 15c86511-4d9d-4bbb-9daa-6d5aee3e3012,map.mx,available,,,high,low,3,,,,
+4de24bd6-ee54-471e-9f3b-b49226f97532,physical.cyou,premium,68.43,147.2,medium,low,8,namesilo,,,08/09/2026 15:48
+b1c20c11-2c79-4c23-92bd-f5656b003464,maps.mov,premium,1248.75,1248.75,medium,low,4,name.com,,,
+e047d8ea-c411-4cda-b2dd-49fd9f7c2b9b,geographic.country,available,2298,2450,low,low,10,namecheap,,,18/08/2026 22:27
+9ceffb41-6fbe-4264-ace7-fef40b1a4570,boundaries.sale,available,5.99,,medium,low,10,name.com,,,
 e8d3733f-4383-46aa-8566-53e5f6fd0e9b,map.archi,available,24.99,,high,medium,3,name.com,,,
+2ab2f3ce-38e8-43e7-9d0a-c414ed23e4cd,continent.education,available,34.99,34.99,low,low,9,namesilo,,,11/08/2026 23:26
+5e87d3f3-8f90-4c21-95e3-91b3e904ef30,boundaries.law,available,119.99,,medium,low,10,name.com,,,
+bdc93033-9f0e-4f9c-a3dc-15685eca5eb1,surroundings.melbourne,available,58,58,low,low,12,namesilo,,,16/09/2026 13:55
+9fe3edc2-141a-41eb-a9f4-fb4a55be7aa2,spatial.club,premium,960,17.7,medium,high,7,namesilo,,,10/09/2026 15:07
 0394026e-8147-48d9-9aab-5022808be304,map.im,available,,,high,low,3,,,,
+b26c2f33-0cba-4e4d-a2e1-c823d667ca15,charts.productions,available,10.99,40.49,low,low,6,namesilo,,,18/09/2026 23:12
+6033376e-3470-4135-a03f-0124be94774a,geographic.gifts,available,14.99,46.99,low,low,10,name.com,,,18/08/2026 22:27
+77d6c9d0-7869-4940-b855-4ead80d777e7,charts.photography,available,14.49,36.49,low,low,6,namesilo,,,18/09/2026 23:12
+f40d4297-b530-470c-97c2-e9ed3abca245,seas.studio,available,12.98,52.98,medium,low,4,namecheap,,,
+4f6d6ed7-864e-4d1c-9349-1977f1a52d74,boundaries.gmbh,available,47.99,,medium,low,10,name.com,,,
+de79d1ad-87d4-41b9-b7cd-9e511fbed121,plans.limited,premium,118.8,118.8,medium,low,5,namesilo,,,
+e5889cb1-b26c-4ef1-9a32-e02fe8d471bb,charts.llc,premium,1107,1107,low,low,6,namesilo,,,18/09/2026 23:12
 511cbd08-0fc9-4430-91f3-f363b6d52f23,map.quest,premium,10400,10400,high,medium,3,namecheap,,,
+f334eb31-d912-49cc-8188-d6807fbfc835,seas.cheap,available,5.98,49.98,medium,low,4,namecheap,,,
+56e7f87a-39a0-42ee-89ac-0dcb6467e20d,plans.markets,available,9.99,,medium,low,5,name.com,,,
+123e7566-b551-493f-8382-03ef439e5e20,people.solutions,resell,,,high,medium,6,Porkbun LLC,09/09/2016 08:02,09/09/2026 08:02,
+178e7b58-337f-4ea2-8492-a9e99373d1e9,resources.miami,available,23.49,23.49,medium,low,9,namesilo,,,
+a754a754-4806-4438-8f6c-32f7372f6495,geological.name,available,8.98,9.98,low,low,10,namecheap,,,18/08/2026 22:28
+e10a2f72-a434-4397-99b5-8b72e6b31a77,maps.charity,available,5.99,40.99,medium,low,4,name.com,,,
+7ca8d8ae-3da6-45a5-9e1c-189170206ef2,valley.financial,resell,,,medium,low,6,"GoDaddy.com, LLC",10/04/2015 13:10,10/04/2027 13:10,
+afcdac0a-0dc1-415b-b109-1358b2b00027,charts.moe,available,14.98,17.88,low,low,6,namecheap,,,18/09/2026 23:12
+a83921a5-220e-4275-8638-4cada8dcbeea,regions.shop,premium,2660,35.4,low,low,7,namesilo,,,17/09/2026 14:38
+257474f7-7b24-4d2c-9797-bc310a3d3642,continent.win,premium,437.5,62.5,low,low,9,name.com,,,11/08/2026 23:26
+ea0eb3fc-50f8-44f4-ab2e-98893eb0ceec,solarsystem.mobile,available,26.98,,high,low,12,namecheap,,,
+3070064b-9a51-48c3-8e24-505219c704ca,plans.money,available,19.99,,medium,low,5,name.com,,,
+300adeaf-f090-41aa-bd77-930c4afe0cd1,surroundings.how,available,30.98,41.98,low,low,12,namecheap,,,16/09/2026 13:55
+8749fd9d-ceda-4145-b613-0dde1fac2083,geological.taxi,available,8.98,69.98,low,low,10,namecheap,,,18/08/2026 22:28
+a98e2bdc-8fa3-4112-a737-76f18f29c11f,charts.ac,available,28.98,76.98,low,low,6,namecheap,,,18/09/2026 23:12
+3f572f10-ca48-4413-88e2-2b20140c2983,geographic.fit,available,2.98,45.98,low,low,10,namecheap,,,18/08/2026 22:27
+dc5a1933-d58c-4a60-8a66-dd12c23bc1e7,satellite.land,premium,118.8,118.8,medium,low,9,namesilo,,,09/09/2026 21:34
+cb0c66ea-aae8-4d5c-a872-fe3832be4715,atmosphere.voto,available,11.98,86.98,low,low,10,namecheap,,,18/09/2026 16:39
+8db9f99a-2a43-4554-96dc-e82f238ae76e,charts.mortgage,premium,242,242,low,low,6,namesilo,,,18/09/2026 23:12
+9837c2fc-b807-46d9-b0b7-90d0f13a261d,charts.gg,resell,,,medium,low,6,,,,18/09/2026 23:12
+d37751b8-36f0-47d6-8d77-731a98fb71ed,regions.download,premium,448,53.92,low,low,7,namesilo,,,17/09/2026 14:38
+8eee594a-502a-4807-b7fe-80a4a1b7ece0,plans.dad,premium,311.25,,medium,low,5,name.com,,,
+1a6054a8-c5f1-4392-a82b-f66431faeacb,navigation.enterprises,available,9.48,47.98,medium,low,10,namecheap,,,10/09/2026 00:36
+9dec6f6d-2e31-4eaf-b420-8d9ba862d548,navigation.pictures,available,15.49,15.49,medium,low,10,namesilo,,,10/09/2026 00:36
+a5cc9c04-ed25-4301-8503-d9210ee427cf,navigation.vision,available,45.99,45.99,medium,low,10,namesilo,,,10/09/2026 00:36
 222be03f-e78c-4c2d-8b4d-b3a51403e860,map.reise,available,99.99,,high,medium,3,name.com,,,
+fdeca302-3340-438e-86ff-b22c808dad74,seas.fun,premium,781.25,3125,medium,low,4,name.com,,,
+3315c69a-240c-483b-95bc-52a1f11ee893,charts.audio,available,104.99,114.99,low,low,6,namesilo,,,18/09/2026 23:12
 dacc0b4d-1a1f-4f28-ba12-c2b47d070169,map.tours,resell,,,high,low,3,"Network Solutions, LLC",08/12/2024 18:33,08/12/2026 18:33,
 7db24876-d10a-4fdb-a45f-1c0511363e7f,map.vacations,resell,,,high,medium,3,"Global Domains International, Inc. DBA DomainCostClub.com",01/08/2021 19:31,01/08/2026 19:31,
 93e09f97-d722-4bba-bd74-0e1f134657a0,map.flights,premium,260,260,high,medium,3,namecheap,,,
 4d60112b-4eaf-452e-9c91-ec628c5d53b7,map.viajes,available,37.99,37.99,high,medium,3,namesilo,,,
+75c2c81c-4073-4a62-b307-d77163312fdd,surroundings.hot,available,51.99,51.99,low,low,12,namesilo,,,16/09/2026 13:55
+0295c4fd-b163-4927-9aca-79f8a1a505c7,seas.loan,premium,437.5,62.5,medium,low,4,name.com,,,
+b83e300f-7bef-4101-a639-21ab5e6ef4d1,charts.ceo,available,10.19,129.99,low,low,6,namesilo,,,18/09/2026 23:12
+ef008192-691f-4acd-9679-1ca4d8b63b9c,geological.news,available,8.98,41.48,low,low,10,namecheap,,,18/08/2026 22:28
+3795b4d5-6804-4055-bdaa-79bb4370e03f,navigation.direct,premium,118.8,118.8,medium,low,10,namesilo,,,10/09/2026 00:36
 0027b38e-6e7a-4c94-a250-ac6dad3c9aa6,map.science,premium,650,84.5,high,medium,3,namecheap,,,
+5043d836-152e-4260-8711-d1a8f5dd9d50,maps.webcam,premium,625,81.25,medium,low,4,name.com,,,
+5818b10b-fc48-4347-b7c3-40fcc0d75d64,regions.college,available,17.99,59.99,low,low,7,namesilo,,,17/09/2026 14:38
+02e52f80-eeb1-4df2-81af-2f446d1f0083,atmosphere.date,premium,116,29.5,low,low,10,namesilo,,,18/09/2026 16:39
+083f8e96-82fb-403d-b226-7bc37d6a156b,boundaries.dentist,available,76.99,,medium,low,10,name.com,,,
+dd393f7c-b05f-4eeb-90bb-ab3972735e24,plans.vin,available,11.99,,medium,low,5,name.com,,,
+53efd0a3-6495-4df2-afb7-7296357e5836,continents.immobilien,available,37.99,37.99,low,low,10,namesilo,,,18/09/2026 12:00
+3e8906cf-40cf-46d5-8bb4-331577401c97,continent.beer,available,1.98,43.98,low,low,9,namecheap,,,11/08/2026 23:26
+ba65c468-fe67-44bf-84a9-51845dd44e76,community.ryukyu,available,17.98,22.98,medium,medium,9,namecheap,,,04/09/2026 10:05
+c4866880-e05e-48e6-8cc2-c73af75a102e,continent.shoes,available,34.98,81.98,low,low,9,namecheap,,,11/08/2026 23:26
+44afe477-d176-4848-8ec1-a6b12371273b,atmosphere.new,available,488.98,601.98,low,low,10,namecheap,,,18/09/2026 16:39
+3c3dad7d-61af-4142-a6b0-2bed12260962,physical.top,resell,,,medium,low,8,Dynadot LLC,21/02/2023 14:29,21/02/2027 14:29,08/09/2026 15:48
+213ba5b3-ee73-4ce3-91e6-499c8f9e6965,plans.toys,available,19.99,,medium,low,5,name.com,,,
+d5462cd4-4000-45aa-828f-e24cf1f969cb,boundaries.site,available,2.99,,medium,low,10,name.com,,,
+17e9ba62-92c2-4a7d-8b55-f09b267685f2,boundaries.pet,available,19.99,,medium,low,10,name.com,,,
+3676bf96-97c7-4220-b63c-df1d98cc6dd6,continents.mx,available,39.99,43.99,low,low,10,namesilo,,,18/09/2026 12:00
 c81b720c-de73-439e-81e7-95dae0fec8c0,map.property,available,,,high,low,3,,,,
+063cfc41-980f-49e6-aa01-a06889dbc8a6,boundaries.dog,available,5.99,,medium,low,10,name.com,,,
+29f76a06-9de1-4c3c-928d-57ef35160275,surroundings.soy,available,28.98,39.98,low,low,12,namecheap,,,16/09/2026 13:55
+4390224b-49b8-4de6-afe6-61350cd05160,surroundings.homes,available,1.8,21.98,low,low,12,namecheap,,,16/09/2026 13:55
+b51dedd5-f222-4744-bb2a-9eec401133dc,charts.global,available,46.99,95.99,low,low,6,namesilo,,,18/09/2026 23:12
+1bed26bb-9152-4cba-8f77-2bbd4ef0f39a,physical.claims,available,11.98,82.98,medium,low,8,namecheap,,,08/09/2026 15:48
+51d568ee-30fa-4605-81e0-612325fcd097,navigation.webcam,available,11.99,11.99,medium,low,10,namesilo,,,10/09/2026 00:36
+590dd751-6796-4ad4-99ea-49e97744a813,surroundings.blackfriday,available,114.99,114.99,low,low,12,namesilo,,,16/09/2026 13:55
+f8f33f73-1063-4610-9c70-fa37f3e1b9e4,surroundings.works,available,7.99,38.99,low,low,12,namesilo,,,16/09/2026 13:55
+379eabca-2979-44fd-8995-0e43ed219dc0,geographic.security,available,1999.99,2049.99,low,low,10,namesilo,,,18/08/2026 22:27
+757fc395-35c9-4dbf-ac91-8729de71d9a4,navigation.dating,available,12.98,86.98,medium,low,10,namecheap,,,10/09/2026 00:36
+6f2a96f3-9411-4bdf-b203-d22ee9ee55c3,maps.zone,resell,,,medium,low,4,"NameCheap, Inc.",20/01/2026 16:34,20/01/2027 16:34,
+2e4d2918-1027-4807-b592-5be80d96a8df,geographic.realty,available,99.8,456.98,low,low,10,namecheap,,,18/08/2026 22:27
+94a33611-23b8-46de-ae31-bd152f4c1371,physical.hosting,available,309.99,429.99,medium,low,8,namesilo,,,08/09/2026 15:48
+baaa02e2-baa9-4d04-a6b2-176d762b75b4,satellite.sexy,available,2749.99,2749.99,medium,low,9,namesilo,,,09/09/2026 21:34
+e3d0ad51-1523-46cc-8516-2d53302e9e18,navigation.sydney,available,44.98,54.98,medium,low,10,namecheap,,,10/09/2026 00:36
+44af1965-23cc-4ac4-bd05-2d78c2c2c994,geographic.mobile,available,22.98,26.98,low,low,10,namecheap,,,18/08/2026 22:27
+06eb97dd-8b1d-4c46-968e-643f3273b530,charts.coupons,available,5.99,54.99,low,low,6,namesilo,,,18/09/2026 23:12
 256cae2b-3fb0-43c3-bb88-67e2a37d041c,map.realty,premium,4550,6500,high,medium,3,namecheap,,,
 0fa1b5c3-0ea4-4713-a61a-2425a7839418,map.apartments,premium,128.7,128.7,high,medium,3,namecheap,,,
 40d42f77-fd82-4664-bddb-bb7cdcdbda06,map.villas,premium,128.7,128.7,high,medium,3,namecheap,,,
@@ -47,81 +548,278 @@ c3ef66ad-a3bd-4aa3-bb4f-d254188fefad,map.rentals,premium,128.7,128.7,high,medium
 286cf669-262c-4345-a9fa-a35a27cb907f,map.condos,premium,128.7,128.7,high,medium,3,namecheap,,,
 bf36e250-6452-4f67-b6eb-7bfd739e10b5,map.homes,premium,118450,,high,medium,3,"Spaceship, Inc.",14/07/2021 02:43,14/07/2026 23:59,
 9ec09b7c-c16d-45d8-9e05-0837a95d8e4d,map.maison,available,19.99,,high,medium,3,name.com,,,
+8fecae4d-4c6d-47ea-9a3b-b05425bbddad,continent.locker,available,6.88,37.99,low,low,9,namesilo,,,11/08/2026 23:26
 f7b6fcd7-0e16-4728-89b9-5769ed260abf,map.pw,premium,3250,3250,high,medium,3,namecheap,,,
+245dd611-7c9b-4a2e-bb1b-f6d83852a141,plans.london,premium,336.38,,medium,low,5,name.com,,,
+ee5485ae-815f-422e-a178-88041906e27b,charts.immo,available,34.99,34.99,low,low,6,namesilo,,,18/09/2026 23:12
+f8d05828-a411-4839-8129-6a0bc87053b9,navigation.marketing,available,6.98,53.98,medium,low,10,namecheap,,,10/09/2026 00:36
+89a83d31-8728-4fc8-bc6a-8a656c212cdd,geographic.software,available,11.98,56.98,low,low,10,namecheap,,,18/08/2026 22:27
+c052d836-2f48-420c-bb95-0fecd4a7004d,navigation.cleaning,available,75.49,75.49,medium,low,10,namesilo,,,10/09/2026 00:36
+d7f743e1-cc72-4713-8248-ebeaedf9ff5d,resources.best,available,2.35,17.79,medium,low,9,namesilo,,,
+80585fb5-fce0-4180-ab75-1cb65a368b96,atmosphere.fashion,available,32.49,32.49,low,low,10,namesilo,,,18/09/2026 16:39
+8257a892-ff19-4fec-b064-83276448d542,spatial.country,available,2298,2450,medium,high,7,namecheap,,,10/09/2026 15:07
+e5476187-984e-402e-bcc5-1ab638321181,regions.fast,premium,53.92,53.92,low,low,7,namesilo,,,17/09/2026 14:38
 00543221-1158-434e-849d-07482e0ef22b,map.me,available,,,high,low,3,,,,
+c20edf4d-a9b0-47d8-991c-6b5da075d0b2,physical.health,premium,6500,78,medium,low,8,namecheap,,,08/09/2026 15:48
+ca71d34f-8c32-4a85-ab11-58f601c84f73,surroundings.mba,available,17.99,39.99,low,low,12,namesilo,,,16/09/2026 13:55
+649027bb-1061-4d54-badd-b15b1aaea322,resources.creditcard,available,9.99,,medium,low,9,name.com,,,
+85d0414f-75e3-45a4-a92e-7d04cb9e448d,plans.win,premium,437.5,,medium,low,5,name.com,,,
+3717a858-733d-481f-9495-b288a58f02a1,physical.cool,available,5.98,50.98,medium,low,8,namecheap,,,08/09/2026 15:48
+5bfd5355-c71e-45d4-a1b5-aead1e15f7b1,surroundings.audio,available,108.98,159.98,low,low,12,namecheap,,,16/09/2026 13:55
+569a4617-fb1e-4412-8e0b-1e5ac5f4fb99,geological.theater,available,19.99,83.99,low,low,10,name.com,,,18/08/2026 22:28
 4b802ac1-b43d-4f62-8842-9daada0734db,map.irish,premium,260,260,high,medium,3,namecheap,,,
+cbf40b51-c5d6-4d80-b339-b45ef3a52afd,boundaries.tips,available,14.99,,medium,low,10,name.com,,,
+66252153-f057-491c-a916-daad0d83a0ba,navigation.film,available,65.99,65.99,medium,low,10,namesilo,,,10/09/2026 00:36
+75f129d5-ac97-4753-8d6d-e37dfdf5d219,oceans.photos,available,8.98,40.98,low,low,6,namecheap,,,18/09/2026 06:58
 f6dcba09-0b83-4cf2-a176-dee5c20a6ff9,map.co,resell,263769.75,48.99,high,medium,3,"GoDaddy.com, LLC",24/02/2010 22:43,23/02/2027 23:59,
+258b27e8-1f00-48dd-93e2-e9f54b557f68,environmentally.co,premium,116,116,medium,low,15,namesilo,,,
+f7a1147f-3cef-429d-9fc7-0efcc5bc4f49,geographic.studio,available,14.98,52.98,low,low,10,namecheap,,,18/08/2026 22:27
+a8ca68a4-5a3d-47e6-9446-9ef760e94fd3,geographic.house,available,12.98,55.98,low,low,10,namecheap,,,18/08/2026 22:27
 b5e0cf6a-e8b2-423d-99fd-26583bbd214a,map.online,premium,3125,12500,high,medium,3,name.com,,,
 0726b9c6-d948-4e7b-a4aa-241c343af1e0,map.cruises,premium,128.7,128.7,high,medium,3,namecheap,,,
+c8296649-afde-4b08-9e54-c93fa9fcc1ee,maps.camera,premium,23.6,23.6,medium,low,4,namesilo,,,
+3135c1c5-2c59-47df-b00b-ddb8d8a4bcbe,maps.viajes,available,37.99,37.99,medium,low,4,namesilo,,,
+5666ce05-f7dd-4a7a-b114-ab7b31704c95,continent.international,available,9.48,40.48,low,low,9,namecheap,,,11/08/2026 23:26
+5b6fa35c-d95f-4b87-a834-ddf4db7f9fc1,geographic.coupons,available,2.98,59.98,low,low,10,namecheap,,,18/08/2026 22:27
+2236fc1d-7ff3-45bf-8d2d-2e6f0e8d90fe,seas.gay,available,2.99,53.99,medium,low,4,name.com,,,
+b40b15f9-9172-47c0-b4a1-4da70e0609fc,atmosphere.boats,available,1.99,17.29,low,low,10,namesilo,,,18/09/2026 16:39
+bb97ef63-499e-442a-b892-b20116d5d66f,maps.shoes,available,34.98,81.98,medium,low,4,namecheap,,,
+2a7c77ca-dd55-47ea-bc71-d49248febf18,navigation.kids,premium,53.92,21.24,medium,low,10,namesilo,,,10/09/2026 00:36
+2fafdbd4-92e7-4a2b-8079-529888ea6b2d,boundaries.enterprises,available,5.99,,medium,low,10,name.com,,,
 4cf252ce-c3c1-42d6-89bd-c5a84e963c28,map.contractors,premium,42.9,42.9,high,medium,3,namecheap,,,
 4c1a9c76-d771-4899-97a5-e59f736a871c,map.build,premium,3900,3900,high,medium,3,namecheap,,,
+0ccabd21-bf10-43c7-8d61-952514587707,continent.voting,available,1398,1448,low,low,9,namecheap,,,11/08/2026 23:26
+9d1a6134-d777-47c4-ab9b-0512896cacd3,geographic.com,resell,,,low,low,10,"GoDaddy.com, LLC",21/03/1995 05:00,22/03/2029 04:00,18/08/2026 22:27
+28eee658-33e0-444c-b177-1471f9aa94bf,geographic.golf,available,6.98,83.98,low,low,10,namecheap,,,18/08/2026 22:27
+fc5b6160-6f19-424f-9e6e-df74b4f2ea45,geological.today,available,2.98,38.98,low,low,10,namecheap,,,18/08/2026 22:28
 ba711ec6-c609-4d53-a5cc-a97f413f98ac,map.management,resell,,,high,medium,3,"eNom, LLC",23/03/2014 00:25,23/03/2027 00:25,
+2356039c-3f0c-4d96-94d2-6711e23072e9,remote.ryukyu,available,22.98,,high,medium,6,namecheap,,,
+1bd48ffc-2279-40f5-aa21-91803fcc554e,boundaries.salon,available,14.99,,medium,low,10,name.com,,,
+193ade68-4cf5-4806-9516-50d48fb5309a,oceanic.osaka,available,32.98,41.98,medium,medium,7,namecheap,,,04/09/2026 00:26
+53cf23c6-e33b-4124-8a55-01178c5a7c1e,surroundings.fans,available,4.98,13.98,low,low,12,namecheap,,,16/09/2026 13:55
+02078b94-ee5f-4fc5-8317-28d4a91d6f0f,charts.nyc,available,31.99,31.99,low,low,6,namesilo,,,18/09/2026 23:12
+e96905ea-2595-4120-be37-cd8787e18e81,surroundings.equipment,available,28.99,28.99,low,low,12,namesilo,,,16/09/2026 13:55
+3ea58dd5-f38b-4f0c-b54c-54c9479e3d3d,seas.accountants,available,43.99,153.99,medium,low,4,name.com,,,
+7e4a7f25-03d9-4aa3-bedf-a9d72f7d3a74,oceans.blog,premium,640,2660,low,low,6,namesilo,,,18/09/2026 06:58
+2f0e5e3a-9a95-40f3-83e4-fed496791bc4,resources.institute,available,9.99,,medium,low,9,name.com,,,
+22e469ba-ca80-4cfd-9483-71feaf7fee06,continent.kaufen,available,5.99,26.99,low,low,9,namesilo,,,11/08/2026 23:26
+eece95df-4ce0-4fb4-a892-e36c68485229,populations.top,available,2.98,6.98,low,low,11,namecheap,,,18/09/2026 17:58
+ab11a81f-37d9-43fa-ab05-f0f9d4d47495,regions.gift,available,14.99,14.99,low,low,7,namesilo,,,17/09/2026 14:38
+6a3b273a-018c-4b7a-a3d9-242f5205f107,populations.rip,available,24.98,32.98,low,low,11,namecheap,,,18/09/2026 17:58
+6266b409-20a3-4dc2-87ae-35225cac672e,spatial.tickets,available,359.99,488.88,medium,high,7,namesilo,,,10/09/2026 15:07
+e338e8de-6a87-497c-b454-ce5d45519274,elevation.rent,available,5,81.98,medium,low,9,namecheap,,,24/08/2026 20:49
+e137ef45-5849-44fc-8471-c129741c25ae,boundaries.florist,available,14.99,,medium,low,10,name.com,,,
+43d1c881-995f-4af7-ae1c-c0974c76fc16,resources.fund,premium,500,,medium,low,9,name.com,,,
+221f69a5-9350-4dcd-9fc6-fa75a3190135,temperature.paris,available,51.98,,high,low,11,namecheap,,,
+194b56fe-3f92-473c-b2a8-0609e481c5c3,oceans.security,available,1999.99,2049.99,low,low,6,namesilo,,,18/09/2026 06:58
+d030216f-21b2-4e4a-9a88-e3cf2cee304b,seas.photos,available,8.98,40.98,medium,low,4,namecheap,,,
+f32bd037-8b8c-48f4-8dc1-84d37a0c2eda,atmosphere.mortgage,available,62.99,62.99,low,low,10,namesilo,,,18/09/2026 16:39
+70527a58-f058-4fd4-9ac8-bde5a52b1ddf,geological.mortgage,available,14.99,81.99,low,low,10,name.com,,,18/08/2026 22:28
+cfa1c9aa-8050-4196-a45b-e92dcb432a17,physical.clothing,available,31.98,35.68,medium,low,8,namecheap,,,08/09/2026 15:48
+6d9c9eae-fc7f-4d67-9161-96a19cf7f3dd,plans.band,available,29.99,,medium,low,5,name.com,,,
+c25656b3-f06a-489c-8fb8-3e4275260160,regions.boston,available,23.49,23.49,low,low,7,namesilo,,,17/09/2026 14:38
+aaf49e12-66bb-4496-9233-973cd79cebca,geographic.how,available,30.98,41.98,low,low,10,namecheap,,,18/08/2026 22:27
 f128afa8-f8f8-46bf-b33f-10617fcbb036,cartography.zone,available,51.98,,medium,high,11,namecheap,,,
+abe7edeb-c5c9-42b3-8d7c-b7f76aa24a45,physical.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,08/09/2026 15:48
+c7bd07ad-0642-4964-8e0d-f1f5fee59eb4,populations.link,premium,32.5,32.5,low,low,11,namecheap,,,18/09/2026 17:58
+15c8da6e-4a7f-4105-b7a2-191c699621a5,seas.clinic,available,11.98,82.98,medium,low,4,namecheap,,,
+56f6f15c-04b8-4c0d-adfa-6ecb65282511,surroundings.shoes,available,64.99,64.99,low,low,12,namesilo,,,16/09/2026 13:55
+05de0eab-5c5a-4670-9756-29d3c2b430e1,charts.repair,available,12.99,36.99,low,low,6,namesilo,,,18/09/2026 23:12
+3d8cc327-6714-47ef-8669-a7b9664f2208,charts.science,premium,3450,116,low,low,6,namesilo,,,18/09/2026 23:12
+8a07cebf-300c-44d5-8ee1-70a11d1e99b6,seas.reise,available,27.89,97.99,medium,low,4,namesilo,,,
+deb3b823-2973-4b53-9416-db00e4e1dd4a,physical.estate,available,6.98,52.98,medium,low,8,namecheap,,,08/09/2026 15:48
+fbee8ec4-3a8e-40ff-9593-525c1dfba93c,spatial.uno,premium,302.5,302.5,medium,high,7,namesilo,,,10/09/2026 15:07
+c71ccd95-aecf-447a-a0e6-d9ac94b04ae8,measuring.ryukyu,available,24.99,,high,low,9,name.com,,,
+d37857de-3b61-46c1-a1a7-04d31f816c77,continent.cab,available,23.99,43.99,medium,low,9,name.com,,,11/08/2026 23:26
 ab22be39-f9d1-40ba-8ab7-1c4f0d38a3aa,map.boats,resell,,,high,medium,3,Namecheap,21/03/2026 04:28,21/03/2027 23:59,
-fe2f7f5c-eb21-4d2c-bedf-0cb0400c3a60,map.app,resell,,,high,medium,3,West263 International Limited,17/07/2019 03:35,17/07/2026 03:35,
+2650c023-5c29-4b81-bfdf-754e2e6f38e1,continent.cards,available,3.99,50.99,low,low,9,name.com,,,11/08/2026 23:26
+8857296a-5973-4402-b353-0dc9a6138ab8,maps.baby,resell,,,medium,low,4,Dynadot LLC,08/02/2026 16:17,08/02/2027 23:59,
+35fa71bb-7a7e-43b8-ac99-d20103b74f5d,continents.engineering,available,16.99,64.99,low,low,10,namesilo,,,18/09/2026 12:00
+63e616bb-43e9-4b08-b98e-d905346ea91e,geological.contractors,available,9.99,45.99,low,low,10,name.com,,,18/08/2026 22:28
+4818f1a8-5027-4cad-b8df-89d9a3ef5722,geological.sex,available,69.98,154.98,low,low,10,namecheap,,,18/08/2026 22:28
+f27906ad-7654-4c53-b9e5-eab973ba5aa5,geological.fans,available,4.98,13.98,low,low,10,namecheap,,,18/08/2026 22:28
+844abb9b-f510-46fe-b2bb-17ea7aa7658d,populations.health,available,12.98,107.98,low,low,11,namecheap,,,18/09/2026 17:58
+fe2f7f5c-eb21-4d2c-bedf-0cb0400c3a60,map.app,resell,,,high,medium,3,West263 International Limited,17/07/2019 03:35,17/07/2027 03:35,19/09/2026 09:26
+2ecc618a-f661-4902-b12d-d93186f8bbd8,resources.porn,available,154.98,,medium,low,9,namecheap,,,
+7705e825-d174-4297-8693-23a59cfcf924,charts.boo,premium,167.7,167.7,low,low,6,namecheap,,,18/09/2026 23:12
+7dce1970-e9d5-4713-b144-879f34f0a42e,satellite.holdings,available,64.99,64.99,medium,low,9,namesilo,,,09/09/2026 21:34
+c9141ccd-8a01-4d6b-878d-ebfa3133732d,physical.download,premium,448,53.92,medium,low,8,namesilo,,,08/09/2026 15:48
+731ff1f4-e46b-44e6-8aa0-715624f319da,navigation.inc,premium,2015,2600,medium,low,10,namecheap,,,10/09/2026 00:36
 3ef66007-66aa-41c6-adc9-048c6abdfdc2,map.juegos,available,478.98,,high,medium,3,namecheap,,,
 85e6c7dd-45c9-4d04-8535-cebc42d39bff,map.game,premium,1690,1690,high,medium,3,namecheap,,,
+045d6b41-6374-44ed-a47c-acebcb21144e,plans.degree,available,14.99,,medium,low,5,name.com,,,
+49b49014-8199-406d-8d10-e33ff04e7a21,geographic.dog,available,5.98,86.98,low,low,10,namecheap,,,18/08/2026 22:27
+1cc41467-4c53-4dd9-901e-7cefc85dea3e,atmosphere.dance,available,16.99,27.49,low,low,10,namesilo,,,18/09/2026 16:39
+3a2a2973-f6aa-4322-b608-0253e0ad7956,oceans.works,available,7.99,38.99,low,low,6,namesilo,,,18/09/2026 06:58
+1bd80e43-e96e-4e16-828d-134a066f8ed2,seas.lgbt,premium,625,625,medium,low,4,name.com,,,
+4ec1798d-4441-40e7-ab81-49f214ef5296,geological.finance,available,11.99,84.99,low,low,10,name.com,,,18/08/2026 22:28
+4cbf25a3-3ccf-47a9-b52d-abd5b5086e4b,mountains.science,available,34.99,37.99,low,low,9,name.com,,,17/09/2026 17:48
+d371903e-fa02-4db0-829f-8acdc2b5e28d,satellite.villas,available,19.99,80.99,medium,low,9,name.com,,,09/09/2026 21:34
+d13032a7-b43d-4de3-a319-4962e480613c,physical.fishing,available,32.49,32.49,medium,low,8,namesilo,,,08/09/2026 15:48
+a22a9ea1-edb7-415b-b37b-80019fbf4bc9,physical.you,premium,53.92,53.92,medium,low,8,namesilo,,,18/08/2026 11:20
+2d68fb12-3691-489e-81bf-fdc66e72b3d4,physical.zip,premium,167.7,167.7,medium,low,8,namecheap,,,08/09/2026 15:48
 38d831be-d5ef-48f2-98c1-8fde94c1c251,map.cfd,premium,167.38,669.5,high,medium,3,namecheap,,,
 458ef96c-cfaf-42cc-9a04-624ba1f3c6fa,map.forex,available,19.99,,high,medium,3,name.com,,,
+d64a5227-3817-47be-b497-ba16ed2fd81a,oceans.skin,available,1.8,21.98,low,low,6,namecheap,,,18/09/2026 06:58
+d7f02abf-f4e2-462c-8d2a-ba7caf04ac0a,satellite.vision,premium,118.8,118.8,medium,low,9,namesilo,,,09/09/2026 21:34
+021e3cec-ba93-4e11-91d6-cdf7852dd7a4,atmosphere.photos,available,15.99,29.99,low,low,10,namesilo,,,18/09/2026 16:39
+90abbd0f-57ec-4eec-8ff2-953e815c8866,neighborhood.new,available,549.99,,high,low,12,name.com,,,
+bb01c8b4-f385-4943-afcf-1d931cae4d82,seas.lifestyle,premium,245,350,medium,low,4,namecheap,,,
 567bdf1c-3dd7-4a96-aaa5-5788dda5473b,map.info,resell,,,high,medium,3,"Sav.com, LLC",31/07/2001 20:14,31/07/2031 20:14,
+c4c3eeac-6680-4017-b00c-4b7a6f700f90,regions.tickets,premium,1995,1995,low,low,7,namesilo,,,17/09/2026 14:38
 23c256ba-1aa2-4513-b272-8e38580a19a3,map.surf,premium,520,31.2,high,medium,3,namecheap,,,
 e9f587ef-589e-496b-8262-22df578f0e46,map.ski,premium,4095,4095,high,medium,3,namecheap,,,
+ee691ad2-abf3-4b15-ac03-bb43057829b7,surroundings.gold,available,7.98,130.98,low,low,12,namecheap,,,16/09/2026 13:55
 d8f9cbc8-477a-4ee2-b481-c17d7200b9f0,map.adult,available,,,high,low,3,,,,
 67f5093d-952e-4090-ad2c-31eb7ec46ab8,map.sexy,premium,32500,32500,high,medium,3,namecheap,,,
 fae69df2-9f35-46ea-8ab2-67e3c792a0ef,map.porn,available,,,high,low,3,,,,
+2e2e1ef6-abf8-495d-a17d-2312587f05e9,continents.work,available,2.99,12.99,low,low,10,namesilo,,,18/09/2026 12:00
+3b48f178-ad12-4c68-b3de-dfa1394b66de,surroundings.voyage,available,58.99,58.99,low,low,12,namesilo,,,16/09/2026 13:55
+0301a1cf-05c0-4036-9d71-c81992eed155,plans.watch,available,4.99,,medium,low,5,name.com,,,
 182bd6d1-c871-4921-b1d6-c8216d2662a1,map.desi,available,22.98,,high,medium,3,namecheap,,,
 d36ce1f6-e30d-4ca2-a02b-aa7b569eca9c,map.fishing,premium,104,31.2,high,medium,3,namecheap,,,
 d48c3bc2-4c84-4d92-93e7-7f806b0e8d9a,map.kiwi,premium,186.08,,high,medium,3,name.com,,,
+57738860-d13d-4747-b005-41e0f43246f5,continents.it,available,25.99,,medium,low,10,name.com,,,
+88fa434e-403f-4a17-ba6a-3c3f9ca1e9dc,charts.mobi,available,7.49,55.99,low,low,6,namesilo,,,18/09/2026 23:12
+2d051fc3-e6bd-40b1-a488-5840e320030e,surroundings.lighting,available,22.98,31.98,medium,low,12,namecheap,,,16/09/2026 13:55
+2ad8dcb2-d069-4b36-8692-8b581f46bb6e,maps.blue,resell,,,medium,low,4,"NameCheap, Inc.",27/08/2014 02:50,27/08/2026 02:50,
 4303e05e-11ff-45a8-83fb-3eb8364920b4,map.fish,premium,85.8,85.8,high,medium,3,namecheap,,,
+550504c6-5c1d-4811-8f57-b2f7f378f373,atmosphere.wedding,available,33.98,43.98,low,low,10,namecheap,,,18/09/2026 16:39
+080a06ad-cb49-48b0-b05f-0d8d24d19772,atmosphere.game,available,309.99,429.99,low,low,10,namesilo,,,18/09/2026 16:39
+f8229dc3-f5d3-4d12-8c8c-19db19ac19db,oceans.ltda,available,42.98,46.98,low,low,6,namecheap,,,18/09/2026 06:58
+63655dfc-5642-40f0-888b-88298cd75369,boundaries.solutions,available,5.99,,medium,low,10,name.com,,,
+77dfe27b-0e84-4a3c-9413-650b2eacd31d,continents.casa,available,2.19,12.99,low,low,10,namesilo,,,18/09/2026 12:00
+6440f610-4984-4247-9a7b-113f036975e4,surroundings.exposed,available,22.49,22.49,low,low,12,namesilo,,,16/09/2026 13:55
+dedee1d9-2bdd-4e0a-bd40-f8dd66251327,seas.wtf,available,2.98,49.48,medium,low,4,namecheap,,,
+cd804b9d-e0f7-49bd-968a-e71cb90092c0,plans.family,premium,71.4,71.4,medium,low,5,namesilo,,,
+afdb68bb-b10a-4dfe-880c-328d1c7e91d9,continents.dating,available,20.99,64.99,low,low,10,namesilo,,,18/09/2026 12:00
+f6883f84-49b0-4514-82da-9b2d08909903,atmosphere.realty,available,99.8,456.98,low,low,10,namecheap,,,18/09/2026 16:39
+65257a18-79f2-4b64-9418-29307d089c7c,maps.bingo,available,14.99,77.99,medium,low,4,name.com,,,
+987df807-0867-4247-945a-5571f9b306e7,resources.town,available,9.99,,medium,low,9,name.com,,,
+6ff8d644-0139-47d7-b9e5-3e850cf86482,science.engineering,premium,118.8,118.8,medium,low,7,namesilo,,,19/09/2026 02:41
+f7195836-f466-4b7d-9ac8-a9076de2988e,physical.lighting,available,22.98,31.98,medium,low,8,namecheap,,,08/09/2026 15:48
+a796a189-938c-457c-8814-cd467e0eab07,geological.inc,premium,2015,2600,low,low,10,namecheap,,,18/08/2026 22:28
+47a78ce9-41b3-4ebf-8ae7-c154adac0b80,oceanic.vc,resell,,,medium,medium,7,Dynadot Inc,06/08/2023 07:19,06/08/2027 07:19,04/09/2026 00:26
+d354d3a0-9776-4ea2-bdd7-eb1e8304ebba,atmosphere.cricket,premium,448,53.92,low,low,10,namesilo,,,18/09/2026 16:39
+4df6b673-b7c0-4be9-bbbb-a61c2f04541c,geographic.moda,available,19.99,52.99,low,low,10,name.com,,,18/08/2026 22:27
+815edb81-d6e6-4fef-a142-cbfe7a025016,countries.new,available,549.99,,medium,low,9,name.com,,,
+41cb69fd-1980-4182-8064-b31193d0f741,continent.soccer,available,19.99,37.99,low,low,9,name.com,,,11/08/2026 23:26
+193ac852-d1db-495e-9606-c7e3ebd1aa67,community.space,premium,1625,6500,medium,medium,9,namecheap,,,08/09/2026 12:57
+ab8ecb37-68ff-41ba-a786-c6c699fb169d,continent.fish,available,14.99,56.99,low,low,9,name.com,,,11/08/2026 23:26
 6873f4f2-2ec9-4780-b73e-dfac1a0082dd,map.observer,premium,1040,1040,high,medium,3,namecheap,,,
 3e894807-cbe9-40b5-b9d3-a57dd3a13391,map.press,premium,325,650,high,medium,3,namecheap,,,
 86652570-872a-4136-b051-5fce341be038,map.blog,premium,1625,6500,high,medium,3,namecheap,,,
+a2061052-d592-47ca-9603-c9fea890a4ee,geographic.news,available,8.98,41.48,low,low,10,namecheap,,,18/08/2026 22:27
+34671e08-5c19-49f1-81d0-d088432ccabd,seas.bid,available,5.25,6.25,medium,low,4,namesilo,,,
+1e5278de-eb73-47cf-95a1-875588b3f1aa,continent.paris,available,65.99,65.99,low,low,9,name.com,,,11/08/2026 23:26
+0162d28d-a4dc-453a-8627-4ce0bb1a9b25,charts.clothing,available,32.99,32.99,low,low,6,namesilo,,,18/09/2026 23:12
+9af4314a-fdc7-4ba1-8ee9-55a56470e3b1,seas.security,available,1999.99,2049.99,medium,low,4,namesilo,,,
+cc6d6b65-695c-461a-949c-bc3dd3174c2a,oceans.builders,available,35.99,35.99,low,low,6,namesilo,,,18/09/2026 06:58
+8bf10f36-4a5d-4be5-9095-98711f01fd9b,geographic.solutions,resell,,,low,low,10,"Spaceship, Inc.",14/03/2021 03:23,14/03/2027 03:23,18/08/2026 22:27
 5fd4dd7a-2127-4fbf-b618-f5ec11d62c77,map.vote,available,49.99,,high,medium,3,name.com,,,
 4faac124-4943-4af7-8edf-9c176bbc3998,map.voting,available,1448,,high,medium,3,namecheap,,,
+d237d5f7-f963-4356-b0a0-00739bd1a840,atmosphere.coffee,available,16.99,42.99,medium,low,10,namesilo,,,18/09/2026 16:39
+52fce58e-8a5e-48c5-9b59-fc6fd43a8e19,satellite.giving,available,5.99,40.99,medium,low,9,name.com,,,09/09/2026 21:34
+89c3e42f-8121-47c1-8b49-62ebcc66eeac,geographic.srl,available,31.99,31.99,low,low,10,namesilo,,,18/08/2026 22:27
+7e74cca9-6755-459b-a298-85ff869cdead,navigation.men,available,5.25,6.25,medium,low,10,namesilo,,,10/09/2026 00:36
+6e3a94f0-52e3-47e3-a068-cf41398f54db,temperature.channel,premium,36.25,,high,low,11,name.com,,,
+3a6409fa-889d-430f-b214-6c9d8ea8a18b,surroundings.lgbt,available,14.99,79.99,low,low,12,namesilo,,,16/09/2026 13:55
+75fc1963-1f75-4e74-b44e-88422712d2bc,forests.pics,available,1.99,32.49,low,low,7,namesilo,,,18/09/2026 06:04
 5ab47119-1a6e-4560-a840-1d0d68e927ab,map.channel,premium,1248.75,,high,medium,3,name.com,,,
 98332dc0-c668-427b-86d4-9ae4b05a0996,map.cricket,premium,6500,130,high,medium,3,namecheap,,,
+e7c7fed1-159e-41de-a7c9-de11c3df80d7,plans.fund,available,15.99,,medium,low,5,name.com,,,
+420db05b-8d2e-4137-9269-1f922242152f,satellite.maison,available,24.99,83.99,medium,low,9,name.com,,,09/09/2026 21:34
 9f8df6bd-0d78-4b00-86d3-1743d1a99fb8,map.cam,premium,1950,18.2,high,medium,3,namecheap,,,
 7762756e-9006-4e81-8d53-c4b97fa0a55c,map.webcam,premium,650,84.5,high,medium,3,namecheap,,,
+54eecfcb-2cf5-4b79-b1af-3d32f03e3ba8,continents.ing,available,12.98,16.98,low,low,10,namecheap,,,18/09/2026 12:00
+b40b1b26-d6d2-43cf-8c77-fafc67aa125d,resources.rent,available,17.99,59.99,medium,low,9,namesilo,,,
 1599998b-979d-45a9-abdd-966148d95fdd,map.graphics,premium,128.7,128.7,high,medium,3,namecheap,,,
+32fde8a9-671e-4026-8eaf-8caacb9bdc38,navigation.gift,available,14.99,14.99,medium,low,10,namesilo,,,10/09/2026 00:36
+6fdbbcca-610b-4ef0-8c37-13b9302bdc14,navigation.dog,available,5.98,86.98,medium,low,10,namecheap,,,10/09/2026 00:36
+59d85663-c956-4663-92a0-2c13a21fe778,elevation.free,premium,125,125,medium,low,9,name.com,,,24/08/2026 20:49
+35098a8d-53e7-4500-b7b9-9cc31c55aaa2,maps.loans,available,17.48,144.98,medium,low,4,namecheap,,,
 749f2708-bdaf-48ce-9c7d-de6186e60ff3,map.website,premium,1625,3250,high,medium,3,namecheap,,,
 b25f82b7-95ef-4fe2-a106-11917ea39af2,map.page,premium,1298.7,1298.7,high,medium,3,namecheap,,,
 c984ac22-d887-4b29-9122-2ee9995b1544,map.stream,premium,650,84.5,high,medium,3,namecheap,,,
+eb25cba1-b163-4d97-bebb-e88a0605a673,maps.democrat,available,9.99,43.99,medium,low,4,name.com,,,
+1b8f83a3-d936-4f1d-a95e-8763552312d6,resources.tienda,available,9.99,,medium,low,9,name.com,,,
 6b46ebab-c759-492b-94af-763ab0ca76f0,map.democrat,available,9.99,,high,medium,3,name.com,,,
 20cbc614-2d08-4119-a657-3d68728c9aec,map.video,premium,128.7,128.7,high,medium,3,namecheap,,,
 2a5875f5-2874-41d9-90b7-7d8f3b26a5ac,map.day,premium,1298.7,1298.7,high,medium,3,namecheap,,,
+9218a6ac-e538-486c-8157-34f668267b86,populations.industries,available,47.98,58.98,low,low,11,namecheap,,,18/09/2026 17:58
+71d426f1-cd80-4dde-bfb1-44512b4bf57e,populations.tours,available,5.98,81.98,low,low,11,namecheap,,,18/09/2026 17:58
+52676fa2-f174-4e4d-be66-782a3a09ea2e,resources.football,available,19.99,,medium,low,9,name.com,,,
+24c4e8e0-e6f5-49d9-a9a1-b491a9b9be8a,surroundings.shop,available,2.99,38.99,low,low,12,namesilo,,,16/09/2026 13:55
 ce28a4b3-99aa-44fb-b903-1bd43b7e29cc,map.pictures,premium,26,26,high,medium,3,namecheap,,,
 dfdcfddf-8d09-4f28-9956-7bd8f1d074d0,map.photo,premium,130,130,high,medium,3,namecheap,,,
+152d488a-04a1-4c92-9eba-0dc522ac3e85,geological.cricket,available,23.59,23.59,low,low,10,namesilo,,,18/08/2026 22:28
+fabbf927-bcf4-4b4d-842e-dc1d9b542e76,maps.nexus,premium,1248.75,1248.75,medium,low,4,name.com,,,
+ab2a9501-5307-4513-81d1-581220bf44a3,boundaries.srl,available,49.99,,medium,low,10,name.com,,,
+38740ef8-dfb0-4b91-a5da-17acb3fe587f,boundaries.pictures,available,9.99,,medium,low,10,name.com,,,
 1f5075f8-d8b2-490a-a23d-0da4e32eb073,map.hiv,available,,,high,low,3,,,,
 d196a5ba-d6a2-4f9b-b249-10abd998edc0,map.band,premium,128.7,128.7,high,medium,3,namecheap,,,
+790fa73e-28b8-454a-9f58-e79b57245b45,resources.software,premium,242,242,medium,low,9,namesilo,,,
+71bbb3a4-8943-41d0-a8c7-55f0e0e9c47b,continent.vana,available,2298,2498,low,low,9,namecheap,,,11/08/2026 23:26
+82472bd8-59c1-405b-8108-8fa11ac6f7e6,atmosphere.srl,available,31.99,31.99,low,low,10,namesilo,,,18/09/2026 16:39
 4b9434e1-d0ea-4bea-a078-983bdcd09701,map.ong,available,16.99,,high,medium,3,name.com,,,
+130c28c8-3e61-4d4f-870f-2c6b378d589a,physical.accountants,available,117.99,117.99,medium,low,8,namesilo,,,08/09/2026 15:48
+c92a4238-bd09-4283-8841-516de9d255fd,charts.rentals,available,10.99,44.49,low,low,6,namesilo,,,18/09/2026 23:12
+07233cac-f9e6-4f2d-a54f-0a81ecaa5fb1,maps.autos,premium,812.5,20.99,medium,low,4,name.com,,,
 4945696c-c117-46f6-914d-23fb6e55c025,map.tickets,available,359.99,389.99,high,medium,3,namesilo,,,
 9dcb49cf-e1c4-4ce8-b4aa-6832d799ec7f,map.rsvp,premium,1298.7,1298.7,high,medium,3,namecheap,,,
 0abd7fc8-2482-4012-8fec-a58a8fa9fba4,map.republican,available,5.99,,high,medium,3,name.com,,,
+fbc7bdfe-12bb-411b-b82b-96e3dea4563b,plans.cars,available,1999.99,2199,medium,low,5,namesilo,,,
+e3349398-0d95-4a3b-9199-a4983dea2b46,geographic.kaufen,available,5.99,26.99,low,low,10,namesilo,,,18/08/2026 22:27
+dc58f016-cb3f-4f70-9f62-04b82acb78ac,physical.pics,available,1.8,40.98,medium,low,8,namecheap,,,08/09/2026 15:48
+a4e61b3c-bce4-490e-bd2a-b3fdb6f525a1,geographic.video,available,4.98,49.48,low,low,10,namecheap,,,18/08/2026 22:27
 1a0e96ad-ebd2-4080-ba20-138b6951bd6c,map.wiki,premium,845,845,high,medium,3,namecheap,,,
 919b1d3b-6961-429d-9c75-6a80b2bf030e,map.sbs,premium,143.65,574.6,high,medium,3,namecheap,,,
+98271670-fc39-469d-8046-c0c8f53c26e9,maps.flights,available,23.98,75.98,medium,low,4,namecheap,,,
+9d8a60a3-cebc-41da-8b1c-1060c7117c8d,charts.church,available,14.99,58.99,low,low,6,namesilo,,,18/09/2026 23:12
+a3cde288-5f70-4c33-aad9-dffcf80b0a41,resources.graphics,available,23.99,23.99,medium,low,9,namesilo,,,
 64f9c973-540b-465b-9373-a379042e3d43,map.nexus,premium,1298.7,1298.7,high,medium,3,namecheap,,,
 cb15f98d-0804-44f4-82d0-52104b57fb63,map.tech,premium,1562.5,6250,high,medium,3,name.com,,,
 0c616a03-da2a-40cc-8e4b-acbae7d04c9f,map.industries,premium,128.7,128.7,high,medium,3,namecheap,,,
+b8636ba7-f605-4f62-ba68-187b5edb2d2c,navigation.rip,available,23.49,23.49,medium,low,10,namesilo,,,10/09/2026 00:36
+c31fc569-ec7f-4045-a235-55dea95360f6,geological.makeup,available,1.8,19.98,low,low,10,namecheap,,,18/08/2026 22:28
 3c831014-2000-4692-85c4-d031269433b3,map.solutions,resell,,,high,medium,3,Porkbun LLC,28/06/2024 19:31,28/06/2026 19:31,
+91c3cfc2-4af5-4f37-94cb-e9f07927734a,continents.dental,available,78.99,78.99,low,low,10,namesilo,,,18/09/2026 12:00
+d13688cb-8228-4a88-9986-18bb07fa6e54,city.shop,premium,12500,,high,medium,4,name.com,,,
+3508aab9-63be-4edc-bc2d-c211e68f16c7,navigation.bargains,available,14.98,37.98,medium,low,10,namecheap,,,10/09/2026 00:36
 835b40fe-735b-4b2f-8e60-aa4c9871a3a8,map.study,premium,650,650,high,medium,3,namecheap,,,
 56588920-e9d3-4985-b2e6-6b9d92f32d2d,map.gay,premium,780,780,high,medium,3,namecheap,,,
 aaf0f20e-cca7-4bf0-91e1-f8678a37f93c,map.lgbt,resell,,,high,medium,3,"NameCheap, Inc.",10/06/2022 13:08,10/06/2026 13:08,
+5f69fb59-1c43-4cce-880e-6faf8b2bef42,elevation.attorney,available,65.98,76.98,medium,low,9,namecheap,,,24/08/2026 20:49
+cb40fe9b-acd8-4561-9345-08919312f3e3,plans.bike,available,14.99,,medium,low,5,name.com,,,
 a632386e-61b6-4b11-adc4-bd6e29428725,map.trading,available,19.99,,high,medium,3,name.com,,,
 5eeeee2c-b62e-498a-a9e4-0547187d6720,map.dev,premium,1623.75,1623.75,high,low,3,name.com,,,
 8de14d6c-4ed6-434e-838c-7009be395420,map.company,resell,,,high,medium,3,"Xiamen ChinaSource Internet Service Co., Ltd",28/10/2024 15:15,28/10/2026 15:15,
 028f4d5b-d460-4c6f-be05-da29338e74c3,map.business,resell,,,high,medium,3,"Global Domains International, Inc. DBA DomainCostClub.com",10/06/2018 22:06,10/06/2026 22:06,
 39bb4d7d-23fd-406e-a77e-b2c27eeb4ee3,map.prof,premium,1688.7,1688.7,high,medium,3,namecheap,,,
 e593d066-c4aa-4a49-a25a-f2747c535905,map.phd,premium,1688.7,1688.7,high,medium,3,namecheap,,,
+c9d05bfa-29b0-4af2-8b5e-90a61471ed32,forests.cruises,available,56.99,56.99,low,low,7,namesilo,,,18/09/2026 06:04
 528a5df4-7035-4049-abf2-f1781809073b,map.ooo,premium,9062.5,,high,medium,3,name.com,,,
+e003a2a8-36b6-4621-bbc0-b630ec1cfa13,continents.wine,available,9.99,59.99,low,low,10,namesilo,,,18/09/2026 12:00
+2be43d99-6f0f-4b85-a652-124b9b612b56,seas.media,available,5.98,58.98,medium,low,4,namecheap,,,
+dff09f9a-e599-45e1-b062-c641d99feec2,atmosphere.fast,premium,53.92,53.92,low,low,10,namesilo,,,18/09/2026 16:39
+a0c5b585-3968-40d5-b5cd-f930de5eada4,geological.sbs,premium,192,384,low,low,10,namesilo,,,18/08/2026 22:28
 8200293d-7d55-4308-b35e-a7aa8209c23d,map.icu,premium,57.85,231.4,high,medium,3,namecheap,,,
 d7dad6df-cb3a-434f-b07a-4e151b473da9,map.cyou,premium,143.65,574.6,high,medium,3,namecheap,,,
 d900f126-a8b7-4075-b7c4-e9d6dc97c5e5,map.group,resell,,,high,medium,3,"NameSilo, LLC",04/11/2017 10:36,04/11/2026 10:36,
+fef0787d-1a17-4d3c-bfea-c6d639f9d333,continent.pub,available,39.99,39.99,low,low,9,namesilo,,,11/08/2026 23:26
+f430a0b5-c008-4fea-b566-9a83085defab,sphere.properties,resell,,,medium,high,6,"GoDaddy.com, LLC",26/09/2014 19:15,26/09/2032 19:15,16/08/2026 20:56
+1e82c576-267e-42cb-b8c6-dac85680cbae,seas.lol,available,1.8,40.98,medium,low,4,namecheap,,,
 3188454c-a633-4bc6-8eff-f79e51bd2984,map.blue,resell,,,high,medium,3,Gandi SAS,27/04/2015 14:57,27/04/2027 14:57,
+91911684-5ddb-4766-97ec-f1f326221df1,populations.loan,available,5.98,9.98,low,low,11,namecheap,,,18/09/2026 17:58
+a6839017-abf1-48a7-aa2d-4de30e4e6912,sphere.makeup,available,1.8,19.98,medium,high,6,namecheap,,,16/08/2026 20:56
+19683d92-f599-4f98-b133-f0e765d5b495,resources.garden,available,1.99,,medium,low,9,name.com,,,
 017151be-14b7-44e9-8cce-13e11b38eb39,map.lifestyle,premium,650,1300,high,medium,3,namecheap,,,
 4d3f1cd0-8642-40e8-bc4a-24a06e36a7af,map.living,premium,650,1300,high,medium,3,namecheap,,,
+518e388e-32ff-42c4-ae0f-8b60ecde201d,atmosphere.soy,premium,53.3,53.3,low,low,10,namecheap,,,18/09/2026 16:39
 3e3a6df9-eca6-4ac7-830d-5bf7ec1d1e44,map.guitars,available,104.99,114.99,high,medium,3,namesilo,,,
 93de4499-88b8-4266-8fef-db2f9b300e3a,map.hiphop,available,,,high,low,3,,,,
 fe04817f-305d-4ae2-aa59-b37062d91176,map.music,available,,,high,low,3,,,,
+3a1d8ce2-8ebe-4543-82e7-5faceb21f49b,mountains.link,premium,305.5,305.5,low,low,9,namecheap,,,17/09/2026 17:48
 10751161-b10e-4a1d-9070-477d1110d092,map.holdings,available,64.99,64.99,high,medium,3,namesilo,,,
 a50b1161-1109-4fed-beca-b95bc0fbe56f,map.reviews,premium,128.7,128.7,high,medium,3,namecheap,,,
 66f43cbe-f0f0-4cea-a561-03f5549267e2,map.gripe,premium,85.8,85.8,high,medium,3,namecheap,,,
@@ -129,19 +827,46 @@ a50b1161-1109-4fed-beca-b95bc0fbe56f,map.reviews,premium,128.7,128.7,high,medium
 783a8351-f5ad-4208-9954-25a0ee600ad5,map.exposed,premium,260,260,high,medium,3,namecheap,,,
 b346d4b1-e4f4-4f30-95ce-3a088bacb6ef,map.review,premium,650,84.5,high,medium,3,namecheap,,,
 78795c5f-1d2e-4c4f-a22a-2dcda2fb28a2,map.help,premium,325,650,high,medium,3,namecheap,,,
+f152f78d-c525-4d51-82c1-c3f73b0c043f,boundaries.services,available,15.99,,medium,low,10,name.com,,,
 ba8dfcbf-8410-4a7f-b712-6a11a121fd6e,map.moe,available,,,high,low,3,,,,
+fa3bd730-0908-43e9-bddf-0e4a0f48e776,satellite.fail,available,14.99,46.99,medium,low,9,name.com,,,09/09/2026 21:34
+770a028f-8980-4d87-8c8c-13160e4c1b41,sailing.soy,premium,217.1,217.1,medium,low,7,namecheap,,,10/09/2026 00:37
+b5b83fb6-1162-4377-a9e9-22b1d1110001,elevation.rich,available,149.99,299.99,medium,low,9,name.com,,,24/08/2026 20:49
 219c9990-7582-477e-a623-5a7c89648a82,map.catering,premium,85.8,85.8,high,medium,3,namecheap,,,
+d9b6b15f-5970-40a3-ad40-a05275c4f68d,spatial.boston,available,23.49,23.49,medium,high,7,namesilo,,,10/09/2026 15:07
 c1f68d6c-3b95-4e57-823e-bccc619ecf72,map.charity,premium,260,260,high,medium,3,namecheap,,,
 e81cf0d6-ffea-453b-9dba-517384d9e039,map.engineer,premium,78,78,high,medium,3,namecheap,,,
 0680ea82-612c-4f4c-8dda-2f0d6662dc9c,map.engineering,premium,128.7,128.7,high,medium,3,namecheap,,,
+66ff5a34-f6c7-48db-a84d-a8df2416cf1b,sailing.financial,available,17.48,66.98,medium,low,7,namecheap,,,10/09/2026 00:37
 e0865a77-0848-477c-b8b8-272f2eb4665e,map.mobi,resell,,,high,medium,3,"Xiamen ChinaSource Internet Service Co., Ltd",06/08/2025 15:16,06/08/2026 15:16,
 bf091f15-f179-42d1-a34d-30450172218c,map.jetzt,available,30.48,,high,low,3,namecheap,,,
+66fde01b-fa70-4347-9888-6edcc62c14f2,continents.gold,available,9.99,99.99,low,low,10,namesilo,,,18/09/2026 12:00
+b196acad-9ab0-42d8-b1e8-d32a2e48243f,populations.attorney,available,65.98,76.98,low,low,11,namecheap,,,18/09/2026 17:58
+a09b6631-64cd-40dc-921e-b15bc23a808c,resources.cricket,available,23.59,23.59,medium,low,9,namesilo,,,
+827d4703-2933-430f-9452-261d5b07dbb3,sailing.consulting,available,8.48,67.98,medium,low,7,namecheap,,,10/09/2026 00:37
+eafceb0b-4818-4b03-8c14-cc6b72025694,boundaries.protection,available,2950,,medium,low,10,namecheap,,,
+fa2f2f64-0044-4b01-a4c1-4636b13ef31c,oceans.health,premium,1300,78,low,low,6,namecheap,,,18/09/2026 06:58
+497ecb7f-3f61-40e7-9256-11d7bb183fc9,position.fm,available,88.99,88.99,medium,low,8,namesilo,,,19/09/2026 04:25
+96f51af0-385b-4fd9-9484-26e5291c8c2d,maps.date,premium,375,62.5,medium,low,4,name.com,,,
+34226936-9c24-4b54-bd36-0a65aad74463,continents.boo,available,12.98,16.98,low,low,10,namecheap,,,18/09/2026 12:00
+b843d6dc-eaee-4812-9e74-937b5a97f5f1,satellite.osaka,available,32.98,41.98,medium,low,9,namecheap,,,09/09/2026 21:34
 3feac6b3-9b31-46b4-8fb8-05c2da461fac,map.tips,resell,,,high,medium,3,"Spaceship, Inc.",20/06/2022 17:03,20/06/2026 17:03,
 25359262-fac8-4dd7-a2a5-d4e35b31f036,map.how,premium,768.3,768.3,high,medium,3,namecheap,,,
 96af78c6-fa97-480d-866c-2cc25389a762,map.yoga,premium,104,31.2,high,medium,3,namecheap,,,
+6521cb92-63db-4a35-a00d-a7126297e57a,restriction.ryukyu,available,22.98,,high,low,11,namecheap,,,
+8ab2be92-b5f2-4ca9-9d0a-891617485b63,navigation.website,premium,650,1300,medium,low,10,namecheap,,,10/09/2026 00:36
+8bfafeff-527c-4688-a3a7-b14719afdda6,populations.limo,available,57.98,68.98,low,low,11,namecheap,,,18/09/2026 17:58
+5de91689-f6d0-403e-9ebe-fcc44ad87bf2,elevation.voto,available,11.98,86.98,medium,low,9,namecheap,,,24/08/2026 20:49
+956b4c9a-78d5-44a7-8d20-601b68850d6d,plans.click,premium,437.5,,medium,low,5,name.com,,,
 c8326b42-3212-483f-9fc9-8fc55980773c,map.mov,premium,1298.7,1298.7,high,medium,3,namecheap,,,
 2a1d64b6-f5f3-4f3d-b2e4-5ef1e33739f3,map.movie,available,69.99,,high,medium,3,name.com,,,
 e2715015-d47a-40ae-a82a-023facacce95,map.film,premium,260,260,high,medium,3,namecheap,,,
+2dcf3a35-47ec-48f7-b369-ac4c50be4691,geographic.accountants,available,43.99,153.99,low,low,10,name.com,,,18/08/2026 22:27
+36e3b467-2429-459b-a79d-c7e85e2e684b,geological.education,available,34.99,34.99,low,low,10,namesilo,,,18/08/2026 22:28
+7dff5983-20fa-474a-8a2b-7962674e817e,continents.codes,available,8.99,71.99,low,low,10,namesilo,,,18/09/2026 12:00
+74c1f055-cc0c-4374-a455-46a1cf82141e,geographic.rocks,available,5.99,27.99,low,low,10,name.com,,,18/08/2026 22:27
+bdcfca58-da2b-4f20-a215-a0175987ecfd,boundaries.properties,available,10.99,,medium,low,10,name.com,,,
+a09584b8-300b-4265-b9aa-0a78d9b04cec,surroundings.bingo,available,53.99,53.99,low,low,12,namesilo,,,16/09/2026 13:55
 0c372b1a-12bc-4b57-b844-57c334b394a0,map.chat,resell,,,high,medium,3,Epik LLC,29/05/2015 14:27,29/05/2027 14:27,
 c7e4ff0d-2bc3-42cd-9191-fdaced8811d6,map.talk,premium,650,650,high,medium,3,namecheap,,,
 477635d4-2e35-41f8-8629-515d48b77123,map.shiksha,available,19.99,,high,medium,3,name.com,,,
@@ -155,35 +880,58 @@ b66fcd34-d1c8-4fc9-bd17-45332f970a0a,map.ltda,available,34.99,34.99,high,medium,
 227bb9b1-e1b5-4c6b-99a0-faf80ece3ae2,map.limited,premium,260,260,high,medium,3,namecheap,,,
 af63d178-8d02-4e9d-aaec-6b5a0a9b41ad,map.enterprises,resell,5.99,,high,medium,3,"Sav.com, LLC",04/05/2026 08:38,04/05/2027 08:38,
 271ac691-474b-4b4f-8299-f4f3f0f386c2,map.forum,premium,195,650,high,medium,3,namecheap,,,
+1a284bed-03db-49ab-ac90-72c44ea55831,navigation.dealer,premium,2015,2600,medium,low,10,namecheap,,,10/09/2026 00:36
 e68f2376-d3b1-46df-91ae-073c8b66ceca,map.vc,resell,,,high,medium,3,www.Names.plus,27/08/2019 01:10,27/08/2026 01:10,
 5485dae4-c28c-4e03-ba87-fb16c7406500,map.fans,premium,390,390,high,medium,3,namecheap,,,
 8417200f-2497-4568-bbe1-77b6989df347,map.fan,premium,128.7,128.7,high,medium,3,namecheap,,,
+f836213d-972c-4dfb-8538-7a24f7a09ff3,relocations.realty,available,109.99,299,medium,low,11,namesilo,,,
 d66342d2-7cbb-463d-b239-6436f3e0450b,map.uno,premium,3250,3250,high,medium,3,namecheap,,,
+6612dc92-9933-4458-b0d5-394f08ed9a5a,regions.hot,premium,116,116,low,low,7,namesilo,,,17/09/2026 14:38
 2d10abdf-8602-4c7e-a5e1-2c7cf799c6ae,map.makeup,premium,2600,15.73,high,medium,3,namecheap,,,
+742a4673-65c0-4077-b87a-5dc8fb17a573,environment.ryukyu,available,17.98,22.98,medium,low,11,namecheap,,,19/09/2026 04:45
+ad55ae0b-151f-4001-b974-2e785def9328,physical.guide,available,41.49,41.49,medium,low,8,namesilo,,,08/09/2026 15:48
+bb012823-c4df-4ecb-9c4e-aa02575e5d77,elevation.onl,available,3.48,28.98,medium,low,9,namecheap,,,24/08/2026 20:49
 a3993ab2-39a0-4b41-a33e-2c11c3721baa,map.bingo,available,14.99,,high,medium,3,name.com,,,
 e0a93b3b-a375-44fd-93d5-f77a5c2fc0da,map.poker,premium,650,650,high,medium,3,namecheap,,,
 7f5f86e8-c027-4da4-aa41-b6c7faaa73ea,map.soy,premium,698.1,698.1,high,medium,3,namecheap,,,
 cce893ae-cb33-4ce9-853c-428a6e367fe5,map.you,premium,650,650,high,medium,3,namecheap,,,
+507c946e-6225-48d7-8c5f-b816f732f8b2,seas.army,available,13.48,48.98,medium,low,4,namecheap,,,
 db73eedd-85e7-4af4-a77d-1dffa6bdbcf3,map.skin,premium,2600,15.73,high,medium,3,namecheap,,,
 30543124-0253-411b-b767-22c15667d0ac,map.salon,available,14.99,,high,medium,3,name.com,,,
 f68402eb-f9c2-4d28-9006-565db8d510db,map.hair,premium,2600,15.73,high,medium,3,namecheap,,,
 07a1419c-b17e-40a8-846a-8ef65c87a724,map.moi,premium,937.5,,high,medium,3,name.com,,,
+9dd6d839-af4f-445f-a398-3d5b43c366e9,populations.condos,available,61.98,72.98,low,low,11,namecheap,,,18/09/2026 17:58
 718b345d-398d-4f32-ae99-0d9510705c37,map.christmas,available,34.99,34.99,high,medium,3,namesilo,,,
+ab1affbb-33b5-4e4f-aa3d-1f93e0567096,charts.claims,available,17.99,64.99,low,low,6,namesilo,,,18/09/2026 23:12
 6185b423-4872-4257-8fb9-dc6abe4ca011,map.solar,premium,128.7,128.7,high,medium,3,namecheap,,,
+ff8c0a04-59dc-46b5-983e-0cd4148290ef,atmosphere.vc,resell,,,low,low,10,,,,18/09/2026 16:39
+905999c8-bb99-4f19-8bdc-6fb259f560de,mountains.menu,available,34.98,38.98,low,low,9,namecheap,,,17/09/2026 17:48
+48491931-8aca-431c-922c-3ec4109be3cb,spatial.how,available,30.98,41.98,medium,high,7,namecheap,,,10/09/2026 15:07
+7c02a629-ae07-429a-9e85-792eef24653a,regions.win,premium,448,53.92,low,low,7,namesilo,,,17/09/2026 14:38
 bb5e2389-1ef7-4a8b-8185-f9c9b3f5c8e5,map.wedding,premium,1040,31.2,high,medium,3,namecheap,,,
 023f1f5e-4e50-46bc-a3e9-ff87d4bd7e37,map.university,available,19.99,,high,medium,3,name.com,,,
 2ca1bcf7-c2f2-4814-abce-8a6163b92bce,map.college,premium,13000,13000,high,medium,3,namecheap,,,
 4adcc052-1b56-4cbb-a95d-68e537c476fe,map.racing,premium,130,130,high,medium,3,namecheap,,,
 c8ec2b6d-7370-472b-b20f-2ae61f7c02cc,map.hot,premium,3250,3250,high,medium,3,namecheap,,,
+c62cda3c-13d0-4a00-93b3-6a13a16a1cb4,maps.la,resell,,,medium,low,4,.LA Founders Premium Program,03/03/2016 01:38,03/03/2027 23:59,
 81f1d9ff-1214-4cf9-b69a-590755304fc7,map.surgery,premium,128.7,128.7,high,medium,3,namecheap,,,
 b9b7424a-282e-4e68-ac24-3b574f3e95bb,map.doctor,resell,,,high,medium,3,"GoDaddy.com, LLC",16/04/2025 04:26,16/04/2027 04:26,
 6b5759df-647e-465e-b00c-7adcede937d7,map.hospital,available,57.99,57.99,high,medium,3,namesilo,,,
 cd3ed67f-2654-4bba-9adc-b7d04bb8b35a,map.ninja,resell,,,high,medium,3,Porkbun LLC,13/08/2024 00:12,13/08/2026 00:12,
 f17f9ba5-5a18-46c6-982f-e5993bd18d46,map.investments,premium,260,260,high,medium,3,namecheap,,,
 ff24cd0f-521a-462e-b5ed-691de2328214,map.cleaning,available,75.49,75.49,high,medium,3,namesilo,,,
+8643fe1e-5cea-4a27-af43-0d7dd28efcc5,oceans.luxury,available,49.99,,low,low,6,name.com,,,18/09/2026 06:58
 32a4e10d-ea5d-49f1-90c6-f426e6425550,map.red,resell,,,high,medium,3,Gandi SAS,28/04/2015 11:15,28/04/2027 11:15,
+ca170d7a-000d-4e70-a77f-6d30ef26ae16,resources.dad,premium,311.25,,medium,low,9,name.com,,,
+eec7d27c-acaf-4599-94d9-63a655d91762,elevation.tel,available,10.98,15.98,medium,low,9,namecheap,,,24/08/2026 20:49
 9427fb0e-259c-46a5-94f9-6d2ab21cdfc7,map.top,premium,12433.43,4.78,high,medium,3,namecheap,,,
+0497b9a5-6833-4528-b0a5-5ff128325a30,surroundings.limo,available,54.99,54.99,low,low,12,namesilo,,,16/09/2026 13:55
+2a24cf86-abe6-4ee4-996f-154d80bdeb20,forests.yoga,available,32.49,32.49,low,low,7,namesilo,,,18/09/2026 06:04
+3449d71f-cc2e-4094-b4c9-af3b7dac0494,boundaries.college,available,29.99,,medium,low,10,name.com,,,
+5ef8bbf6-14d1-4699-bd1a-be3b6824c4fe,plans.partners,available,13.99,,medium,low,5,name.com,,,
 65cbcc5f-034d-404d-8e6b-c9b4d6f69ee9,map.party,available,,,high,low,3,,,,
+4fd9e3e8-6cfa-474a-87b3-8067b8ac7cb6,oceans.host,premium,640,640,low,low,6,namesilo,,,18/09/2026 06:58
+7e7c2214-6f53-4376-8220-73f0402b3844,continents.now,available,38.99,38.99,low,low,10,namesilo,,,18/09/2026 12:00
 d8fdef10-002b-467c-aff2-1cdd4446794a,map.esq,premium,1688.7,1688.7,high,medium,3,namecheap,,,
 4cb0d282-9b4d-422c-ae51-3fcc337436b0,map.lawyer,premium,128.7,128.7,high,medium,3,namecheap,,,
 e5c79aa5-2173-4416-a39f-585ed6e28611,map.attorney,premium,128.7,128.7,high,medium,3,namecheap,,,
@@ -191,23 +939,41 @@ e4407963-78f0-44ea-8244-6289f6fbed67,map.cash,resell,,,high,medium,3,"Spaceship,
 f1ff5636-0ed6-4675-bec3-81669f2a9f26,map.loan,premium,650,84.5,high,medium,3,namecheap,,,
 2b6a573c-ee14-4da3-b298-50f530ee14e6,map.loans,available,19.99,,high,medium,3,name.com,,,
 694294e4-42ba-4006-a3f5-cc6c1c68187d,map.financial,premium,128.7,128.7,high,medium,3,namecheap,,,
+aaa8f15b-4cf2-4eb1-bc16-dce5618b4c7a,geographic.lease,available,14.99,71.99,low,low,10,name.com,,,18/08/2026 22:27
+34a3bf45-645c-44a2-b94f-7133c075b3a4,maps.insure,available,9.99,94.99,medium,low,4,name.com,,,
 72638dd4-ed95-420a-aa09-31f2e988deac,map.locker,premium,1300,58.5,high,medium,3,namecheap,,,
 dd6a33f0-28a4-411c-8979-30a0c93bd649,map.supplies,premium,85.8,85.8,high,medium,3,namecheap,,,
+afeb6e5a-d839-43b4-8b00-2ad5ba762cee,maps.jewelry,available,19.99,84.99,medium,low,4,name.com,,,
 9bfbc631-2e6d-42d5-9d46-b280d19cf0a1,map.clinic,premium,128.7,128.7,high,medium,3,namecheap,,,
 386adb90-ec0d-4b0e-8734-7266eb03d081,map.foo,premium,1298.7,1298.7,high,medium,3,namecheap,,,
 aa9fa1dc-9177-4999-9ef3-6bb30c3f9888,map.pizza,premium,128.7,128.7,high,medium,3,namecheap,,,
 970146aa-2a20-400c-aab9-02f1f2844c90,map.dentist,premium,520,520,high,medium,3,namecheap,,,
+546e6659-82f2-4ace-b148-533e24d6ab8f,relocations.london,available,31.99,31.99,medium,low,11,namesilo,,,
 c8284c81-e5f0-4e95-b282-6683371bcb6a,map.storage,available,509.99,529.99,high,medium,3,namesilo,,,
+cc22e611-ecbb-4016-96e6-a9e9f27f2a8d,mountains.zip,premium,73.75,73.75,low,low,9,name.com,,,17/09/2026 17:48
+4e975f70-deaa-4ef5-89ae-7977b41bc8e6,navigation.tube,premium,23.6,23.6,medium,low,10,namesilo,,,10/09/2026 00:36
 b3521e01-c649-4698-b261-2f348a536490,map.men,premium,650,84.5,high,medium,3,namecheap,,,
 1d70c75a-9a66-4c54-a717-da9e462f5054,map.parts,premium,128.7,128.7,high,medium,3,namecheap,,,
 ee1b0ae8-aec3-4bf3-b253-b9b0f0e546a0,map.equipment,available,19.99,,high,medium,3,name.com,,,
+554e052c-dafd-427f-b739-da034b12d0e5,oceans.taxi,available,10.99,62.99,low,low,6,namesilo,,,18/09/2026 06:58
+bc48d145-1550-41a4-be1a-255e81f9bc48,geological.living,available,1.8,48.98,low,low,10,namecheap,,,18/08/2026 22:28
 caa662f6-3650-4275-b68d-d2209119b93b,map.tattoo,premium,130,130,high,medium,3,namecheap,,,
 eef49e61-1f9c-489d-beed-269db1e2116f,map.host,premium,3250,6500,high,medium,3,namecheap,,,
 faba63d6-2dad-4f4f-a457-7b7aedcd29c2,map.hosting,available,309.99,329.99,high,medium,3,namesilo,,,
+2bbb138f-d392-4779-9e4d-45cf1e8ba160,journey.quest,premium,11712.34,,high,low,7,InterNetX GmbH,02/03/2021 14:00,02/03/2027 23:59,
+275610f2-074d-417f-8167-1947162b8ff5,plans.ventures,available,19.99,,medium,low,5,name.com,,,
+41a6e571-f866-41a4-89f4-d09882de4449,seas.villas,available,19.99,80.99,medium,low,4,name.com,,,
+c7ba524d-5170-4d04-8035-6602ff5d2086,oceans.gay,available,38.99,38.99,low,low,6,namesilo,,,18/09/2026 06:58
+9e0260cc-e851-4935-a953-28b3bae48492,relocations.bz,available,25,,medium,low,11,name.com,,,
 0b2a4dae-cab5-4215-a18c-a7d24c40be27,map.healthcare,premium,85.8,85.8,high,medium,3,namecheap,,,
 8d9444a7-d1b6-46a6-8b07-8ff1c741341f,map.health,premium,6500,71.5,high,medium,3,namecheap,,,
+e0c5876e-093d-477d-a36b-2459528eaf01,seas.coupons,available,2.98,59.98,medium,low,4,namecheap,,,
 faeb4b1e-6007-4444-b6c1-7f271b158a7e,map.bot,premium,3250,3250,high,medium,3,namecheap,,,
+79ddbffa-bf63-4fb1-b1b2-37011fa2d709,physical.diamonds,available,54.99,54.99,medium,low,8,namesilo,,,08/09/2026 15:48
 bd655612-f37e-4421-9891-62c715b01f24,map.buzz,premium,10068.25,,high,medium,3,name.com,,,
+0e4d18bf-5b02-44f5-aa96-dacc75c2e90b,oceanic.date,premium,384,53.92,medium,medium,7,namesilo,,,04/09/2026 00:26
+19907477-3cb8-417b-a706-61621001df23,boundaries.creditcard,available,9.99,,medium,low,10,name.com,,,
+29d29468-97e5-49e0-a543-04c93602f4ef,charts.engineer,available,38.99,38.99,low,low,6,namesilo,,,18/09/2026 23:12
 d6a5527a-c866-42b3-8dc2-eff3dd277890,map.menu,available,,,high,low,3,,,,
 de1ea2d9-6f29-4e0c-95de-d9ee47719c2e,map.rest,available,,,high,low,3,,,,
 cc0e9f21-f973-4cf5-a558-00eb2c4340bc,map.restaurant,premium,128.7,128.7,high,medium,3,namecheap,,,
@@ -217,7 +983,13 @@ cc0e9f21-f973-4cf5-a558-00eb2c4340bc,map.restaurant,premium,128.7,128.7,high,med
 f9ab4f50-0057-4116-8cce-3090a17c415b,map.soccer,available,19.99,,high,medium,3,name.com,,,
 062a3fbd-10c6-4a3e-8230-94631743cc0c,map.rodeo,premium,104,10.4,high,medium,3,namecheap,,,
 7fe04514-689c-48ff-9a87-1eef3a4c91b6,map.tires,available,5.99,78.99,high,medium,3,namesilo,,,
+2da90d1c-96f8-4567-a009-5ae7a805805c,landscaping.games,available,33.99,33.99,medium,low,11,namesilo,,,17/09/2026 05:32
 ce8757b9-fc3e-49f3-a225-5e1bc2683c49,map.kids,premium,65,23.4,high,medium,3,namecheap,,,
+287fd9ef-f58a-4746-bdc1-51f64230c8bb,oceans.surgery,available,57.98,68.98,low,low,6,namecheap,,,18/09/2026 06:58
+22556e3a-0deb-48dc-8b59-50266feb004f,resources.work,resell,,,medium,low,9,"Sav.com, LLC - 43",03/01/2026 00:00,03/01/2027 00:00,
+6dc5d66a-f78a-4de7-8fb4-e92e7b922be4,spatial.feedback,available,9.98,489.98,medium,high,7,namecheap,,,10/09/2026 15:07
+ee920335-b5ea-4d6d-9fcc-196690947ed8,relocations.ngo,available,16.99,,medium,low,11,name.com,,,
+051b59f3-75c9-4ffb-beed-daa39d243af1,plans.pink,available,14.99,,medium,low,5,name.com,,,
 72f22857-05a1-4234-b767-2c0827947bc3,map.meme,premium,1690,1690,high,medium,3,namecheap,,,
 27dcb74c-ee83-4f03-be90-51c5d77e8cdc,map.art,available,,,high,low,3,,,,
 b5bc8c68-e235-452f-a005-ce44ee8b3e33,map.monster,premium,650,15.73,high,medium,3,namecheap,,,
@@ -227,775 +999,3 @@ efd02f5d-6a5e-41ed-a3fe-f8ce1006f4a5,map.cool,premium,260,260,high,medium,3,name
 163188f0-8bff-4e1f-8f2e-990a7fd3a04c,map.lol,premium,845,845,high,medium,3,namecheap,,,
 f847f643-3e54-4f35-8c9a-0d1e9a359366,map.autos,resell,,,high,medium,3,"Sav.com, LLC - 48",18/08/2025 14:12,18/08/2026 23:59,
 01a0b0fb-1b02-41b7-aa10-d193ef305c9f,map.dealer,premium,2015,2600,high,medium,3,namecheap,,,
-9dd2aafb-0506-4d17-9c70-1252fda73476,map.auto,available,1999.99,2199,high,medium,3,namesilo,,,
-636df1f6-d26b-4d2b-8087-8b290d694aab,map.car,available,1999.99,2199,high,medium,3,namesilo,,,
-aa3c1466-ca36-48e0-b92f-3cea7427ca37,map.motorcycles,available,1.99,,high,medium,3,name.com,,,
-60bda25b-f2c8-4ef7-a6ae-22baf0fbab42,map.cars,premium,1999.99,2199,high,medium,3,namesilo,,,
-f85accef-4089-4ca6-9915-9a15a9e5dadc,map.trade,premium,650,84.5,high,medium,3,namecheap,,,
-647ce47a-2af1-4798-9a89-21536544ab48,map.software,premium,3250,3250,high,medium,3,namecheap,,,
-2f6f28b5-5e3e-448e-b223-bf3d0c0482f3,map.theater,available,19.99,,high,medium,3,name.com,,,
-a9bfb873-6ae9-446a-8883-28bd4329e50f,map.show,resell,,,high,medium,3,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),09/12/2016 17:52,09/12/2026 17:52,
-edd3bea0-1b84-484f-999d-1435656705f5,map.theatre,available,509.99,529.99,high,medium,3,namesilo,,,
-a8b74f31-b75c-4d48-b12f-8699eb67f83a,map.courses,premium,650,650,high,medium,3,namecheap,,,
-6227b689-a505-48c0-a32e-4f159087a044,map.bar,premium,2925,5850,high,medium,3,namecheap,,,
-0d6d92b2-59e4-42ab-a9d4-7f87c6a28496,map.pub,premium,1300,1300,high,medium,3,namecheap,,,
-66c86ae1-4d44-4cdf-9450-07f9db79b7e2,map.diy,premium,650,1300,high,medium,3,namecheap,,,
-02264d9e-726d-481e-8e4d-391d60a17f6c,map.haus,resell,,,high,medium,3,"Global Domains International, Inc. DBA DomainCostClub.com",18/02/2019 02:13,18/02/2027 02:13,
-62b03190-02e6-45e8-9759-940b057378b4,map.design,premium,845,845,high,medium,3,namecheap,,,
-ab66f76a-cfb4-4cac-a2ed-e0e66d396e7e,map.flowers,available,64.99,114.99,high,medium,3,namesilo,,,
-fe5e6b88-5c0b-48c9-b84a-dd3bfb62c81c,map.florist,available,14.99,,high,medium,3,name.com,,,
-39d21502-37e0-40ff-947b-7518148a08ab,map.security,available,1999.99,2049.99,high,medium,3,namesilo,,,
-26124ea0-f63f-4d63-9984-d8aae758982b,map.memorial,premium,128.7,128.7,high,medium,3,namecheap,,,
-ba8278ec-c550-4db4-a883-39c2062b9d71,map.protection,available,1999.99,2049.99,high,medium,3,namesilo,,,
-aabee191-bb75-46a1-9d4c-c9df4143b2ee,map.marketing,premium,128.7,128.7,high,medium,3,namecheap,,,
-97e76b09-d2b4-46e8-89ed-9273ccdde39e,map.furniture,available,39.99,,high,medium,3,name.com,,,
-5df8a246-520f-4064-84f5-907b55cc3589,map.ing,premium,1690,1690,high,medium,3,namecheap,,,
-79cfffcc-a774-4853-b5aa-023c92c14516,map.golf,premium,82.5,,high,medium,3,name.com,,,
-a6606ff3-7bc6-4fb4-82ce-581f4fd68f6d,map.download,available,,,high,low,3,,,,
-b91b44de-aed2-4679-9e06-174be31a4dbc,map.faith,premium,650,84.5,high,medium,3,namecheap,,,
-b2b0311f-a595-4d84-973b-713cf6c12e06,map.partners,premium,128.7,128.7,high,medium,3,namecheap,,,
-909008ed-2297-48a1-a650-12432c265909,map.navy,available,41.99,41.99,high,medium,3,namesilo,,,
-1ab5bb8f-768e-47a9-a4e8-66fcce74ed59,map.airforce,premium,103.99,103.99,high,medium,3,namesilo,,,
-f2d7a31c-5dab-4ade-b393-13554088d0e0,map.kitchen,available,14.99,,high,medium,3,name.com,,,
-5ede50fd-6569-4de3-8154-6e70fcaf2cfd,map.associates,premium,85.8,85.8,high,medium,3,namecheap,,,
-d3fa6e77-699f-4d52-9f0a-4b0a5b3787ee,map.productions,premium,128.7,128.7,high,medium,3,namecheap,,,
-0add7bd2-8b94-4222-aa4c-55e8f9872145,map.computer,premium,128.7,128.7,high,low,3,namecheap,,,
-a5764a74-6ffc-4545-a2cf-7599e8dfb535,map.ink,resell,,,high,medium,3,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),12/03/2023 00:23,12/03/2027 00:23,
-d26ff074-f9e5-4f6d-887c-6ab04449e76f,map.training,premium,128.7,128.7,high,medium,3,namecheap,,,
-59bfda74-bb3e-46e7-81f3-15879b33c9a2,map.store,premium,1562.5,6250,high,medium,3,name.com,,,
-f92e0bcd-f7dd-4656-810b-622c057e91d9,map.beer,available,,,high,low,3,,,,
-977384f7-123e-4dcb-ad2a-4a72698ab225,map.vodka,premium,52,31.2,high,medium,3,namecheap,,,
-42b2067a-8507-4e6e-a8c9-dd9e7efa04c8,map.shoes,available,39.99,,high,medium,3,name.com,,,
-d2b63143-1197-4fe6-82ef-07ccc92cee1b,map.fashion,available,,,high,low,3,,,,
-682c9ebe-2c88-4475-9c2d-f4b58cc57689,map.moda,available,19.99,,high,medium,3,name.com,,,
-5c24428a-a568-4cd8-b5b6-27971fb1af6d,map.agency,resell,,,high,medium,3,Porkbun LLC,01/01/2019 23:25,01/01/2027 23:25,
-acd978d1-6597-4d48-a0a0-c15f97c7e970,map.vet,premium,520,520,high,medium,3,namecheap,,,
-9f8e84b6-576b-44ee-bac7-52f029076792,map.horse,premium,1040,31.2,high,medium,3,namecheap,,,
-d558f9b1-cbbe-424b-be09-d35232d8813e,map.accountant,available,,,high,low,3,,,,
-e3de2bf0-3e6c-4d86-91c0-b7f884ba6a02,map.fitness,premium,85.8,85.8,high,medium,3,namecheap,,,
-77a89ced-cea7-4575-9974-69c6e0e1a5ca,map.diet,available,104.99,114.99,high,medium,3,namesilo,,,
-fe740f2f-8601-46c9-b9eb-c7ebe51ecbff,map.free,premium,3250,3250,high,medium,3,namecheap,,,
-0eea099f-7515-4877-8813-55eb87c33873,map.discount,premium,85.8,85.8,high,medium,3,namecheap,,,
-7b152558-37ec-4d87-8ef9-696e1ed48e09,map.blackfriday,premium,390,390,high,medium,3,namecheap,,,
-dd690063-5510-4166-a712-d968fcfc725d,map.forsale,premium,128.7,128.7,high,medium,3,namecheap,,,
-baf02f6b-de44-432f-92ca-31d7621b0e61,map.gratis,premium,42.9,42.9,high,medium,3,namecheap,,,
-34ce34a8-d834-404b-856a-e983a87cfb01,map.sale,premium,128.7,128.7,high,medium,3,namecheap,,,
-6bd97844-26e1-470a-8569-02d430bcc5d5,map.deal,premium,130,130,high,medium,3,namecheap,,,
-d742fcd6-3ff9-4cdc-8e13-51d3d4a76520,map.qpon,premium,3450,23.54,high,medium,3,namesilo,,,
-e3e1a8f8-b91b-4890-9d29-a5552495150a,map.coupons,available,3.99,,high,medium,3,name.com,,,
-8054c547-3d18-479c-b3de-66f71e5c8805,map.bargains,premium,128.7,128.7,high,medium,3,namecheap,,,
-521745d6-105b-4370-8ae7-cba95cbf8cd1,map.cheap,resell,,,high,medium,3,"Spaceship, Inc.",25/11/2025 01:42,25/11/2026 01:42,
-ccddc9db-9e48-4557-8b95-1221f530fafc,map.promo,premium,1300,1300,high,medium,3,namecheap,,,
-5f4dc32d-7e5c-4ffb-8e57-54011c5bf958,map.love,premium,5200,10400,high,medium,3,namecheap,,,
-f05f6b52-1689-4d52-8d41-a8234f2656ca,map.dating,available,23.99,,high,medium,3,name.com,,,
-076aeb15-6299-4c24-8719-5515927e0716,map.cooking,available,,,high,low,3,,,,
-819aceb8-c4c1-4610-a6e8-492149db53a6,map.gold,resell,,,high,medium,3,Xin Net Technology Corporation,24/03/2018 16:16,24/03/2030 16:16,
-d6f7598f-f857-422b-b7f5-ebb4e40fdbc5,map.bond,resell,,,high,medium,3,Dominet (HK) Limited,15/11/2020 15:24,15/11/2030 23:59,
-6b275483-82b1-4842-bbf2-25a2f56774d2,map.beauty,premium,2600,15.73,high,medium,3,namecheap,,,
-cd9bc0c3-2123-4fbb-a6d4-f509192da03c,map.giving,available,5.99,,high,medium,3,name.com,,,
-596a97ad-be38-4ff4-9046-f376cf3d8045,map.direct,premium,42.9,42.9,high,medium,3,namecheap,,,
-312fef88-0f02-478e-99fd-63720508502d,map.camera,resell,72.98,,high,medium,3,Dynadot Inc,08/02/2026 16:17,08/02/2027 16:17,
-8fdbda31-c343-41c4-ab6a-b96b2515febb,map.lighting,premium,26,26,high,medium,3,namecheap,,,
-ccc1282d-180b-4048-9a70-a8d61bb1a90e,map.mortgage,premium,260,260,high,medium,3,namecheap,,,
-558da8d2-d090-4760-b139-154c539983b8,map.gives,premium,85.8,85.8,high,medium,3,namecheap,,,
-7030f57b-fa4e-4a86-bb62-93df1603c04b,map.fast,premium,650,650,high,medium,3,namecheap,,,
-d1b12f89-0c0c-4f9d-9c4f-4285cb418b76,map.dad,premium,1298.7,1298.7,high,medium,3,namecheap,,,
-9e779183-1a86-42c9-bd1b-9c745410d48b,map.shopping,resell,,,high,medium,3,Dynadot Inc,11/12/2022 15:15,11/12/2026 15:15,
-c6e89ea0-a59b-4298-a865-6c8962719bfe,map.food,premium,650,1300,high,medium,3,namecheap,,,
-6b0d5453-8f3d-4c18-90ad-a625527efa3f,map.luxe,available,,,high,low,3,,,,
-8d428b1d-b37c-4395-b9fa-87f02f624a78,map.auction,premium,260,260,high,medium,3,namecheap,,,
-1d7883a9-70f9-451c-a1ba-73bdefdfdcb7,map.clothing,premium,128.7,128.7,high,medium,3,namecheap,,,
-8afd892d-3ada-4fb9-830e-33411758dc1a,map.jewelry,available,19.99,,high,medium,3,name.com,,,
-e4bfd24a-cae8-497e-ac56-b15e9fd09f79,map.mom,resell,,,high,medium,3,Dynadot LLC,24/01/2026 03:12,24/01/2027 23:59,
-340c0c0b-999c-4c5d-a441-742717c4940a,map.lease,premium,85.8,85.8,high,medium,3,namecheap,,,
-d1518b6c-1895-47da-8130-0da4f3983c45,map.vana,available,,,high,low,3,,,,
-c6b3b462-09d4-4a58-8bd2-e230802b2d93,map.zip,premium,1298.7,1298.7,high,medium,3,namecheap,,,
-31b7f3d3-9b8c-48af-a7be-dd6655a2e10b,map.bid,premium,650,84.5,high,medium,3,namecheap,,,
-1fe8e8a6-b85f-4d0d-9e83-bfd860c3e59e,map.plumbing,available,14.99,,high,medium,3,name.com,,,
-0fab61b2-d418-4e62-b86e-6ad5e112afb1,map.tienda,available,9.99,,high,medium,3,name.com,,,
-91ac85c0-30b2-486a-abb1-9a6d6b710a84,map.kaufen,available,5.99,26.99,high,medium,3,namesilo,,,
-d8a2c3b4-8ae4-4f36-9f23-17646edc4562,map.creditcard,available,9.99,,high,medium,3,name.com,,,
-2514c430-ed06-4060-9db4-8b108fca6889,map.diamonds,available,54.99,54.99,high,medium,3,namesilo,,,
-612fc90b-1f9d-4e31-8603-e74bb34efbe6,map.toys,resell,,,high,medium,3,"GoDaddy.com, LLC",04/12/2015 16:17,04/12/2026 16:17,
-4f728b12-4193-4f73-a5d7-02ed0b1c2f8d,map.recipes,available,11.99,,high,medium,3,name.com,,,
-640e9e65-4aa0-46db-bfe3-6aa3cc521911,map.gift,premium,156,156,high,medium,3,namecheap,,,
-6ce8ed8f-c3c4-4282-a5c4-85ff9a7bec59,map.broker,available,19.99,,high,medium,3,name.com,,,
-d5ee3595-408a-4802-a28c-d70206cec678,map.rich,available,94.99,1999,high,medium,3,namesilo,,,
-09c23f4b-cbf7-4f03-af9f-dbb5ce64af7a,cartography.at,available,,,medium,high,11,,,,
-f1500f8b-559c-4c51-b6e5-20bdf4f3784c,cartography.site,available,,,medium,high,11,,,,
-6896880a-1e7d-4b21-8771-86a01d9cb74d,landscape.zone,available,14.99,,high,low,9,name.com,,,
-f40b5f4e-4859-4de9-80e9-b09bd4977079,country.zone,resell,,,high,low,7,"Chengdu West Dimension Digital Technology Co., Ltd.",13/10/2018 23:22,13/10/2026 23:22,
-3ffa30bd-6244-4d69-ba43-b95140354a47,geology.zone,available,,,high,high,7,,,,
-6d8f7c55-a14a-4651-932e-f93c37476ab2,cartography.so,available,,,medium,high,11,,,,
-4902534d-1f69-4cab-afc1-4aef8f2aadba,topography.zone,available,51.98,,medium,high,10,namecheap,,,
-1e1b1927-2ee9-4c8f-af2e-97b4bbb780a3,weather.country,available,2450,,high,medium,7,namecheap,,,
-0a7a7baa-4e7a-4cd2-8ea0-69429a5736de,weather.at,resell,,,high,medium,7,InterNetX GmbH ( https://nic.at/registrar/80 ),,,
-70075d67-4629-46d7-b81b-06efa984d221,landscape.earth,resell,,,high,low,9,"GoDaddy.com, LLC",15/03/2023 23:43,15/03/2027 23:43,
-dcb54e06-5cd6-43e4-88c2-71ecd9b0e61f,landscape.space,premium,1750,7000,high,low,9,namecheap,,,
-d7e79bfd-41ce-4bbf-922c-77b16991ed64,region.country,available,2450,,high,low,6,namecheap,,,
-878dc3ac-982a-4064-b4cd-de84e920e504,country.space,premium,875,3500,high,low,7,namecheap,,,
-0504e779-63d4-4b3c-a89c-c008c1f42d5c,landscape.country,available,2450,,high,low,9,namecheap,,,
-c5237c1c-d4d9-480e-bcd1-b5090486dfd1,weather.site,premium,781.25,,high,medium,7,name.com,,,
-34b26f73-b346-4756-978d-5159aebfb250,country.country,available,,,high,low,7,,,,
-f5d41772-4abf-4980-8f06-a5fde2761569,weather.green,premium,625,,high,medium,7,name.com,,,
-1b36bcc6-8de2-4a7b-94aa-89880f82da38,weather.organic,available,19.99,,high,medium,7,name.com,,,
-0e2c00ed-b266-4361-903a-1de78411166b,geology.space,available,,,high,high,7,,,,
-0deeb2c7-4e72-434e-85f9-cfa418a34110,weather.bayern,premium,292.82,,high,medium,7,name.com,,,
-5203f9e4-595a-4bbf-b6df-25bae1336fbc,country.at,resell,,,high,low,7,dogado GmbH ( https://nic.at/registrar/622 ),,,
-5e379ffe-03bf-4464-9fdb-8eb124666f13,weather.world,resell,,,high,medium,7,RegistryGate GmbH,10/01/2015 16:13,10/01/2027 16:13,
-db8cc53b-7ef5-44be-bd23-e7f70bca9656,weather.miami,available,,,high,high,7,,,,
-ccc02039-36eb-4619-a3ed-6326737931bd,cartography.gg,available,82.98,,medium,high,11,namecheap,,,
-5b9e4a4a-e4ab-4ca2-a91c-7f293a01c747,weather.osaka,available,,,high,high,7,,,,
-2fd893e1-9627-44a0-ae4a-5cc5a595e672,landscape.site,premium,781.25,,high,low,9,name.com,,,
-09178e15-0c40-4c84-957b-2ad428a6bd41,geology.at,available,,,high,high,7,,,,
-565a6c43-61be-40e6-9448-29a2c30fdb46,weather.spot,premium,625,,high,medium,7,name.com,,,
-6a2be69a-7cd2-450c-a2f4-c66800e0872d,weather.asia,resell,,,high,medium,7,Dynadot Inc,18/07/2025 04:57,18/07/2026 04:57,
-f7a3d991-d37c-49e4-9a82-96e3e0507cc5,country.site,premium,312.5,,high,low,7,name.com,,,
-2b35bdc5-b313-4294-8acc-3dba958beb04,landscape.us,resell,,,high,low,9,"GoDaddy.com, LLC",24/04/2002 14:05,23/04/2027 23:59,
-d152d1b1-ae3f-4a93-8b99-e90c69e04d76,weather.sydney,available,,,high,high,7,,,,
-32d3e539-5a9c-4eb2-a319-5a328258bae7,weather.melbourne,premium,8978.31,,high,medium,7,name.com,,,
-60ad9ec1-b39f-4fc3-a04f-07531d68ea73,region.site,premium,312.5,,high,low,6,name.com,,,
-187c9a37-6085-4c28-9e09-258855d6cf32,landscape.green,premium,1107,1107,high,low,9,namesilo,,,
-5c64e7db-5fa7-4164-8aed-e0a66d6544d3,weather.garden,premium,242,29.5,high,medium,7,namesilo,,,
-d74d634f-7488-41af-b1e5-c3777f01a1b0,country.green,premium,625,,high,low,7,name.com,,,
-9e28bda0-559e-4181-8c06-36a7399abfce,region.place,available,22.49,22.49,high,low,6,namesilo,,,
-86324b36-1cf8-40d9-844f-a49ca7c0388e,weather.archi,available,24.99,,high,medium,7,name.com,,,
-92ed935c-1882-4d99-8035-a3b83dec4bb4,weather.cv,premium,1339.98,8.85,high,medium,7,namesilo,,,
-e43a4250-e26f-471e-8ec2-0e1ed194e60a,region.green,available,11.99,,high,low,6,name.com,,,
-24e15cb0-a666-4970-80ed-351dfdb969a4,weather.im,available,,,high,high,7,,,,
-6bbee720-747c-4d76-9cae-268af43de261,weather.quest,premium,2500,,high,medium,7,name.com,,,
-fb505314-a074-483d-a0de-06300b78af7e,cartography.expert,available,82.48,,medium,high,11,namecheap,,,
-53cf434f-bd14-40e3-b76a-8522285beb0b,weather.immobilien,available,14.99,,high,medium,7,name.com,,,
-5fc60885-c5a3-44e3-a241-951b9c2f6eff,weather.ac,resell,,,high,medium,7,"humbly, LLC",11/05/2023 17:00,11/05/2027 17:00,
-c5ad4edc-7aad-4f07-a867-d03785e2f1b4,area.zone,resell,,,high,low,4,"DNSPod, Inc.",01/05/2018 08:10,01/05/2027 08:10,
-d91384aa-e021-492d-9d4e-eb9d5cf0bb22,landscape.organic,available,19.99,,high,low,9,name.com,,,
-f7fbaca4-66a3-4343-a483-0a181d28b9c0,weather.voyage,available,9.99,,high,medium,7,name.com,,,
-3285efc7-1381-4d2e-b9ca-f4f8547a8b19,weather.reise,available,27.89,97.99,high,medium,7,namesilo,,,
-cbc161ca-fe87-4a80-82aa-a9e7cc9c3617,landscape.land,premium,118.8,118.8,high,low,9,namesilo,,,
-45219527-91dd-438a-9268-6562d0e8788f,weather.viajes,available,37.99,37.99,high,medium,7,namesilo,,,
-4391569c-e4ea-4e96-b15b-0696327f17f5,weather.reisen,available,3.99,20.99,high,medium,7,namesilo,,,
-06137d7d-f376-4d8c-a54f-2ca0a517f18b,weather.tours,available,9.99,,high,medium,7,name.com,,,
-eaf0318c-a25e-4760-94c9-b8f6a472eb92,landscape.bayern,available,34.99,34.99,high,low,9,namesilo,,,
-655e2780-44a5-4d11-8501-fee6e0c3e4e9,weather.science,available,,,high,high,7,,,,
-a14b67b6-796b-4890-a42d-818705def44a,weather.property,available,,,high,high,7,,,,
-9b6372e3-8a4f-44e5-8309-9c6e0f568260,cartography.tech,premium,156.25,625,medium,high,11,name.com,,,
-d57aa78e-81bc-49f5-94b2-88f745241229,weather.in,resell,,,high,high,7,Endurance Digital Domain Technology Private Limited,16/02/2005 06:30,16/02/2027 06:30,
-b453485a-d39f-4911-8439-d8dd90757972,country.organic,resell,,,high,low,7,Porkbun LLC,31/07/2025 11:40,31/07/2026 11:40,
-f4cc058c-6081-4678-819c-5617533a79ba,country.bayern,available,34.99,34.99,high,low,7,namesilo,,,
-c5bedb67-d7a4-4637-af97-7bf6a1a8a727,weather.casa,available,2.19,12.99,high,medium,7,namesilo,,,
-a32e03a4-d45a-4db0-a082-f0b9f8ae7983,weather.condos,premium,118.8,118.8,high,medium,7,namesilo,,,
-9f0a635b-6871-4227-8a65-3cde9dfd834c,weather.maison,available,19.99,,high,medium,7,name.com,,,
-5f511ec9-bce8-45a8-9037-d9c7feea7910,weather.immo,available,14.99,,high,medium,7,name.com,,,
-d9b83c72-9c45-4458-a323-d282a62dfc09,weather.homes,premium,2500,,high,medium,7,name.com,,,
-49049bee-4b48-4cbe-a7bf-933a6040d5ee,weather.house,resell,,,high,medium,7,"Global Domains International, Inc. DBA DomainCostClub.com",13/03/2022 19:25,13/03/2027 19:25,
-9be3d290-0ff2-4a21-b9e6-63817f274e7b,weather.realty,available,109.99,299,high,medium,7,namesilo,,,
-087d9f03-1513-4dca-8858-f954b8b3f856,weather.villas,premium,242,242,high,medium,7,namesilo,,,
-34842859-ae95-4056-8103-d05cc7483de4,weather.rentals,premium,242,242,high,medium,7,namesilo,,,
-9ecd3080-a4fe-42c3-9a90-5aeb0458f769,weather.apartments,available,19.99,,high,medium,7,name.com,,,
-b626cedb-ef63-4d70-98e7-e300cd9d5c95,weather.la,resell,,,high,medium,7,LA Domain Names,06/04/2023 08:47,06/04/2027 23:59,
-e86375b5-3693-40f6-b63c-588f056a884d,landscape.city,resell,,,high,low,9,"Sav.com, LLC - 21",07/06/2023 15:15,07/06/2026 15:15,
-ff97f3cd-1432-40e1-8b8c-441e82827851,weather.me,premium,18125.01,,high,medium,7,name.com,,,
-814d040d-5f81-4fb6-ab1a-aa9157de2ad7,weather.irish,available,9.99,,high,medium,7,name.com,,,
-3ff160f0-7357-4d8b-8988-c119745254f2,ground.country,available,2450,,high,low,6,namecheap,,,
-0b297f82-1a9c-4c84-bf1e-c85b33b16d61,weather.online,premium,3125,,high,medium,7,name.com,,,
-cf8294c8-da5c-43a1-92ea-4314e711c78e,weather.cruises,available,14.99,,high,medium,7,name.com,,,
-ae28b76d-0e7e-4de3-9b93-361111ee20cf,weather.builders,available,7.99,,high,medium,7,name.com,,,
-e95e9484-b256-4826-84bf-e5920da9d5b3,weather.construction,available,15.99,,high,medium,7,name.com,,,
-18d649d2-fef3-4432-ad03-3750ecad3b73,weather.contractors,available,9.99,,high,medium,7,name.com,,,
-597fcd89-03f6-42cb-8b2e-8375ff9cd11c,weather.management,available,14.99,,high,medium,7,name.com,,,
-980a33a2-9694-4869-b593-89a5b5438bdb,topography.at,available,,,medium,high,10,,,,
-024ab4b2-9ff5-4d79-8fc1-1eec858b883e,weather.lat,premium,2500,,high,medium,7,name.com,,,
-6214bc5a-5d2e-48ce-aa59-0432de3acdd3,region.organic,available,19.99,,high,low,6,name.com,,,
-8c0735ef-1708-4aa0-a623-7bc5e33475cc,region.eco,available,64.99,,high,low,6,name.com,,,
-00433dc8-37b9-4dfa-80cf-dd87f2fe9611,weather.cloud,premium,3250,6500,high,medium,7,namecheap,,,17/09/2026 16:44
-61f9295a-4b14-44ac-9401-52b7bc049128,region.land,premium,118.8,118.8,high,low,6,namesilo,,,
-c93823af-737b-4208-9a2d-24b1d31ef508,climate.zone,resell,,,high,low,7,"Chengdu West Dimension Digital Technology Co., Ltd.",04/12/2023 15:15,04/12/2026 15:15,
-6f417b64-5f1c-4bb7-899a-3013d7072bed,region.bayern,premium,294.1,,high,low,6,name.com,,,
-097e09d7-b82b-497a-8884-021d2d78edc3,environment.at,available,,,high,low,11,,,,
-e938c80d-5983-404b-925d-cb9b769c20d9,geographical.zone,available,,,medium,high,12,,,,
-b8139acf-1961-40a8-8cd1-dbd7e2f9c87f,geology.site,available,,,high,high,7,,,,
-26a20a00-ded5-43c5-a1cf-52561f4e4562,landscape.world,resell,,,high,low,9,Squarespace Domains II LLC,07/02/2019 23:23,07/02/2027 23:23,
-f6107aa4-9459-4ced-87af-1ac165b16abc,weather.community,premium,118.8,118.8,high,medium,7,namesilo,,,
-152cfd43-5782-42a3-a659-e8a908816b62,weather.boats,premium,2500,,high,medium,7,name.com,,,
-d9891246-53c8-424d-ad59-2259bd815493,weather.yachts,premium,2500,,high,medium,7,name.com,,,
-c4318c9a-29e3-40b0-afd2-a4af892dfc0b,region.io,resell,,,high,low,6,"Docky, Inc.",09/03/2026 15:15,09/03/2027 15:15,
-ce281ecc-f610-4f90-a681-67ff4a1033a0,weather.global,available,,,high,high,7,,,,
-938da7de-da1f-4cb4-b810-952fb41109d3,weather.ai,resell,,,high,medium,7,"NameCheap, Inc.",16/12/2017 01:56,04/05/2033 01:56,17/09/2026 10:49
-90a63c59-3ccb-4a0a-9a2d-ed9b54c46104,cartography.ninja,available,42.98,,medium,high,11,namecheap,,,
-2a62fb9e-5d44-42be-b8f8-6b9341bac975,weather.juegos,available,478.98,,high,medium,7,namecheap,,,
-3290a08c-ee12-435d-bc6d-c66fe28b3e49,weather.camp,resell,,,high,medium,7,"GoDaddy.com, LLC",23/02/2020 03:07,23/02/2027 03:07,
-52e2886d-6c5a-457d-8d68-c137bdce7d52,weather.cfd,premium,329.6,659.2,high,medium,7,namesilo,,,
-4371373f-c1e0-4374-b37d-49840a05b1b4,landscape.town,available,,,high,low,9,,,,
-83614b13-e40a-47df-85a9-309344ee7d75,weather.ski,premium,3750,,high,medium,7,name.com,,,
-68fcc730-c155-4aae-983e-a8bd0464bb7a,weather.sexy,available,2749.99,2749.99,high,medium,7,namesilo,,,
-1e6025a8-40f9-45e6-80a7-d623905c7064,weather.adult,available,166.98,,high,medium,7,namecheap,,,
-8d860dad-6ec4-4522-a6ae-6fcae83e6e58,weather.fishing,premium,242,29.5,high,medium,7,namesilo,,,
-326e955b-56a2-4c0a-a45b-8946942a65f8,weather.fish,premium,118.8,118.8,high,medium,7,namesilo,,,
-87376749-45cf-40dd-9d09-983226a4aec1,weather.contact,available,14.99,14.99,high,medium,7,namesilo,,,
-2cd6a870-0998-4aeb-962a-11794c4f0b1e,region.city,available,,,high,low,6,,,,
-1ed70445-5681-4ac5-86e0-876d5d35b80f,weather.club,premium,3349,,high,medium,7,name.com,,,
-a2b64b3d-90f8-4af3-899c-896b57feef4e,weather.news,available,,,high,high,7,,,,
-a5f4a3a9-74bc-4973-8c18-be588112d881,weather.press,premium,3125,,high,medium,7,name.com,,,
-3dce5b1e-6226-4741-ad27-0cf525cb7005,weather.blog,available,,,high,high,7,,,,
-d7c60710-d94d-4a5e-9d1a-eca309d5cf13,weather.voting,available,1448,,high,medium,7,namecheap,,,
-caa249f7-d2b7-45b2-8648-5aca4f94d336,weather.voto,available,19.99,,high,medium,7,name.com,,,
-dc2c7c1f-bb5c-4bd2-b63b-58a871a8b24d,country.town,premium,242,242,high,low,7,namesilo,,,
-22533c09-6152-4ac8-8fa4-f9cf3ae6327e,weather.cricket,premium,6250,,high,medium,7,name.com,,,
-edc66202-19f0-47fe-9596-fbeef79b31c7,weather.webcam,premium,6250,,high,medium,7,name.com,,,
-8b6f7796-738c-4d4c-b4f2-45a6428cb56e,weather.page,premium,1248.75,,high,medium,7,name.com,,,
-80ec3d82-1276-4047-8b47-0f7d73c45cea,weather.website,premium,1562.5,,high,medium,7,name.com,,,
-8ceff32a-1f47-4cc6-9fb9-c64720adb623,weather.democrat,available,9.99,,high,medium,7,name.com,,,
-085db6e8-dbf0-4b47-bd05-5c4a3724b9dc,weather.expert,premium,854,854,high,medium,7,namesilo,,,
-a62742ab-c2ee-4606-ae92-6286883d997a,weather.day,premium,1248.75,,high,medium,7,name.com,,,
-5a92b49d-dcdb-40ac-8718-d43d9e91b441,weather.photo,premium,116,116,high,medium,7,namesilo,,,
-32994711-4beb-4fed-b04e-a1cd30919d78,weather.hiv,available,,,high,high,7,,,,
-376c0d86-6feb-407f-a742-8549b6240ad2,weather.ong,available,16.99,,high,medium,7,name.com,,,
-9549b313-1181-4f08-a6b1-0fe50d6ca291,weather.tickets,premium,1875,,high,medium,7,name.com,,,
-161dfebf-e492-49e4-a040-eefc8b6c7fb5,weather.rsvp,premium,1248.75,,high,medium,7,name.com,,,
-e9fcb21b-13cb-4aef-85c7-a77b0a21f1a7,weather.events,resell,,,high,medium,7,Dynadot Inc,31/10/2015 04:50,31/10/2026 04:50,
-736f0ab2-427b-474b-8a5c-f156a2a2595c,weather.nexus,premium,1248.75,,high,medium,7,name.com,,,
-ce16a901-aa3f-4a08-afa9-954bfbe6f5bf,weather.industries,premium,242,242,high,medium,7,namesilo,,,
-89953a9d-768f-4792-99cc-aba9dd0b3144,weather.services,premium,140,280,high,medium,7,namecheap,,,
-f4769160-0591-465c-a218-e6a309e969b0,weather.systems,resell,,,high,high,7,"Network Solutions, LLC",30/11/2024 17:32,30/11/2025 17:32,
-9d98301c-ef3a-4efd-99b6-1e5362e6b966,weather.study,premium,116,116,high,medium,7,namesilo,,,
-2d0d1ea9-d2a6-4160-9320-338a7bda0fbf,weather.lgbt,available,19.99,,high,medium,7,name.com,,,
-31b1dbce-9e0a-4b7e-ac08-c092592d3471,weather.gay,premium,2500,,high,medium,7,name.com,,,
-b17179ba-8160-4cc7-b134-d19e5e2bc243,landscape.miami,premium,242,242,high,low,9,namesilo,,,
-228fbd4d-461b-40da-aa7c-fab74f5a14f8,weather.prof,premium,1623.75,,high,medium,7,name.com,,,
-0080a8d1-8633-4746-8797-74931828154d,weather.phd,premium,1623.75,,high,medium,7,name.com,,,
-07c9a38a-144b-4e65-97bc-f303f4dfbe56,weather.live,available,,,high,high,7,,,,
-7161636f-fb6b-4701-981b-c3edd97e70a2,weather.pro,resell,,,high,medium,7,Netregistry Wholesale Pty Ltd,02/03/2005 00:00,02/03/2028 00:00,
-e01fcb63-1bdf-4e17-87d2-90ca31607d91,weather.icu,premium,106.8,227.84,high,medium,7,namesilo,,,
-e0b86705-ecc6-4c41-91ee-d94bdf3997f8,weather.group,resell,,,high,medium,7,"Chengdu West Dimension Digital Technology Co., Ltd.",06/11/2018 08:31,06/11/2026 08:31,
-2824b350-58bd-4419-873f-f18630d516c7,weather.life,resell,,,high,medium,7,"Spaceship, Inc.",23/04/2017 12:37,23/04/2027 12:37,
-ec5e82de-b40c-4814-9348-c9fa1ae13b4b,weather.living,premium,490,700,high,medium,7,namecheap,,,
-fc54049f-63ae-4a8e-a536-3e363e68aa01,weather.lifestyle,premium,490,700,high,medium,7,namecheap,,,
-3da846c3-0541-489f-a9ee-5849ecfe6455,weather.music,premium,1248.75,,high,medium,7,name.com,,,
-fe2146ae-9849-4cc4-80e8-5b0446ab1997,weather.guitars,premium,2660,2660,high,medium,7,namesilo,,,
-ab6f2f31-a8b4-4c3d-9961-6a7c410747ab,weather.audio,premium,2660,2660,high,medium,7,namesilo,,,
-1d4ba25c-fd81-459a-9bfe-a4a6c5e0c0b8,weather.hiphop,available,,,high,high,7,,,,
-ada155f1-a955-4ee8-b86b-49e66293d9f3,weather.sucks,premium,13800,2658.67,high,medium,7,namesilo,,,
-9c5aca5d-5631-4b9b-9427-dbe09230b499,weather.fail,premium,118.8,118.8,high,medium,7,namesilo,,,
-8afc10e2-a7d4-41fb-8ee7-d9e51f3d5609,weather.review,premium,6250,,high,medium,7,name.com,,,
-fd75af43-6075-455b-aa73-4420045c8e70,weather.exposed,premium,500,,high,medium,7,name.com,,,
-004bad0a-1669-4744-ab3a-97e8b37e8fdb,weather.help,premium,83.3,116,high,medium,7,namesilo,,,
-ab8eaa3a-dd91-47f6-9e09-c92c4fe2cf41,weather.catering,premium,118.8,118.8,high,medium,7,namesilo,,,
-60ab0573-48bb-451c-a57c-5faa3d921605,region.world,resell,,,high,low,6,"DNSPod, Inc.",07/10/2020 15:41,07/10/2026 15:41,
-a3103933-43e6-414e-8dd3-05b45b7481d3,weather.charity,available,5.99,,high,medium,7,name.com,,,
-ef6afd8e-c8d2-4b2f-817b-01c638b71d7d,weather.jetzt,available,9.99,,high,medium,7,name.com,,,
-4e6bcb42-97bb-4401-964b-b50de6376374,weather.fyi,resell,,,high,medium,7,"GoDaddy.com, LLC",02/09/2015 16:00,02/09/2026 16:00,
-5d2d2e96-e6f2-4fc2-ade6-bff59eee8cb4,weather.how,premium,423.75,,high,medium,7,name.com,,,
-0e1456c0-dced-4efc-8a95-bee69c4c6253,weather.domains,premium,500,,high,medium,7,name.com,,,
-be9429a4-08ba-4942-bdb9-8d16628415fa,weather.today,resell,,,high,medium,7,"GoDaddy.com, LLC",26/06/2015 16:00,26/06/2027 16:00,
-72801f57-6a93-4769-84bc-ef996c881c2c,weather.yoga,available,42.98,,high,medium,7,namecheap,,,
-a97acb1f-e009-41e2-9f4b-4d21c1b2fd17,weather.mov,premium,1248.75,,high,medium,7,name.com,,,
-4309acda-3fe6-41b4-be85-9e1f6da64d2f,weather.film,premium,116,116,high,medium,7,namesilo,,,
-144d47ff-1f74-4de0-a8a4-360da09799ff,weather.movie,available,69.99,,high,medium,7,name.com,,,
-e9e68a45-9992-4ca7-9bdc-0e22e1e11c9a,cartography.store,premium,156.25,625,medium,high,11,name.com,,,
-5a8cd97d-be1c-4c23-8cb1-2eda2ceaaf15,country.miami,available,,,high,low,7,,,,
-e9ad14d5-ffe9-48bb-b239-6378ffc97b6e,weather.talk,premium,625,,high,medium,7,name.com,,,
-3dec792c-feb8-4427-9211-53ede8946873,weather.schule,available,19.99,,high,medium,7,name.com,,,
-ffc3b2cf-d9ee-4184-a5af-00d1891dcd8d,weather.shiksha,available,19.99,,high,medium,7,name.com,,,
-57332473-c2d1-4cce-9169-840d1d82e5de,weather.institute,resell,,,high,medium,7,"HOSTINGER operations, UAB",08/08/2025 13:26,08/08/2026 13:26,
-702e184d-fbfd-415e-acc3-ad17ebae1152,weather.sarl,available,6.99,6.99,high,medium,7,namesilo,,,
-7f956b1f-a2ca-4496-b6ca-cab501e14c69,weather.limited,premium,78.54,78.54,high,medium,7,namesilo,,,
-5dab0da2-f204-497f-8cdb-e664caa6bec4,weather.enterprises,resell,,,high,medium,7,"Global Domains International, Inc. DBA DomainCostClub.com",13/03/2022 19:25,13/03/2027 19:25,
-401ee58b-8cb1-4013-9c62-db7bc3bf950b,weather.ltda,premium,56.64,33.04,high,medium,7,namesilo,,,
-ff696ba5-b6eb-4ba9-8f6b-bf7d64cfffa2,weather.gmbh,available,45.99,45.99,high,medium,7,namesilo,,,
-c3a3be97-4906-47a3-833f-b91a0d6d42c7,weather.llc,premium,2500,,high,medium,7,name.com,,,
-841af121-757d-46f3-b16a-c3f1ef315063,weather.inc,premium,2061.5,2660,high,medium,7,namesilo,,,
-d487246d-2a39-4e4b-bfea-56b4f8580bbc,weather.srl,premium,54.28,30.68,high,medium,7,namesilo,,,
-6eb2d342-7139-4ff2-b17e-87eab9be29c5,weather.forum,premium,87.5,,high,medium,7,name.com,,,
-73323090-af55-4a23-a781-b87380502b8b,weather.vc,resell,,,high,medium,7,Dynadot Inc,02/01/2024 17:34,02/01/2027 17:34,
-c5291b1e-0eca-4914-b54e-a0dbfebcaef9,weather.fans,available,,,high,high,7,,,,
-acb88d0e-00b0-41fc-a5f5-0184abded846,weather.uno,premium,3125,,high,medium,7,name.com,,,
-4d7e2a24-2d79-4af9-b054-bd61f54a2488,weather.kim,available,14.99,,high,medium,7,name.com,,,
-23f68cf0-f179-46ea-86bd-806376c21583,weather.one,premium,6250,,high,medium,7,name.com,,,
-33878056-c178-4903-a931-2bca4fa7eef8,weather.makeup,premium,2500,,high,medium,7,name.com,,,
-38b3d072-9f00-4a7d-96b4-21f0e235cb19,weather.onl,premium,156.25,,high,medium,7,name.com,,,
-a9720d56-e0e2-4946-8dc0-7548c49b9e4a,weather.you,premium,625,,high,medium,7,name.com,,,
-2269f3f6-d25d-45c6-9fc5-fbb80aacb58f,weather.soy,premium,373.75,,high,medium,7,name.com,,,
-04006e7a-1dbf-4ea0-91cb-4a5d80a313f1,landscape.vegas,premium,242,119.94,high,low,9,namesilo,,,
-0bfc7ced-f70c-4354-bfe4-c0e7ec35fc48,weather.salon,available,14.99,,high,medium,7,name.com,,,
-5a7e5c87-bb12-4b61-b31c-30fcb1b58200,weather.skin,premium,2500,,high,medium,7,name.com,,,
-8d215b1a-948c-469d-951d-d02566329fbc,weather.hair,premium,2500,,high,medium,7,name.com,,,
-309b6264-ca8d-48d0-b04a-64526bc8b73f,landscape.osaka,available,39.99,,high,low,9,name.com,,,
-4dd3e196-2057-4ab6-98d9-56be4945e4ac,weather.wedding,available,32.49,32.49,high,medium,7,namesilo,,,
-1d5fea2f-4010-4d62-a9f6-a39f4a8b00fa,weather.university,premium,78.54,78.54,high,medium,7,namesilo,,,
-7882d080-022f-43fc-bba2-180681a375da,weather.college,premium,625,,high,medium,7,name.com,,,
-8d528815-9489-4439-b130-e341561a5ef2,weather.racing,premium,116,116,high,medium,7,namesilo,,,
-01cd3fb1-14a1-4281-a8bf-2a4acb5c6fc0,weather.hot,premium,625,,high,medium,7,name.com,,,
-44cf7599-c0aa-4f6d-9cc9-156bef93c4c8,weather.hospital,available,57.99,57.99,high,medium,7,namesilo,,,
-64cb9fe5-cb26-4c49-9fd7-7b6508a44843,weather.surgery,premium,118.8,118.8,high,medium,7,namesilo,,,
-92149882-d6db-4ad2-9122-36c43d94819d,weather.ninja,premium,118.8,118.8,high,medium,7,namesilo,,,
-ae3d2ddf-d06b-4938-b7f2-430354130623,weather.cleaning,available,75.49,75.49,high,medium,7,namesilo,,,
-7ed85eba-d90b-4fed-b8e2-5153224e66c5,weather.name,available,,,high,high,7,,,,
-366aca5f-b3da-4d32-a207-60fffd818b8d,weather.black,available,29.99,,high,medium,7,name.com,,,
-e07e8709-5c8d-4285-8227-60a96e2bf9b8,weather.tax,resell,,,high,medium,7,Porkbun LLC,16/08/2025 11:23,16/08/2026 11:23,
-23e67c60-f0c0-43a7-9e70-a06316f24667,weather.top,premium,274.58,,high,medium,7,name.com,,,
-de50572b-def4-4fb9-b3c8-3c5b7fa1f779,weather.best,premium,83.3,83.3,high,medium,7,namesilo,,,
-be98c403-442d-4211-baee-60d9a5a33488,weather.party,available,,,high,high,7,,,,
-9a4daa53-310f-4afc-b6e0-4d4908845076,country.so,available,,,high,low,7,,,,
-ec1983dc-bbc4-4f02-bf2b-f1d9201a6cd6,weather.law,available,95.99,95.99,high,medium,7,namesilo,,,
-6f39d750-147c-4274-810a-188aa37c54b3,weather.attorney,available,62.99,62.99,high,medium,7,namesilo,,,
-460dda31-d3e4-4de8-bc8b-4dac9a0d4a11,weather.esq,premium,1623.75,,high,medium,7,name.com,,,
-4012122d-69e8-4b83-91f3-2121195e63c1,weather.loans,available,19.99,,high,medium,7,name.com,,,
-6a7febdd-8600-4259-8805-028b663219c2,weather.loan,premium,437.5,,high,medium,7,name.com,,,
-0c0510ac-6da4-422f-bc69-c1ad73c1c16a,weather.locker,premium,290.91,8.05,high,medium,7,namesilo,,,
-6a8278d0-df25-4085-9012-60f8fe359554,weather.supplies,available,24.99,24.99,high,medium,7,namesilo,,,
-1640365f-ea2e-4429-a671-52f2e6b7c645,weather.clinic,premium,242,242,high,medium,7,namesilo,,,
-d364040e-1931-41ff-ab3a-f11b573e9a1a,weather.foo,premium,1248.75,,high,medium,7,name.com,,,
-216eba08-8383-4a53-856f-b56f939ec41e,weather.limo,available,19.99,,high,medium,7,name.com,,,
-d5148d8f-dbd4-4194-989d-5b2224a7113f,weather.cab,available,,,high,high,7,,,,
-696d48cf-f3ef-46fa-8bdf-f07ae587ceab,weather.dental,available,59.98,,high,medium,7,namecheap,,,
-4b756cdb-1a55-4a50-9a23-a0e2467b71c7,weather.dentist,available,65.99,65.99,high,medium,7,namesilo,,,
-4fd6677c-9b7a-4d6f-8a0f-6b4317891aaf,weather.storage,available,509.99,529.99,high,medium,7,namesilo,,,
-dce0d472-e66c-4a3b-a342-6e8f5c4e3ddf,weather.men,premium,1107,116,high,medium,7,namesilo,,,
-6e8fa835-7933-4ee8-a7db-27af89134d3d,weather.parts,premium,78.54,78.54,high,medium,7,namesilo,,,
-d2c78772-d873-449a-80f2-ef828c0021dd,weather.tattoo,resell,,,high,medium,7,Porkbun,16/08/2025 11:23,16/08/2026 11:23,
-8b59beaa-7c64-4076-b249-e5a9234664b0,weather.hosting,premium,1729,1729,high,medium,7,namesilo,,,
-bd1c508e-63b8-4432-be84-7d446af1d53e,weather.host,premium,3125,,high,medium,7,name.com,,,
-5be2adc5-a7c6-44d6-8378-e9337ac60184,ground.us,resell,,,high,low,6,Dynadot Inc,08/11/2017 00:02,08/11/2026 00:02,
-a621fd26-29cf-4de8-be08-b0ba103666c3,weather.healthcare,available,88.99,88.99,high,medium,7,namesilo,,,
-ac4fcc0a-10c0-4a9d-b47a-938acbc99bed,region.town,available,9.99,,high,low,6,name.com,,,
-ee2c3464-3bb6-4d0e-bd6b-b7bbe33f8b0d,weather.bot,premium,6250,,high,medium,7,name.com,,,
-2452a5b5-9a8f-462e-b912-410b983d9071,weather.buzz,premium,500,,high,medium,7,name.com,,,
-8899d1c8-2156-472a-a467-92264a732f5f,weather.menu,available,27.99,27.99,high,medium,7,namesilo,,,
-3cf28c15-a6a8-4398-9031-5747858b21a6,weather.rest,premium,157.5,,high,medium,7,name.com,,,
-649c4b9e-ce1f-4baf-9b25-36c67b0b7fbb,weather.tennis,available,65.99,65.99,high,medium,7,namesilo,,,
-b09ddee9-e33d-4315-bbed-10a19f022885,weather.soccer,available,19.99,,high,medium,7,name.com,,,
-d0d451dc-3a6b-471f-995e-e8cfce59b0b3,weather.hockey,available,14.99,,high,medium,7,name.com,,,
-0688b4e6-394d-404e-9de5-599fcaf3e1d1,weather.futbol,available,17.99,17.99,high,medium,7,namesilo,,,
-017348ff-83e3-4fc7-ad33-902667c8366a,weather.tires,available,5.99,78.99,high,medium,7,namesilo,,,
-322249ab-89d3-4128-ab1e-db500da2fdd2,weather.kids,premium,375,,high,medium,7,name.com,,,
-69c58c69-c208-424c-8bad-6977c5e9a208,country.vegas,premium,242,119.94,high,low,7,namesilo,,,
-773df8d1-4610-4acd-b46d-ca62f2192bf4,country.osaka,available,39.99,,high,low,7,name.com,,,
-d8fb83f0-e13e-4152-a0c3-bcce4f0d1134,weather.meme,premium,1625,,high,medium,7,name.com,,,
-e90b3a89-2c6d-4541-a3b3-b780d2037db0,weather.art,premium,291.2,83.3,high,medium,7,namesilo,,,
-78c26915-788c-47c3-b5e0-9d0b7ccce4a4,ground.green,premium,625,,high,low,6,name.com,,,
-66365ed7-661c-4cc3-b212-f472b130f529,weather.fun,premium,1562.5,,high,medium,7,name.com,,,
-cf477550-2de6-47f9-ad88-518b1f942784,weather.cool,premium,500,,high,medium,7,name.com,,,
-59e9ab63-3796-4cd5-8e59-0ea5f21dca76,weather.boo,premium,1248.75,,high,medium,7,name.com,,,
-bed56cf9-92db-4cb2-b3ce-26ecb87a53d2,weather.motorcycles,premium,2500,,high,medium,7,name.com,,,
-d521d6db-ec45-4155-ab1d-2918b36eed3c,weather.auto,available,1999.99,2199,high,medium,7,namesilo,,,
-3f31c0a6-c9a2-4a8e-a8c6-cab7284124d9,weather.car,available,1999.99,2199,high,medium,7,namesilo,,,
-4ecb514b-ee9d-4d2c-994a-f3a878efd261,weather.autos,premium,2500,,high,medium,7,name.com,,,
-7f0e38ea-4be4-41be-80c6-d3b62dd5ffa8,weather.dealer,premium,2170,2800,high,medium,7,namecheap,,,
-f1726565-10df-4ab2-babd-f8a6a58d245a,weather.cars,available,1999.99,2199,high,medium,7,namesilo,,,
-361e0982-0527-4e3b-8213-3bef31cff06c,weather.trade,resell,,,high,medium,7,Dynadot Inc,16/03/2021 05:34,16/03/2027 05:34,
-40e38358-37ed-4f64-ae6d-968d097f3363,weather.academy,premium,118.8,118.8,high,medium,7,namesilo,,,
-a5794187-ba31-4392-9ad1-57a29d08d3a4,weather.software,resell,,,high,medium,7,"Sav.com, LLC - 35",10/03/2025 15:15,10/03/2027 15:15,
-bca76aa3-420d-49d0-9d21-1ab3fed67e04,weather.theatre,available,509.99,529.99,high,medium,7,namesilo,,,
-19ba42cb-c09b-497e-b7bc-40964d91724a,weather.theater,available,19.99,,high,medium,7,name.com,,,
-6ed7a2c5-a4c1-491a-92ef-58039e3e984e,weather.courses,premium,116,116,high,medium,7,namesilo,,,
-3cb7b73d-5579-483c-8313-cb9655f2171c,weather.bar,premium,3.49,54.99,high,medium,7,namesilo,,,
-07d96ab5-a22f-4193-afc7-e0a89ae4accd,weather.diy,premium,437.5,,high,medium,7,name.com,,,
-7f2fb60e-3e11-4828-b4d8-11fe5c5599e4,weather.rehab,available,14.99,,high,medium,7,name.com,,,
-9d6d1f09-b567-449f-a05f-7cc86bf05b26,weather.design,premium,2500,,high,medium,7,name.com,,,
-0f50f301-4a7e-4674-b4ca-7a8e9599468c,weather.florist,available,14.99,,high,medium,7,name.com,,,
-f89d573f-06d5-4542-94b9-e91fe3c3f3d8,weather.flowers,premium,2660,2660,high,medium,7,namesilo,,,
-2fb82fd7-96c2-4764-a5ca-f206d336c9fa,weather.protection,available,1999.99,2049.99,high,medium,7,namesilo,,,
-49a8fefd-cee3-4f7c-b1d5-94920a362fc4,weather.security,available,1999.99,2049.99,high,medium,7,namesilo,,,
-731110fc-58e1-43f2-aa23-edcee277b1a1,weather.memorial,available,52.99,52.99,high,medium,7,namesilo,,,
-22474369-bd13-4940-b47a-496893de11a9,weather.marketing,premium,118.8,118.8,high,medium,7,namesilo,,,
-cc194bfc-6c0a-4eda-9ae0-3abf65015576,weather.furniture,available,39.99,,high,medium,7,name.com,,,
-c22e0999-be08-4578-bb94-0c342655803a,weather.ing,premium,12500,,high,medium,7,name.com,,,
-dff09a43-3f80-4f7c-b802-5c500cb40309,country.spot,premium,625,,high,low,7,name.com,,,
-14b77e87-24a3-4d32-8397-9b05b06ef4ed,landscape.berlin,available,89.98,,high,low,9,namecheap,,,
-e7ad5551-968d-4a99-8f56-96166489e194,weather.golf,resell,,,high,medium,7,"GoDaddy.com, LLC",06/02/2020 02:48,06/02/2027 02:48,
-21d27a37-e6aa-4a31-835f-52f4aa28d614,weather.download,premium,116,29.5,high,medium,7,namesilo,,,
-9f59d0d1-76ec-4902-8ce8-8f5505e0cfa6,weather.actor,available,19.99,,high,medium,7,name.com,,,
-8e8f0269-7639-457b-9af7-3d813936b6f8,weather.partners,available,,,high,high,7,,,,
-0cd726f1-90d8-4cec-8ef7-c9857c890f3b,weather.kitchen,available,14.99,,high,medium,7,name.com,,,
-e78314cc-58f2-44b8-9f98-11c9d58dbdab,weather.associates,resell,,,high,medium,7,"Global Domains International, Inc. DBA DomainCostClub.com",13/03/2022 19:25,13/03/2027 19:25,
-ef87f6b2-6072-488e-933b-07dfcdc07ffc,weather.ventures,available,19.99,,high,medium,7,name.com,,,
-a1b01eb7-63bb-4fe6-8013-9774bfa95698,weather.fund,premium,78.54,78.54,high,medium,7,namesilo,,,
-77548f8e-5172-4b17-be06-e8a84ebef543,weather.cafe,available,7.99,,high,medium,7,name.com,,,
-95ecbe7d-0060-4844-95bd-0260b6f5b179,weather.ink,available,,,high,high,7,,,,
-0babde32-8115-44fa-bd77-5ec75ffc109a,weather.careers,available,49.99,,high,medium,7,name.com,,,
-53bc6a5b-0082-49e9-ab42-2da4cc6757f3,weather.training,premium,500,,high,medium,7,name.com,,,
-63690798-40a0-431a-9e09-d3e699ada956,weather.store,premium,781.25,,high,medium,7,name.com,,,
-e70844e5-2380-47fb-835d-4438ec1927df,weather.beer,resell,,,high,medium,7,Porkbun,16/08/2025 11:23,16/08/2026 11:23,
-52fb09d9-d73f-4323-82a4-88b176d073cb,weather.wine,premium,242,242,high,medium,7,namesilo,,,
-b5e14420-2587-4d57-8f76-29e26c7fa95d,weather.vin,premium,118.8,118.8,high,medium,7,namesilo,,,
-a0e6cc43-edb2-47aa-9c42-6b41d395080e,weather.vodka,available,32.49,32.49,high,medium,7,namesilo,,,
-da762a34-a499-45fd-be86-43b5535b11e5,weather.fashion,available,42.99,,high,medium,7,name.com,,,
-1a8394c2-5e8d-4ec4-8a67-814cc1a5a5b8,weather.moda,available,19.99,,high,medium,7,name.com,,,
-09aeb649-f521-4c40-b115-aff8446e07ce,weather.shoes,available,39.99,,high,medium,7,name.com,,,
-33fadf2d-8485-4f88-b628-1d7338190cb8,weather.agency,premium,46.2,92.4,high,medium,7,namecheap,,,
-5ca8a5c0-c2f9-493b-a1df-3808057715cb,landscape.london,premium,679.56,,high,low,9,name.com,,,
-f6076e91-a7f1-4403-9e94-09b080553c62,weather.dog,premium,500,,high,medium,7,name.com,,,
-56ad7351-c791-46a5-a301-d2da8fa2b430,weather.vet,available,41.99,41.99,high,medium,7,namesilo,,,
-4771f62a-afd1-47ef-8141-a67e21c0460c,weather.accountant,premium,437.5,,high,medium,7,name.com,,,
-917f677f-ad53-4149-9c84-bbd4aed5e517,weather.accountants,available,43.99,,high,medium,7,name.com,,,
-9baf691f-8a87-42db-89bc-f819d21062fd,weather.diet,premium,2660,2660,high,medium,7,namesilo,,,
-5bb41aef-76e0-43f8-9b73-3369536661ae,weather.deals,premium,38.94,38.94,high,medium,7,namesilo,,,
-25e307a7-910c-4056-afbb-548a9a882490,weather.free,premium,625,,high,medium,7,name.com,,,
-fa38d503-ed80-46c4-b79b-2829fab257a9,weather.gratis,available,23.99,23.99,high,medium,7,namesilo,,,
-19fbeaec-6676-4020-9c40-43750509e41d,weather.coupons,available,3.99,,high,medium,7,name.com,,,
-f95d5c9d-83c7-48aa-b298-bce1b8061886,weather.bargains,premium,118.8,118.8,high,medium,7,namesilo,,,
-d313f40f-d444-4e43-8e25-e1236479777e,weather.promo,available,19.99,,high,medium,7,name.com,,,
-3cac4f9b-fac8-4225-b593-889fba654295,weather.qpon,premium,640,23.54,high,medium,7,namesilo,,,
-fbf3fe15-d53a-4eca-9d2e-4492524753a9,weather.deal,premium,625,,high,medium,7,name.com,,,
-0d2676fb-263a-4dc5-9463-9ae38b5b6a1b,weather.blackfriday,available,114.99,114.99,high,medium,7,namesilo,,,
-beaa17ca-345f-432f-aafe-fa68a942acdd,weather.discount,premium,118.8,118.8,high,medium,7,namesilo,,,
-29c8ca5c-2f7b-4abe-a116-3926fe4464d4,landscape.sydney,premium,453.3,,high,low,9,name.com,,,
-6735a366-8dad-45e0-b63d-b746f141540e,landscape.melbourne,premium,453.3,,high,low,9,name.com,,,
-8e946112-a8a3-42b5-84b6-dfc6c28be30a,weather.email,premium,118.8,118.8,high,medium,7,namesilo,,,
-b7861268-260f-4a8b-8ef0-4055f05f9ee4,weather.lease,available,14.99,,high,medium,7,name.com,,,
-113654e9-4579-4377-8345-015507dee307,weather.jewelry,available,19.99,,high,medium,7,name.com,,,
-c2fd4183-17f3-416c-bcd6-cd82612a0eea,weather.gold,available,9.99,,high,medium,7,name.com,,,
-bcc7c02c-e733-42c5-8bbe-ab72ccaed02c,weather.works,premium,500,,high,medium,7,name.com,,,
-82d01b7c-5493-47f7-9a5b-d7bf955304d1,weather.repair,resell,,,high,medium,7,"NameCheap, Inc.",17/07/2017 01:35,17/07/2026 01:35,
-c185d714-7471-49f3-b195-1807cca646cf,weather.plumbing,available,14.99,,high,medium,7,name.com,,,
-d3d1bd89-89c4-4fc4-87a4-57d5d38ce8bb,weather.mom,premium,2500,,high,medium,7,name.com,,,
-152b1caf-09b1-4bdb-a7f2-edea25da03e4,weather.diamonds,available,54.99,54.99,high,medium,7,namesilo,,,
-c83514b6-2dfb-435a-b975-c2fd6cb902d8,weather.run,resell,,,high,medium,7,"Sav.com, LLC - 6",18/10/2025 15:15,18/10/2026 15:15,
-50621407-1617-4643-9d8a-3429fdb3e506,weather.tienda,available,9.99,,high,medium,7,name.com,,,
-315a23c4-dcae-481a-b1a6-45c1e7d523be,weather.recipes,available,11.99,,high,medium,7,name.com,,,
-91363505-eafc-4278-aaef-5d5be57feb35,weather.kaufen,available,5.99,26.99,high,medium,7,namesilo,,,
-523f58db-9898-4105-a8d0-367b8ec15506,weather.creditcard,available,9.99,,high,medium,7,name.com,,,
-0bab3e0b-5070-4f7e-afa5-524c6fc1d003,weather.zip,premium,1248.75,,high,medium,7,name.com,,,
-d59bee71-5680-4df4-a99d-3d506ff0a587,weather.fast,premium,625,,high,medium,7,name.com,,,
-7970e506-3ce3-4df4-ad65-94c85ff65258,weather.luxe,resell,,,high,medium,7,"GoDaddy.com, LLC",05/05/2021 13:55,05/05/2027 13:55,
-11ee42b5-fac0-4e90-bcf3-23daa8aeca2d,weather.cooking,available,32.49,32.49,high,medium,7,namesilo,,,
-dd018ae9-c70d-45ff-92c1-f158152fce07,weather.win,premium,437.5,,high,medium,7,name.com,,,
-2c74679f-9d1e-4006-b518-c40d9aeb8749,weather.biz,premium,6250,,high,medium,7,name.com,,,
-f90eef70-558e-4d2a-ac4e-72a7cd911637,weather.food,premium,490,700,high,medium,7,namecheap,,,
-e8eabaa2-02e4-4c3a-8ccc-e78032d03c5b,weather.luxury,available,49.99,,high,medium,7,name.com,,,
-a8bbce4c-80e4-4caa-9e26-f3630253cca6,weather.camera,available,21.99,,high,medium,7,name.com,,,
-b4b058ee-4ab5-462a-922b-7a0909f82582,weather.dating,available,23.99,,high,medium,7,name.com,,,
-d8dbf16d-01bf-43ec-81a2-75111748d29e,weather.dad,premium,1248.75,,high,medium,7,name.com,,,
-c53a9d0d-0f6e-4bf6-ae9f-ed6383acd749,weather.beauty,premium,2500,,high,medium,7,name.com,,,
-df181fc5-5c03-4011-89bd-877c7655b2de,weather.giving,available,5.99,,high,medium,7,name.com,,,
-89f26eba-68b5-4ce2-8f10-f692435a835f,weather.credit,available,11.99,,high,medium,7,name.com,,,
-ad24a2f5-5f17-47dc-af0f-bdaa5aa5c811,weather.vana,available,2498,,high,medium,7,namecheap,,,
-740cd8ce-4303-4a67-a800-032a542e9aa0,weather.lighting,available,14.99,,high,medium,7,name.com,,,
-fac0cabd-a119-490b-8ea1-0e7da68b1c68,weather.market,available,55.98,,high,medium,7,namecheap,,,
-81120495-10dc-4bf8-9e1a-d6aff0184569,weather.mortgage,available,14.99,,high,medium,7,name.com,,,
-077ec454-ff17-461c-a47a-93496e3f328f,weather.toys,available,19.99,,high,medium,7,name.com,,,
-c4d7d685-d579-47f1-9001-fca5a226a671,weather.studio,premium,280,560,high,medium,7,namecheap,,,
-c6efb0ec-761c-4f90-9691-e71c3ea7a79f,weather.date,premium,375,,high,medium,7,name.com,,,
-d637ee60-9db8-4b80-916a-af7f17db98bb,weather.rich,available,94.99,1999,high,medium,7,namesilo,,,
-4a11b276-cc16-43d0-9ab9-e5edd40e3f25,weather.shopping,resell,,,high,medium,7,"Sav.com, LLC",07/12/2025 13:53,07/12/2026 13:53,
-03a60fbf-906c-4770-b6f9-320b626f0ffa,weather.gift,available,14.99,14.99,high,medium,7,namesilo,,,
-1c4caded-ea55-4a09-99b6-3c647ae0a47f,country.berlin,available,89.98,,high,low,7,namecheap,,,
-c59bd98b-a64f-4887-a9c4-dfe74a51bee1,landscape.nyc,premium,3125,,high,low,9,name.com,,,
-7970c597-04f9-4118-9334-a35feb68017e,ground.organic,available,19.99,,high,low,6,name.com,,,
-15f7fba7-303e-4005-8959-38346413179a,country.london,premium,1357.6,,high,low,7,name.com,,,
-f5217f53-0449-422a-aff7-61f954f2a135,ground.bayern,available,34.99,34.99,high,low,6,namesilo,,,
-759bcfc2-eb83-48c5-8db5-23234a1904ee,landscape.garden,premium,2500,,high,low,9,name.com,,,
-0e30c175-a9cf-4f3d-b43f-522c8c5cda20,country.sydney,available,54.98,,high,low,7,namecheap,,,
-bc48307d-d01a-4bff-a4ba-720e215a692f,country.boston,premium,47.2,21.24,high,low,7,namesilo,,,
-fcd10aa3-be5f-4af8-9ce8-ae90a991462d,country.melbourne,available,53.98,,high,low,7,namecheap,,,
-634bd707-b150-4bcb-936f-2394027c41d1,landscape.sh,available,39.99,47.99,high,low,9,namesilo,,,
-5c5fb765-de84-420e-9f6d-dfe9e3d07ba0,region.miami,available,23.49,23.49,high,low,6,namesilo,,,
-88aee0ae-f6c9-493e-b9d3-b5e9e8cbc502,country.nyc,premium,3125,,high,low,7,name.com,,,
-387caa21-54a4-4c6f-a082-2fa9b4ee8c5b,landscape.cx,available,18.99,18.99,high,low,9,namesilo,,,
-3ef61951-f14c-4c07-b456-0106401c0e28,ground.city,resell,,,high,low,6,"DNSPod, Inc.",10/11/2024 17:00,10/11/2026 17:00,
-6f558be4-e19a-4ac4-875f-48317815f61d,mapping.us,resell,,,medium,high,7,"GoDaddy.com, LLC",24/04/2020 00:04,24/04/2026 00:04,
-77fa93d6-1a93-4208-a5e9-90bc300b86fc,science.at,available,,,high,low,7,,,,
-540a31e9-e653-4540-9592-8019473d22b8,country.sh,available,39.99,47.99,high,low,7,namesilo,,,
-c190b713-7814-48dd-846a-365dce8231c5,territory.space,premium,350,1400,high,low,9,namecheap,,,
-53ea5c99-fd9b-4365-b153-b3ad462535a5,country.cx,available,26.98,,high,low,7,namecheap,,,
-67250c8a-0b64-4dc6-94f9-f8fee719e082,region.vegas,available,12.99,43.99,high,low,6,namesilo,,,
-88400825-65df-466c-a68a-32b22d21dd4a,region.osaka,available,,,high,low,6,,,,
-550b2a1c-5b13-49a6-ad0f-3afbd3a107e8,ground.town,available,9.99,,high,low,6,name.com,,,
-e05db9a7-b6c6-4cc2-8301-93ca1e14e26f,landscape.cv,premium,1339.98,8.85,high,low,9,namesilo,,,
-c7725c98-d484-4d26-a0fa-c00f267d6d21,landscape.properties,premium,118.8,118.8,high,low,9,namesilo,,,
-98d7874b-24e6-4a04-8e10-9480bc432032,landscape.im,available,,,high,low,9,,,,
-3370e897-e20e-4325-9bfa-5ad1f56f1e78,region.spot,premium,116,116,high,low,6,namesilo,,,
-200f1ccf-b45d-44d3-96ed-981255a984f5,territory.country,available,2450,,high,low,9,namecheap,,,
-b92bbdd8-b74d-4ebf-9407-0ad2db180a54,country.archi,available,24.99,,high,low,7,name.com,,,
-79c39f14-86c2-4bb9-b0dc-ce81c331a6f0,country.cv,available,,,high,low,7,,,,
-80bbc65a-57fd-4c41-b7cd-135ef618848e,climate.space,premium,875,3500,high,low,7,namecheap,,,
-7a48aa2f-0de9-47b1-addf-8ae14f66f255,country.properties,resell,,,high,low,7,"Sav.com, LLC",18/08/2024 17:13,18/08/2026 17:13,
-72ca9835-b2ad-47ea-b735-a3f376e4b380,landscape.immobilien,available,14.99,,high,low,9,name.com,,,
-d18295f6-099b-4df0-a2c4-1140cd4fb9a5,country.im,available,,,high,low,7,,,,
-ee1a21b8-96d0-4d2e-a9b2-f4a9f2e97969,landscape.ac,available,34.99,47.99,high,low,9,namesilo,,,
-2ecf9256-a560-485f-baa9-10669a51f584,ground.miami,available,23.49,23.49,high,low,6,namesilo,,,
-cc9cf211-84b6-45cf-aed1-2c8c055e208d,landscape.estate,available,14.99,,high,low,9,name.com,,,
-eee5ff5b-87a0-456d-8f53-0363a078a784,landscape.voyage,available,9.99,,high,low,9,name.com,,,
-8243ba47-9abf-4b01-be01-2fe7151abbe6,landscape.reise,available,27.89,97.99,high,low,9,namesilo,,,
-e5741856-fccd-4a20-8d48-cba89fd800ea,region.berlin,premium,1408.4,1408.4,high,low,6,namecheap,,,
-22d4420c-106b-4651-ae0d-44c1a444d6c5,area.country,available,,,high,low,4,,,,
-d069b14d-e382-42dc-a087-e979f3330293,landscape.holiday,available,9.99,,high,low,9,name.com,,,
-d2344a81-eeb5-4916-ae7a-7570ca13c80c,landscape.viajes,available,37.99,37.99,high,low,9,namesilo,,,
-de448f6a-877d-4509-8530-4ab3e7d63985,landscape.flights,available,58.99,58.99,high,low,9,namesilo,,,
-bd7bafaa-8a2d-48f5-9f31-10f756832f52,landscape.vacations,available,9.99,,high,low,9,name.com,,,
-61a680f1-8f8b-4329-a7b5-ab30aa1f6d69,landscape.reisen,available,3.99,20.99,high,low,9,namesilo,,,
-2fbf13a5-ceb9-4548-83a4-53de84d12d41,ground.so,available,,,high,high,6,,,,
-67a18fd9-ff4c-4cb9-875a-9ab6e4db9930,landscape.ag,available,89,,high,low,9,name.com,,,
-ef1a5550-4a7f-4482-8ab2-5c2ba0683e76,ground.vegas,available,12.99,43.99,high,low,6,namesilo,,,
-223f2b7b-f5b0-401d-a4ef-f43f5b5795a9,ground.osaka,available,39.99,,high,low,6,name.com,,,
-651615a0-a65c-4c18-a2c6-2e477c086a32,landscape.science,premium,1107,116,high,low,9,namesilo,,,
-050aa3b4-714d-4a32-8f2f-679f7a473e08,region.london,available,31.99,31.99,high,low,6,namesilo,,,
-d08667b3-6e10-44a5-99cd-fdadeb3bd38c,country.immobilien,available,14.99,,high,low,7,name.com,,,
-162baba9-29e4-4c67-9e8b-77fe6edcab1b,country.ac,available,34.99,47.99,high,low,7,namesilo,,,
-dec9a26c-70ff-4aee-a8b7-9b728b376bf7,climate.country,available,,,high,low,7,,,,
-b01a30e8-0e87-4350-823a-4085b536acf2,country.estate,premium,500,,high,low,7,name.com,,,
-dcaa9536-5186-433f-80ee-070e40e75bf8,ground.spot,premium,116,116,high,low,6,namesilo,,,
-cc800a75-4772-482b-a69f-d3b035779184,region.sydney,available,54.98,,high,low,6,namecheap,,,
-378b6993-b481-4905-9d64-d0c93ab33187,country.travel,resell,,,high,low,7,Dynadot Inc,16/03/2021 00:02,16/03/2027 00:02,
-5a34bf57-412e-4461-8fc4-cd053812065a,country.reise,premium,242,242,high,low,7,namesilo,,,
-c3e6e76a-7b02-4a9f-b11a-636a08ecdd55,region.barcelona,available,38.98,,high,low,6,namecheap,,,
-dbfec1d4-62d0-4b69-9d03-8c89f4369bc2,region.melbourne,available,53.98,,high,low,6,namecheap,,,
-04fa2fb8-d2bb-4499-9b07-d0df9363e3c4,region.boston,available,23.49,23.49,high,low,6,namesilo,,,
-05089358-22d2-4a19-8332-b380519c47d2,country.reisen,premium,242,242,high,low,7,namesilo,,,
-e059cf41-8ff4-43ec-a983-dbd60be51d6a,country.tours,premium,118.8,118.8,high,low,7,namesilo,,,
-97dc4a08-c0a0-49c3-86dd-67e04138d24e,country.flights,premium,500,,high,low,7,name.com,,,
-ecb11480-2cce-4f4b-a60b-fc9695229bba,country.holiday,premium,118.8,118.8,high,low,7,namesilo,,,
-1b96ddcc-91d5-4a75-8ec4-037610711fe5,country.vacations,premium,242,242,high,low,7,namesilo,,,
-fbc47f83-2c7b-4c0a-b0f4-18f9d0e4cf2c,country.viajes,available,37.99,37.99,high,low,7,namesilo,,,
-9f7913a8-59f6-43d8-87b5-5b5eaf476a7d,landscape.property,available,,,high,low,9,,,,
-abae9cce-d33d-4323-9ffe-56e826c9c9d8,region.it,resell,,,high,low,6,,23/06/2000 00:00,04/09/2026 00:00,
-0ae5d645-2592-4f0d-a2c7-53f199a0e3b2,ground.berlin,available,89.98,,high,low,6,namecheap,,,
-7b37d5ba-2894-4900-843c-023eda79948c,country.science,available,,,high,low,7,,,,
-bf8fbbce-aaf8-4e04-a47b-83b396bbec44,ground.london,premium,135.38,,high,low,6,name.com,,,
-dd0c96cf-a81d-4ac5-8ba5-c97ae50c9f38,ground.sydney,available,54.98,,high,low,6,namecheap,,,
-73fbd783-0c8c-4f77-a52d-b359422010eb,ground.melbourne,available,53.98,,high,low,6,namecheap,,,
-c184e4ca-9529-41c5-b017-daa1404c54b1,region.garden,available,1.99,,high,low,6,name.com,,,
-acaedf55-3066-4ef7-beb6-3c8eebd860a0,country.property,available,,,high,low,7,,,,
-274abe0a-d237-49ba-83ef-6638fc4b9990,ground.nyc,premium,116,29.5,high,low,6,namesilo,,,
-c570c428-804e-4621-b39b-28a91659c676,landscape.rent,available,17.99,59.99,high,low,9,namesilo,,,
-956f4a8a-feb8-44ee-9f39-b40d0157d85b,landscape.maison,available,19.99,,high,low,9,name.com,,,
-9b97ea84-0de3-4a4d-a365-54a2c0735f5b,landscape.homes,resell,,,high,low,9,Dynadot LLC,15/07/2025 08:17,15/07/2026 23:59,
-977ab7ce-d1d9-4d4c-9b8d-60bc56f28013,landscape.immo,available,14.99,,high,low,9,name.com,,,
-7dce6668-209c-49e8-ba86-c2c404d2ed82,landscape.apartments,available,19.99,,high,low,9,name.com,,,
-5f4efee1-8b61-4706-bbaa-8cf5224277ef,landscape.casa,resell,,,high,low,9,"Spaceship, Inc.",20/06/2025 18:47,20/06/2026 18:47,
-2083012f-f246-4c96-9165-5cd0083cff15,landscape.condos,available,58.99,58.99,high,low,9,namesilo,,,
-d26aca5e-3a64-464b-a78b-59a7d3b8317d,landscape.villas,premium,118.8,118.8,high,low,9,namesilo,,,
-6011698b-de61-4eff-8f8f-e51ae1de7524,landscape.realty,premium,2187.5,,high,low,9,name.com,,,
-076b1fa4-7b28-4c86-98d7-4cb1e4456c63,landscape.rentals,available,14.99,,high,low,9,name.com,,,
-2f0bd875-7750-4e6e-b566-8cec2d6fd29e,ground.garden,premium,96,29.5,high,low,6,namesilo,,,
-b5d47928-e83a-4044-b8e4-7323f16685b1,atlas.at,available,,,high,high,5,,,,
-122dd0cd-1b14-4e49-ad49-7fdaa37213d4,landscape.la,resell,,,high,low,9,LA Domain Names,10/05/2023 23:46,10/05/2027 23:59,
-58a3f772-5c94-44a6-a080-1b13ea65b395,landscape.bz,available,25,,high,low,9,name.com,,,
-ac023bcf-6d7e-46fa-9647-8c0b289ce597,landscape.pw,premium,1872.92,,high,low,9,name.com,,,
-0ca2dc2b-340d-46f3-8a6e-d7597398cd19,landscape.me,resell,,,high,low,9,Dynadot Inc,09/07/2008 17:05,09/07/2027 17:05,18/09/2026 00:12
-fab49d1e-8f49-457d-a62b-f729c6898f52,region.cx,available,18.99,18.99,high,low,6,namesilo,,,
-5b28256d-9101-4d10-9a25-b6bfda7e1a18,country.apartments,premium,118.8,118.8,high,low,7,namesilo,,,
-df39b467-ec09-4f75-81f7-560f23935a3d,country.realty,premium,875,,high,low,7,name.com,,,
-c36e7c7f-6514-416d-b069-1cece0aaa472,country.casa,premium,242,11.8,high,low,7,namesilo,,,
-5fede4ed-974f-4961-aa96-18ed92172e32,country.rent,premium,242,242,high,low,7,namesilo,,,
-0122e225-8c89-4cb6-af88-1c7d4dfb5b20,country.immo,premium,118.8,118.8,high,low,7,namesilo,,,
-3107446f-ce6c-4fc5-b7a0-9c2db7ad4894,country.villas,premium,242,242,high,low,7,namesilo,,,
-97ccdb7f-c57c-4b78-a28a-c15f95fe67d7,country.condos,premium,242,242,high,low,7,namesilo,,,
-106fdc10-6f32-4d60-8fdd-21c895bcaf4f,country.rentals,premium,854,854,high,low,7,namesilo,,,
-29aadb48-395f-4b21-9f07-49cdd757bb79,country.maison,available,19.99,,high,low,7,name.com,,,
-b6381287-ab59-4429-97dd-562604730cdf,landscape.irish,available,9.99,,high,low,9,name.com,,,
-c4d6d699-1790-422a-ae82-784c776a49de,country.ca,resell,,,high,low,7,BareMetal.com inc,15/11/2000 23:33,12/02/2027 05:00,
-092cde9b-f236-4ab2-a001-cb1fe7c0f5c3,country.pw,premium,374.58,,high,low,7,name.com,,,
-436963b9-536f-4725-bb34-7b9b9fc2e7a7,country.bz,available,25,,high,low,7,name.com,,,
-bdc37500-09cd-4dd1-8835-c17eb017c635,landscape.co,resell,,,high,low,9,"GoDaddy.com, LLC",26/12/2016 16:36,25/12/2026 23:59,
-439b50f6-8911-43a6-84eb-aae6b7c9d4cb,territory.at,resell,,,high,low,9,EWBCD GmbH ( https://nic.at/registrar/750 ),,,
-aec3734e-5f88-4426-80df-bc743987d9e0,landscape.online,premium,781.25,,high,low,9,name.com,,,
-fec2ba3e-4f09-4b4b-8fb2-78e3ccfc23b2,landscape.cruises,available,14.99,,high,low,9,name.com,,,
-80ed8d1d-402a-405e-af18-67f303a62735,country.me,resell,,,high,low,7,1API GmbH,29/04/2008 17:59,29/04/2027 17:59,
-55cdec59-bec7-46f6-9baf-ab6764df2b8e,ground.archi,available,24.99,,high,low,6,name.com,,,
-1a7e024a-a034-49fe-99cd-2a12d0b94c2f,ground.properties,available,10.99,,high,low,6,name.com,,,
-8d52d361-25e6-4c34-a352-da4826803455,landscape.build,premium,1875,,high,low,9,name.com,,,
-07e7e4ea-a4fb-43ad-bdb9-0349bb315b42,ground.im,available,,,high,high,6,,,,
-a905d259-2e10-4639-9d37-b8d1c35493ca,landscape.lat,available,1.99,,high,low,9,name.com,,,
-67f44662-0a35-4a2f-96bd-b69f10b90023,geology.so,available,,,high,high,7,,,,
-9e665340-e7db-4b07-a8cf-2441c71be717,area.at,available,,,high,low,4,,,,
-8ec3b86c-9331-46ce-80f7-ad03bd40432a,country.irish,available,9.99,,high,low,7,name.com,,,
-bb9fe5f3-bc19-4ddb-a662-9d44ce4b7bc1,country.co,premium,640,640,high,low,7,namesilo,,,
-6eeec49e-5efa-4b08-94d5-3ee7661d96fa,landscape.cloud,resell,,,high,low,9,Porkbun LLC,18/07/2020 00:03,18/07/2027 00:03,
-be5c6d49-9fa3-48c8-b944-d90750dfabfa,ground.immobilien,available,14.99,,high,low,6,name.com,,,
-68331e3e-a0d6-4c9d-b7db-befbc744771c,country.online,premium,1562.5,,high,low,7,name.com,,,
-1eda517a-ab69-4653-86c1-e4961f6cf904,ground.ac,available,34.99,47.99,high,low,6,namesilo,,,
-80c0c40a-e4e3-4247-9ad4-926158d527d0,country.cruises,premium,500,,high,low,7,name.com,,,
-de593926-fe0d-41d0-ad45-b36fa92acd58,ground.estate,resell,,,high,low,6,"Sav.com, LLC - 35",07/03/2026 15:15,07/03/2027 15:15,
-cad58161-27ca-43fd-89fb-ae1eee7a99be,ground.voyage,available,9.99,,high,low,6,name.com,,,
-4dbba7d3-83f1-4e06-a35e-54e176bfe348,ground.reise,available,27.89,97.99,high,low,6,namesilo,,,
-1469522b-7fe7-4b3c-98ea-154712757a81,ground.holiday,available,9.99,,high,low,6,name.com,,,
-cc16f570-cf41-4da8-b048-4707e8addc77,ground.vacations,available,9.99,,high,low,6,name.com,,,
-d76b46ca-6319-4342-92dd-e3ea660f4914,ground.viajes,available,37.99,37.99,high,low,6,namesilo,,,
-9aff426b-bbe3-4d63-a42b-8eaaf99a14e9,ground.flights,available,58.99,58.99,high,low,6,namesilo,,,
-cdd51245-805a-44ff-835f-a4cd2b1ea07e,ground.tours,available,9.99,,high,low,6,name.com,,,
-e8133dc4-65b3-4ce8-b22e-4fa13329f43c,ground.reisen,available,3.99,20.99,high,low,6,namesilo,,,
-61b529ba-8f08-4523-8687-5958793c3077,country.contractors,premium,78.54,78.54,high,low,7,namesilo,,,
-5491ffea-600c-4dfa-8737-f3d380f1a3ee,country.construction,premium,118.8,118.8,high,low,7,namesilo,,,
-c45221e7-7dea-4e08-a24b-4eded8f3fcfc,country.build,premium,625,,high,low,7,name.com,,,
-45451b27-b540-4d46-a83e-35715c590939,country.management,available,14.99,,high,low,7,name.com,,,
-8d80b07b-892d-4d9a-ba37-98ee332fbe32,ground.science,premium,1107,116,high,low,6,namesilo,,,
-1733da29-0ab1-4a9a-b51e-53d6b1069457,country.lat,available,,,high,low,7,,,,
-8f8870fb-d4ba-4c74-b1bc-140cde2c89aa,region.mx,available,39.99,43.99,high,low,6,namesilo,,,
-8fc49462-08fe-4223-a2cb-95898d7ad804,ground.my,available,,,high,high,6,,,,
-89b99726-b93f-496d-b5cd-7917b5519760,country.cloud,premium,700,1400,high,low,7,namecheap,,,
-c05f15cb-47ba-44e4-8dcf-8fb31964faf5,ground.id,resell,,,high,low,6,PT Jagat Informasi Solusi (int),04/09/2021 00:41,04/09/2026 23:59,
-0530f892-cf59-4062-bbde-0b4d72bd337d,region.uk,resell,,,high,low,6,Existent Ltd,04/08/2015 08:29,04/08/2027 08:29,
-db2f42fc-9118-4cc3-aa75-73959fbcf234,ground.property,available,,,high,high,6,,,,
-89b0272f-5c74-474e-aea3-ef3386772fa6,landscape.community,available,14.99,,high,low,9,name.com,,,
-8e6f7c24-aa94-4df6-b37d-d10d9cf4a7e6,country.net,resell,,,high,low,7,Internet Domain Service BS Corp,23/01/1996 05:00,24/01/2027 05:00,
-545cc86e-f46c-493e-b978-0942b73711b6,region.archi,available,24.99,,high,low,6,name.com,,,
-c828f67a-8c3b-457f-b8fc-40a84a878768,region.cv,premium,1410.5,10.5,high,low,6,namecheap,,,
-2cddfee7-e9b4-4c12-a59e-c235fc748284,region.properties,available,10.99,,high,low,6,name.com,,,
-12c7b7b2-9e5f-46a5-8857-e1ddb89de983,science.organic,available,,,high,low,7,,,,
-4d2c9c94-5ecf-4c87-a63a-a0e2c23c611c,region.im,available,12.98,,high,low,6,namecheap,,,
-0da85b94-d47f-49f9-88e8-a53097aa9e20,landscape.boats,available,1.99,,high,low,9,name.com,,,
-f12e9a12-86a5-4647-85bf-73a8cca89aab,ground.condos,available,58.99,58.99,high,low,6,namesilo,,,
-a7a2640f-c373-4008-b73c-91f8ef3b8e63,ground.apartments,available,19.99,,high,low,6,name.com,,,
-7d513156-d3b3-4a3d-945b-2c6deab98a37,ground.house,available,27.99,,high,low,6,name.com,,,
-5d9dd4ac-2d49-4b0e-b8eb-910592f7b3b4,ground.maison,available,19.99,,high,low,6,name.com,,,
-fda61a0c-ea84-4f9c-a3cc-a1b8cbbcda6c,ground.realty,available,109.99,299,high,low,6,namesilo,,,
-aef4fc89-32e0-455d-a3dd-4d25d1188d18,ground.rentals,available,14.99,,high,low,6,name.com,,,
-b1854494-e0a3-43b2-90c2-008006b072ea,ground.villas,available,19.99,,high,low,6,name.com,,,
-aa20c531-d2ef-4904-afd7-3ff5422bf22a,landscape.yachts,available,1.99,,high,low,9,name.com,,,
-80952f31-1aa2-4d43-9306-25f552f5891c,territory.eco,available,64.99,,high,low,9,name.com,,,
-cc6a8099-51db-4413-b3b8-ca155659a59b,ground.la,available,27.99,27.99,high,low,6,namesilo,,,
-3241e6d0-2085-4dba-b9a1-2d0177cd596c,ground.bz,available,25,,high,low,6,name.com,,,
-5de42f41-b6b0-4e14-87aa-e2a045d4bf7d,ground.pw,premium,8290.32,,high,low,6,"Xiamen ChinaSource Internet Service Co., Ltd",30/03/2025 23:29,30/03/2027 23:59,
-1735c317-46ec-4d67-a57b-c9bb70e11f49,ground.ca,premium,9476,,high,low,6,Namespro Solutions Inc.,01/12/2010 21:36,01/12/2026 21:36,
-fde2d062-2486-40ae-ab2d-d855f1760643,landscape.app,premium,498.75,,high,low,9,name.com,,,
-86f7c5c3-f331-4ad6-b5db-a2baba3636a5,landscape.ai,resell,,,high,low,9,"GoDaddy.com, LLC",16/12/2017 00:11,29/01/2028 00:11,
-3ace2749-c227-4e50-a9a6-8fa4c7fe9130,landscape.game,available,309.99,329.99,high,low,9,namesilo,,,
-9356eab9-b5fc-4d6b-85d0-6ff8faa975a5,landscape.games,available,19.99,,high,low,9,name.com,,,
-7cbd1cde-8fd0-4967-9b11-b91c6d51ab82,landscape.juegos,available,478.98,,high,low,9,namecheap,,,
-0a1118b7-0324-42be-88ac-ba5bfcbe2061,ground.irish,available,9.99,,high,low,6,name.com,,,
-4a95eca8-f66d-483c-96c1-6e66f3633b63,ground.co,resell,,,high,low,6,Dynadot Inc,23/09/2011 22:29,22/09/2029 23:59,17/09/2026 16:54
-29195651-8609-457b-a796-c3e27e91b038,ground.online,premium,312.5,,high,low,6,name.com,,,
-5504d0d7-dda3-40d5-9aca-c8561f9429d6,ground.cruises,available,14.99,,high,low,6,name.com,,,
-f010696c-b98d-4e51-9b54-fb2a5afe52ee,country.boats,available,1.99,15.75,high,low,7,namesilo,,,
-725f8e1d-860c-4257-82f9-84b5947d6155,landscape.cfd,premium,37.76,76.16,high,low,9,namesilo,,,
-4de2a078-b968-4975-b970-58953d1dd98f,country.gg,resell,,,high,low,7,Enrapture Limited (https://enrapture.gg),,,
-3ee6eb60-3fef-4022-a1cf-6f047b23fdbd,country.yachts,available,1.99,15.75,high,low,7,namesilo,,,
-bf5601dd-c712-4fb6-b433-487af2160972,region.immobilien,available,14.99,,high,low,6,name.com,,,
-51690a47-4c6f-46a5-9252-78914de077c2,ground.contractors,available,9.99,,high,low,6,name.com,,,
-6e794199-806b-45bd-8049-da92bd211b19,ground.builders,available,7.99,,high,low,6,name.com,,,
-ac625098-ec17-429a-961a-ae51e8abe32a,ground.build,premium,1875,,high,low,6,name.com,,,
-97b59741-b4f3-4702-94ca-0386f60af41a,ground.construction,available,15.99,,high,low,6,name.com,,,
-e12a350c-32ac-4d0f-892e-a770347b21a9,ground.management,available,14.99,,high,low,6,name.com,,,
-8af768da-6c6b-482d-bfed-b4e53bc18599,ground.lat,available,1.99,32.49,high,low,6,namesilo,,,
-325ebd39-0d02-4110-93a1-cfa12bcfa13d,landscape.ski,premium,118.8,118.8,high,low,9,namesilo,,,
-d5878c63-34b9-4940-8848-67a8bbc041dc,landscape.surf,available,2.19,32.49,high,low,9,namesilo,,,
-49ffed15-ab22-443c-993d-2d83acab7ad6,landscape.adult,available,166.98,,high,low,9,namecheap,,,
-ce97767f-4fa5-46f7-8dda-ffbcc3996a56,landscape.porn,available,154.98,,high,low,9,namecheap,,,
-cfdd54e3-2523-4b39-a206-0ccf84795903,landscape.sexy,available,2749.99,2749.99,high,low,9,namesilo,,,
-5441bf6d-f965-4a4a-b4b9-a98e8a1baff9,country.international,resell,,,high,low,7,Dynadot Inc,25/01/2026 17:00,25/01/2027 17:00,
-c129300b-001b-4cb5-9a5f-10a30caf9e2f,landscape.fishing,available,32.49,32.49,high,low,9,namesilo,,,
-8544b275-1d96-4dfa-b6f0-cacfbb9f68dc,landscape.tube,premium,125,,high,low,9,name.com,,,
-f7665d09-cb72-417f-92b2-ec45e2ea2e53,country.global,available,59.99,,high,low,7,name.com,,,
-3f053057-298d-42e1-8f4e-0e2fac93ba8e,country.app,premium,998.75,,high,low,7,name.com,,,
-a3061709-5ed1-49ae-9dba-d9bb36f9c42b,country.juegos,available,478.98,,high,low,7,namecheap,,,
-da5813d1-6678-43a6-a3f7-88e53ce7dbe6,country.game,available,309.99,329.99,high,low,7,namesilo,,,
-c1707ab3-e13c-42f4-b9da-a4fe86959015,landscape.fish,available,19.99,,high,low,9,name.com,,,
-6993e7ab-fda3-4091-92a9-ba73fbcc1a62,region.voyage,available,9.99,,high,low,6,name.com,,,
-acfda762-3562-4596-9b26-7d91fba6c01a,region.reise,premium,242,242,high,low,6,namesilo,,,
-643ffade-28bc-470b-acc0-c75858a5283e,country.camp,resell,,,high,low,7,GoDaddy Online Services Cayman Islands Ltd.,03/11/2017 02:13,03/11/2026 02:13,
-24b542b8-434c-4da0-a508-e2b236a95faa,landscape.contact,available,16.78,,high,low,9,namecheap,,,
-748d4860-2178-4a1d-a5d4-5b36028ae9c4,region.tours,available,9.99,,high,low,6,name.com,,,
-3b452139-743b-4f13-beb2-70c53391dae2,region.reisen,premium,242,242,high,low,6,namesilo,,,
-8846ef0a-a16a-4762-aba4-9184528b5218,region.vacations,available,9.99,,high,low,6,name.com,,,
-16efab96-2490-48ea-98e4-45e897885850,region.flights,available,58.99,58.99,high,low,6,namesilo,,,
-ee16d5bb-8531-494e-b8e5-c1ff14c2f385,region.holiday,available,9.99,,high,low,6,name.com,,,
-06d1cc29-fd52-4132-ae61-ccee43955201,region.viajes,available,37.99,37.99,high,low,6,namesilo,,,
-9720c70d-245c-4ccf-a07f-5cb5956e259d,country.cfd,premium,165.12,330.24,high,low,7,namesilo,,,
-b0abc5d3-bf9b-438c-9398-f0da52aa2e7f,country.surf,premium,242,29.5,high,low,7,namesilo,,,
-6ae8576f-6c43-460f-8599-fce4d347146f,country.adult,available,,,high,low,7,,,,
-93e10040-a516-4030-9905-d814a56c0250,country.sexy,available,2749.99,2749.99,high,low,7,namesilo,,,
-23310bb2-6eef-4a58-820a-2259304830d3,country.porn,available,,,high,low,7,,,,
-cb2cb3fc-d9d1-4a35-846c-5110c638b8e2,ground.boats,available,1.99,15.75,high,low,6,namesilo,,,
-6baafa1f-9eb5-4bed-90c7-cfc95e97cb48,country.fishing,available,,,high,low,7,,,,
-7f4e473a-49f5-49c2-a05a-c82d9f3d7055,ground.gg,resell,,,high,low,6,Enrapture Limited (https://enrapture.gg),,,
-2c0cc23d-9c19-4cdc-834b-0a79738a5441,landscape.link,premium,1575,2100,high,low,9,namecheap,,,
-7dc64e23-d386-418a-9172-4353c2381483,ground.yachts,available,1.99,15.75,high,low,6,namesilo,,,
-94379b50-1a9b-4e10-8c89-462d177b635b,landscape.club,premium,29.5,17.7,high,low,9,namesilo,,,
-34067ad9-17d4-4c34-91d4-1ede56ef6b1b,region.science,premium,3125,,high,low,6,name.com,,,
-36a17504-e559-4845-b2a2-e883e304cba7,landscape.news,available,,,high,low,9,,,,
-91473fab-bb0d-4917-9419-98695803f00e,landscape.observer,premium,29.5,29.5,high,low,9,namesilo,,,
-f7e13ff2-2446-495f-8ad0-99929be83c6f,landscape.blog,premium,640,2660,high,low,9,namesilo,,,
-67bbbb24-75ab-4e77-99e4-386b2720cbd9,landscape.press,premium,156.25,,high,low,9,name.com,,,
-3b7a0e33-4c50-42b3-a4db-7df693b26ebb,ground.international,available,14.99,,high,low,6,name.com,,,
-acb75696-d8da-4867-a477-a4b8d1b52ea5,ground.ai,resell,,,high,low,6,Dynadot Inc,16/12/2017 02:00,22/01/2030 02:00,
-df20eb75-7902-43d1-b378-de47f3a535ab,landscape.voting,available,1448,,high,low,9,namecheap,,,
-6865ca31-f717-4fad-bb4e-7c6312c87fdd,landscape.vote,available,49.99,,high,low,9,name.com,,,
-ff7f3b1e-46d2-4d5e-bc28-db6f62dfb3d6,landscape.voto,available,19.99,,high,low,9,name.com,,,
-ea0db9b6-fb8c-4ab8-b5fb-16339feb4622,country.fish,available,19.99,,high,low,7,name.com,,,
-dc24424e-4589-4365-a4de-963502f5f5c5,ground.games,resell,,,high,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",17/12/2025 15:15,17/12/2026 15:15,
-14ea3e7b-9c41-44a0-9266-a2fb7bcbfc4c,ground.juegos,available,478.98,,high,low,6,namecheap,,,
-11047056-6ea0-4680-b173-ac983282b8f5,country.contact,resell,,,high,low,7,Porkbun LLC,14/01/2025 13:24,14/01/2027 13:24,
-2afb4d05-1ba6-4f3c-be97-857cd81368c5,landscape.cricket,available,23.59,23.59,high,low,9,namesilo,,,
-8cb726fd-0f6a-47f2-ae2b-5ca130ac60c8,environment.so,available,,,high,low,11,,,,
-ee03e0ce-c9ab-4dfa-a7ce-646132515c1f,region.my,premium,490.95,,high,low,6,name.com,,,
-3a37abe5-e511-4806-b220-348b67886d32,ground.cfd,premium,329.6,659.2,high,low,6,namesilo,,,
-1bd580f5-aea5-4336-b818-7f1d1569b746,landscape.cam,resell,,,high,low,9,Realtime Register B.V.,15/10/2019 04:57,15/10/2026 23:59,
-72929b6a-96ab-4b33-9962-e585aa7eb0e2,landscape.webcam,available,11.99,11.99,high,low,9,namesilo,,,
-64b31442-39e6-4d9a-9c40-7966bdd4b389,ground.center,available,7.99,,high,low,6,name.com,,,
-1017f97a-70ce-4f1c-b876-284e63210fc2,landscape.photography,premium,242,242,high,low,9,namesilo,,,
-c3e63d0f-51a1-42fe-8b56-0e4398002e97,ground.info,resell,,,high,low,6,"Sea Wasp, LLC",01/12/2003 03:57,01/12/2026 03:57,
-eb81ff16-ce61-499b-85cc-6ed6e4bea129,landscape.graphics,available,23.99,23.99,high,low,9,namesilo,,,
-177e4b22-d298-4a27-b0be-8a4f4681b711,ground.surf,available,2.19,32.49,high,low,6,namesilo,,,
-dcb443f7-4638-4350-abb3-1d74227fb801,ground.ski,available,39.99,,high,low,6,name.com,,,
-dd5a3b0e-8845-408f-899f-84a01fc31569,ground.porn,available,154.98,,high,low,6,namecheap,,,
-f99bef92-a2ea-411d-8b9a-9743aded26c1,ground.adult,available,166.98,,high,low,6,namecheap,,,
-c758f537-5f5d-4011-a5e6-9bbaa895a9c2,ground.sexy,available,2749.99,2749.99,high,low,6,namesilo,,,
-974bc4e2-c051-41bc-a013-41061486724d,ground.fishing,premium,96,29.5,high,low,6,namesilo,,,
-5a3f6ab1-5187-4660-8125-ec6eb6ff8b91,ground.tube,available,23.99,23.99,high,low,6,namesilo,,,
-f8ca4c52-3fdb-4a60-9ed2-0a9b66523cef,region.id,resell,,,high,low,6,PT Aksara Data Digital,27/12/2019 02:28,27/12/2026 23:59,
-1d4d7341-3718-411f-8e9d-06c0c4b14854,landscape.page,premium,311.25,,high,low,9,name.com,,,
-536fa6c0-d490-4578-b6bf-ae187330bfe8,landscape.website,premium,625,,high,low,9,name.com,,,
-a1e348d4-f5fa-48b5-8455-9da6ddd31da2,ground.fish,available,19.99,,high,low,6,name.com,,,
-57d1d34e-2b19-4695-a533-31efd745d4de,region.property,available,,,high,low,6,,,,
-e612ab85-450d-4d49-b4c2-e7364ca0c8c7,landscape.stream,available,9.98,,high,low,9,namecheap,,,
-29f5c956-8b8d-43fe-9dbd-3a97a86bdf8a,landscape.democrat,available,9.99,,high,low,9,name.com,,,
-c1cac89e-6acb-4c11-96f6-618301f2c28e,country.link,premium,787.5,1050,high,low,7,namecheap,,,
-e987bddd-173d-4f7d-b31b-228c384771b2,ground.tel,available,10.79,10.79,high,low,6,namesilo,,,
-6c934beb-c0d6-4698-87eb-5af2106e5f52,ground.contact,available,14.99,14.99,high,low,6,namesilo,,,
-6d935df9-23de-4da2-bb1d-57ace905e9b4,landscape.video,available,14.99,,high,low,9,name.com,,,
-a86b4341-4932-4d5d-b992-d31ac9a173de,landscape.day,premium,311.25,,high,low,9,name.com,,,
-01703ee5-92f1-470b-8e08-9b736ef177b0,landscape.pictures,premium,78.54,78.54,high,low,9,namesilo,,,
-35481424-3883-4a48-8aee-2cb8696238c0,landscape.photo,premium,116,116,high,low,9,namesilo,,,
-10e3c17b-8aa8-459e-b258-8cf6fc67a156,landscape.gallery,available,,,high,low,9,,,,
-71d649c3-7914-45e0-b8fe-bc1dfc290eb5,country.press,premium,3125,,high,low,7,name.com,,,
-e75a4f57-8aea-423e-b595-55c31b31de52,country.observer,premium,854,854,high,low,7,namesilo,,,
-47c2acd0-2a11-4673-b322-a658ae66fea4,country.blog,premium,640,0.99,high,low,7,namesilo,,,
-dc765bb4-1c99-4421-9d37-7a61edc59b5e,region.in,resell,,,high,low,6,"Dynadot, LLC",22/04/2009 20:03,22/04/2028 20:03,
-cb5b72e7-3c26-44f3-a70c-2362227c9e21,landscape.hiv,available,184.99,,high,low,9,name.com,,,
-20b69f4f-b658-4ea2-964a-3a03ac428207,environment.osaka,available,,,high,low,11,,,,
-5772e929-e3cc-479a-b419-0e52fcbadffa,country.vote,premium,53.92,53.92,high,low,7,namesilo,,,
-c810c653-2830-4683-9c0a-f9cd34f71d0c,country.voting,available,,,high,low,7,,,,
-0ebc9cb0-3ff1-411b-b90e-150c81cda4f3,country.voto,premium,123.75,,high,low,7,name.com,,,
-ce1d167d-f212-41a0-a90c-a67c1a87dc13,ground.link,premium,787.5,1050,high,low,6,namecheap,,,
-af13ce4a-72db-47fc-8959-fb2f02dab6c9,ground.press,available,4.99,86.99,high,low,6,namesilo,,,
-56834c2e-a2a8-40b2-9b4b-c7e5139d13f6,ground.blog,premium,160,0.99,high,low,6,namesilo,,,
-ab6c947f-9f79-462c-9ae6-e0877f6b900d,ground.observer,premium,29.5,29.5,high,low,6,namesilo,,,
-7bb35702-32b8-4850-9253-674dba5ff56b,landscape.consulting,premium,140,280,high,low,9,namecheap,,,
-230b7d71-af14-4ef8-980b-0215b779e9d4,landscape.ong,available,16.99,,high,low,9,name.com,,,
-11c506e1-9601-4560-920b-4ee5d4e48b26,landscape.ngo,available,16.99,,high,low,9,name.com,,,
-237fe373-20fc-487b-90ce-ae75c8d854e6,ground.voto,available,19.99,,high,low,6,name.com,,,
-1c655fb3-7a1b-49ae-9283-744a13e00256,ground.voting,available,1448,,high,low,6,namecheap,,,
-de4bd9f4-10d3-485f-873f-96644f2d64ad,ground.vote,available,49.99,,high,low,6,name.com,,,
-a09a45c6-e9e7-44e9-b6f6-76094c3ac5a7,country.cricket,available,,,high,low,7,,,,
-60ed301a-6a18-4678-a99a-e7193d575b51,country.cam,available,22.98,,high,low,7,namecheap,,,
-aaafcfe1-064a-4003-a024-977611f16c74,country.webcam,available,,,high,low,7,,,,
-c0919e18-4018-460b-b2c4-65c44e8becaf,ground.cricket,premium,625,,high,low,6,name.com,,,
-b044631c-252d-4c25-889f-0f5f1061de83,country.tv,resell,,,high,low,7,"eNom, LLC",21/02/2001 08:00,21/02/2027 08:00,
-c771bf63-f040-4709-b40b-710ad2f30c55,ground.cam,premium,8.99,17.49,high,low,6,namesilo,,,
-1ebbba7a-d7cf-48ad-9d96-10881b05e7a9,ground.webcam,premium,116,29.5,high,low,6,namesilo,,,
-df100e29-3276-4dd0-864d-5726b80677e3,ground.photography,available,9.99,,high,low,6,name.com,,,
-6df53db9-d333-48bc-98a5-754cf13a8ab6,landscape.tickets,available,359.99,389.99,high,low,9,namesilo,,,
-4d3c3a2d-b2e8-4250-acde-ef21b16b813a,landscape.rsvp,premium,311.25,,high,low,9,name.com,,,
-0bab44b2-1e96-4737-a1af-89e13d993168,country.graphics,premium,118.8,118.8,high,low,7,namesilo,,,
-028ee706-d767-4e63-bb84-830d3854a688,landscape.republican,available,5.99,,high,low,9,name.com,,,
-25364146-6bc3-4244-b24f-2f1b8cc5d7c2,ground.tv,resell,,,high,low,6,"Spaceship, Inc.",02/05/2016 08:07,02/05/2027 08:07,
-330f0b5b-af92-4a0b-9d63-7f17423e4d62,ground.graphics,available,23.99,23.99,high,low,6,namesilo,,,
-3ae0bb97-e8a3-4544-a154-a47fc47d855c,ground.page,premium,161.25,,high,low,6,name.com,,,
-9d55e0e1-88c6-4c53-97fd-341e7225c5be,ground.website,available,4.99,,high,low,6,name.com,,,
-7a46186f-cb66-4e66-b5dd-8220d6f09b75,ground.stream,premium,116,29.5,high,low,6,namesilo,,,
-d177a510-6712-45bc-a11e-e5cc8cf2e836,country.page,premium,623.75,,high,low,7,name.com,,,
-0f82dcac-285d-41dc-b330-26a88aa2482d,country.website,premium,312.5,,high,low,7,name.com,,,
-bb0f6a69-958e-485c-9614-fbf1bbe53572,ground.democrat,available,9.99,,high,low,6,name.com,,,
-b9b5a762-dfc2-41d1-8773-06e6b0156afb,ground.expert,available,11.99,,high,low,6,name.com,,,
-6b8df2a2-189e-4d33-b961-4c4d6588e681,ground.video,available,14.99,,high,low,6,name.com,,,
-39a543b4-ab04-4265-99f8-843100ad02de,ground.day,premium,161.25,,high,low,6,name.com,,,
-41108d34-5fec-4b68-ae9b-83d15c583416,country.stream,available,,,high,low,7,,,,
-d35a3e4f-3bea-4761-b084-bdc0f653d252,ground.pics,available,1.99,32.49,high,low,6,namesilo,,,
-1859670d-eac4-4446-9cdb-e8e0e3eb476a,ground.photo,available,29.99,29.99,high,low,6,namesilo,,,
-856ea467-0bfd-45f2-89f0-d5fd280bf8b9,ground.photos,available,14.99,,high,low,6,name.com,,,
-2e11ddbf-9ed7-4934-ade4-827cf450f508,ground.gallery,available,28.99,28.99,high,low,6,namesilo,,,
-8c043e4b-9618-45dd-b5e3-4037b9ae2d95,ground.pictures,available,9.99,,high,low,6,name.com,,,
-56d2cca9-54ff-4627-946b-f590af3eab43,country.democrat,available,9.99,,high,low,7,name.com,,,
-f56c8622-adc4-4a98-a665-3702d44d78f7,landscape.wiki,resell,,,high,low,9,"GoDaddy.com, LLC",17/07/2025 03:00,17/07/2026 03:00,
-810c1fee-fd39-4eff-a926-dc1d71167650,ground.hiv,available,184.99,,high,low,6,name.com,,,
