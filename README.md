@@ -1,10 +1,10 @@
-# One-Word Geography Domain Names Across 506 TLDs (106,699)
+# One-Word Geography Domain Names Across 506 TLDs (107,359)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-106%2C699%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-107%2C359%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 139,727 one-word geography domain names across 506 TLDs, with a median ask of $708. Updated daily, it covers a wide range of extensions and price points for comparing brandability, renewal cost, and fit before choosing a name.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **106,699 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **107,359 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 106,699 domains · **Median ask:** $558.16 · **High-demand under $2,500:** 421
+**Public extract:** 1,000 rows · **Live catalog:** 107,359 domains · **Median ask:** $555.65 · **High-demand under $2,500:** 408
 
-**Last updated:** 2026-09-22
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/sector/geography`
 **Best for:** founders, investors, studios
 
@@ -74,16 +74,16 @@ print(df.head())
 | map.enterprises | resell    | $5.99       | —             | high           | medium | 3      | Sav.com, LLC                  |
 | map.associates  | premium   | $85.80      | $85.80        | high           | medium | 3      | namecheap                     |
 | map.broker      | available | $19.99      | —             | high           | medium | 3      | name.com                      |
-| map.agency      | resell    | —           | —             | high           | medium | 3      | Porkbun LLC                   |
+| charts.quest    | resell    | $1.99       | $15.75        | low            | low    | 6      | namesilo                      |
 | map.attorney    | premium   | $128.70     | $128.70       | high           | medium | 3      | namecheap                     |
 | map.car         | available | $1,999.99   | $2,199        | high           | medium | 3      | namesilo                      |
-| map.app         | resell    | —           | —             | high           | medium | 3      | West263 International Limited |
+| map.agency      | resell    | —           | —             | high           | medium | 3      | Porkbun LLC                   |
 | map.auction     | premium   | $260        | $260          | high           | medium | 3      | namecheap                     |
 | map.christmas   | available | $34.99      | $34.99        | high           | medium | 3      | namesilo                      |
-| map.autos       | resell    | —           | —             | high           | medium | 3      | Sav.com, LLC - 48             |
+| map.app         | resell    | —           | —             | high           | medium | 3      | West263 International Limited |
 | map.band        | premium   | $128.70     | $128.70       | high           | medium | 3      | namecheap                     |
 | map.cleaning    | available | $75.49      | $75.49        | high           | medium | 3      | namesilo                      |
-| map.berlin      | resell    | —           | —             | high           | medium | 3      | —                             |
+| map.autos       | resell    | —           | —             | high           | medium | 3      | Sav.com, LLC - 48             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 106,699 live domains                       |
+| 1,000-row public sample | 107,359 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 421 high-demand names under $2,500         |
+| Basic exported fields   | 408 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Geography Domain Names Across 506 TLDs*. Version 2026-09-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Geography Domain Names Across 506 TLDs*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
