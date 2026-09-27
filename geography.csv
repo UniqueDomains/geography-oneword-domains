@@ -1,17 +1,16 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-4a60e91b-9ef6-4d7e-a9ce-5542ee9361bf,geography.space,premium,812.5,3250,high,high,9,namecheap,,,
-072b6655-bc05-43fc-807b-fd7e97b3cc24,geography.expert,available,11.99,79.99,high,high,9,name.com,,,
-b6f4549c-cfb3-4036-b6e6-2af4f49aa57e,geography.zone,available,14.99,50.99,high,high,9,name.com,,,
+4a60e91b-9ef6-4d7e-a9ce-5542ee9361bf,geography.space,premium,3450,3450,high,high,9,namesilo,,,27/09/2026 05:37
+072b6655-bc05-43fc-807b-fd7e97b3cc24,geography.expert,available,8.98,82.48,high,high,9,namecheap,,,27/09/2026 05:37
+b6f4549c-cfb3-4036-b6e6-2af4f49aa57e,geography.zone,available,8.98,51.98,high,high,9,namecheap,,,27/09/2026 05:51
 6bf6c6ea-8d06-497d-b1d5-b6856e6fc66f,geography.online,premium,781.25,3125,high,high,9,name.com,,,
 50056acd-357f-4cc8-835c-90713808d6bf,geography.us,resell,,,high,high,9,"GoDaddy.com, LLC",24/04/2002 14:05,23/04/2027 23:59,26/09/2026 06:21
 b0220616-8618-420d-836c-170516dfb51d,geography.tech,premium,325,1300,high,high,9,namecheap,,,
 90f96844-2868-407c-abf4-58d091ac9f68,map.country,available,,,high,medium,3,,,,
 97aa8baf-5474-40d2-b694-c70b37a9cc88,map.site,premium,1562.5,6250,high,medium,3,name.com,,,
-e1dec398-6d92-4481-9690-7363c084dab7,geography.site,premium,312.5,1250,high,high,9,name.com,,,
+e1dec398-6d92-4481-9690-7363c084dab7,geography.site,premium,325,1300,high,high,9,namecheap,,,27/09/2026 05:37
 8e88ad93-538b-4f7a-8735-b414329797b1,map.city,resell,,,high,medium,3,Dynadot Inc,05/08/2015 16:00,05/08/2027 16:00,26/09/2026 07:25
 815e283f-47d3-49ec-9805-a2c86c6642fb,geography.io,available,,,high,high,9,,,,
 97490dc2-e4af-4af3-9848-85f008a3b01c,map.green,premium,650,650,high,medium,3,namecheap,,,
-09c23f4b-cbf7-4f03-af9f-dbb5ce64af7a,cartography.at,available,,,high,high,11,,,,
 4902534d-1f69-4cab-afc1-4aef8f2aadba,topography.zone,available,51.98,,high,high,10,namecheap,,,
 856a5cfc-f705-4d25-943e-dbcba0bd7147,map.vegas,premium,260,129.94,high,medium,3,namecheap,,,
 350fb60a-7412-401b-87dc-a78f97ac16fe,map.bayern,premium,117.53,,high,medium,3,name.com,,,
@@ -77,7 +76,7 @@ e4bfd24a-cae8-497e-ac56-b15e9fd09f79,map.mom,resell,,,high,medium,3,Dynadot Inc,
 8207f196-5f1e-4a04-8bc6-837148891dc6,map.nyc,available,,,high,medium,3,,,,
 edd3bea0-1b84-484f-999d-1435656705f5,map.theatre,available,509.99,529.99,high,medium,3,namesilo,,,
 1a0e96ad-ebd2-4080-ba20-138b6951bd6c,map.wiki,premium,845,845,high,medium,3,namecheap,,,
-3ffa30bd-6244-4d69-ba43-b95140354a47,geology.zone,available,,,high,high,7,,,,
+3ffa30bd-6244-4d69-ba43-b95140354a47,geology.zone,available,12.99,38.99,high,high,7,namesilo,,,27/09/2026 05:37
 fb505314-a074-483d-a0de-06300b78af7e,cartography.expert,available,82.48,,high,high,11,namecheap,,,
 1d70c75a-9a66-4c54-a717-da9e462f5054,map.parts,premium,128.7,128.7,high,medium,3,namecheap,,,
 dfdcfddf-8d09-4f28-9956-7bd8f1d074d0,map.photo,premium,130,130,high,medium,3,namecheap,,,
@@ -132,9 +131,9 @@ e5c79aa5-2173-4416-a39f-585ed6e28611,map.attorney,premium,128.7,128.7,high,mediu
 f2d7a31c-5dab-4ade-b393-13554088d0e0,map.kitchen,available,14.99,,high,medium,3,name.com,,,
 beee7016-379f-4c88-902a-cc8ee51a6060,map.space,premium,1625,6500,high,medium,3,namecheap,,,
 647ce47a-2af1-4798-9a89-21536544ab48,map.software,premium,3250,3250,high,medium,3,namecheap,,,
-8849db99-5ba6-4865-927a-d5004b3dd073,terrain.site,available,,,high,high,7,,,,
+8849db99-5ba6-4865-927a-d5004b3dd073,terrain.site,premium,81.25,325,high,high,7,namecheap,,,27/09/2026 05:57
 fae69df2-9f35-46ea-8ab2-67e3c792a0ef,map.porn,available,,,high,medium,3,,,,
-e938c80d-5983-404b-925d-cb9b769c20d9,geographical.zone,available,,,high,high,12,,,,
+e938c80d-5983-404b-925d-cb9b769c20d9,geographical.zone,available,8.98,51.98,high,high,12,namecheap,,,27/09/2026 06:01
 5485dae4-c28c-4e03-ba87-fb16c7406500,map.fans,premium,390,390,high,medium,3,namecheap,,,
 5ab47119-1a6e-4560-a840-1d0d68e927ab,map.channel,premium,1248.75,,high,medium,3,name.com,,,
 ce8757b9-fc3e-49f3-a225-5e1bc2683c49,map.kids,premium,65,23.4,high,medium,3,namecheap,,,
@@ -189,7 +188,6 @@ c8284c81-e5f0-4e95-b282-6683371bcb6a,map.storage,available,509.99,529.99,high,me
 f85accef-4089-4ca6-9915-9a15a9e5dadc,map.trade,premium,650,84.5,high,medium,3,namecheap,,,
 93e09f97-d722-4bba-bd74-0e1f134657a0,map.flights,premium,260,260,high,medium,3,namecheap,,,
 db73eedd-85e7-4af4-a77d-1dffa6bdbcf3,map.skin,premium,2600,15.73,high,medium,3,namecheap,,,
-0e2c00ed-b266-4361-903a-1de78411166b,geology.space,available,,,high,high,7,,,,
 e4407963-78f0-44ea-8244-6289f6fbed67,map.cash,resell,,,high,medium,3,"Spaceship, Inc.",11/03/2025 15:15,11/03/2027 15:15,26/09/2026 07:25
 4f728b12-4193-4f73-a5d7-02ed0b1c2f8d,map.recipes,available,11.99,,high,medium,3,name.com,,,
 c5ad4edc-7aad-4f07-a867-d03785e2f1b4,area.zone,resell,,,high,low,4,"DNSPod, Inc.",01/05/2018 08:10,01/05/2027 08:10,26/09/2026 03:59
@@ -398,7 +396,7 @@ e80948b3-63ad-4bd3-ba74-f411e851ab8d,territory.codes,available,11.99,,high,low,9
 b17179ba-8160-4cc7-b134-d19e5e2bc243,landscape.miami,premium,242,242,high,low,9,namesilo,,,25/09/2026 04:23
 67edb847-054d-49f2-949b-18136503b09f,topography.tech,available,,,high,high,10,,,,
 38280e75-61bc-464a-9306-f2f60e0d70b9,region.feedback,available,15.99,,high,low,6,name.com,,,
-4065b87e-9080-4672-9a92-fbf2d5d71efe,region.engineer,available,13.99,,high,low,6,name.com,,,
+4065b87e-9080-4672-9a92-fbf2d5d71efe,region.engineer,available,40.98,52.98,high,low,6,namecheap,,,27/09/2026 06:34
 97e49e7d-975a-49be-9b58-4008b0b55143,region.you,premium,53.92,53.92,high,low,6,namesilo,,,
 57721f56-9d5c-4153-8361-231a33d2c790,territory.vote,available,,,high,low,9,,,,
 0eea099f-7515-4877-8813-55eb87c33873,map.discount,premium,85.8,85.8,high,medium,3,namecheap,,,
@@ -690,7 +688,6 @@ fcefdfee-3c47-4ac4-8e19-2cbdc2fa0eef,region.restaurant,available,29.99,,high,low
 59891430-0829-4b67-8c8b-f421b82f20b8,land.rsvp,premium,648.7,648.7,high,low,4,namecheap,,,
 45451b27-b540-4d46-a83e-35715c590939,country.management,available,14.99,,high,low,7,name.com,,,
 ee03e0ce-c9ab-4dfa-a7ce-646132515c1f,region.my,premium,490.95,,high,low,6,name.com,,,
-8b937491-b963-4200-ae55-590e693ab520,population.zone,available,,,high,high,10,,,,
 84b9cd8b-898a-4dac-a583-6dceed22c426,geographic.adult,available,69.98,166.98,high,low,10,namecheap,,,18/08/2026 22:27
 7f7caec5-5320-4698-b987-66d0db23753f,spatial.bz,available,21.98,26.98,high,high,7,namecheap,,,10/09/2026 15:07
 c434b8eb-2641-4eb9-a5b0-37c0d23d13bf,territory.meme,premium,112.5,,high,low,9,name.com,,,
@@ -821,7 +818,6 @@ ca28055b-dd94-4cd6-8c13-7f24441be97b,territory.adult,available,166.98,,high,low,
 b67ce1b1-cdb2-4a55-a381-c5a60cfd45cd,area.beer,available,2.19,32.49,high,low,4,namesilo,,,
 b50bfe10-5690-461e-a50c-e986687d7046,environment.recipes,available,8.99,77.99,high,low,11,namesilo,,,23/09/2026 08:17
 624a64b1-f700-4640-b2d2-b85b9c60e4bf,spatial.fishing,available,32.49,32.49,high,high,7,namesilo,,,10/09/2026 15:07
-94189f91-cb7d-4928-b98f-2b0afbee84e1,world.zone,resell,,,high,medium,5,"Spaceship, Inc.",19/01/2022 20:14,19/01/2027 20:14,26/09/2026 10:13
 91d99372-8673-4c2a-bc4f-7c527823d4f3,continent.reise,available,27.89,97.99,high,low,9,namesilo,,,11/08/2026 23:26
 39e4f4e9-104d-44b7-88c6-9c27fa7e6247,country.paris,available,51.98,,high,low,7,namecheap,,,
 079efa74-e11a-47b5-b461-a0246d7b8e5f,area.moda,available,19.99,,high,low,4,name.com,,,
@@ -868,11 +864,13 @@ d296fd67-1292-445d-aa1c-3e1d74c969ea,location.space,resell,,,high,low,8,"Name.co
 b37317c4-b9a9-4de7-b75a-f3a6ca322089,place.green,premium,640,640,high,low,5,namesilo,,,24/09/2026 23:57
 bc8e7cf0-9054-4ab7-8d6c-824c05ac69c7,landscape.fan,available,57.98,68.98,high,low,9,namecheap,,,25/09/2026 04:23
 ce614de0-3fb4-4398-9a2b-08bdf59ccb9a,territory.lgbt,available,19.99,,high,low,9,name.com,,,
-5f4dc32d-7e5c-4ffb-8e57-54011c5bf958,map.love,premium,5200,10400,high,medium,3,namecheap,,,
+5f4dc32d-7e5c-4ffb-8e57-54011c5bf958,map.love,premium,11040,11040,high,medium,3,namesilo,,,27/09/2026 06:35
+6a881a1b-7ecb-4043-a507-3f8b979da561,population.country,available,2298,2450,high,low,10,namecheap,,,27/09/2026 05:04
 028ee706-d767-4e63-bb84-830d3854a688,landscape.republican,available,7.49,28.99,high,low,9,namesilo,,,25/09/2026 04:23
 1355b440-5205-41bd-a9aa-59b1f4be84fd,region.network,resell,,,high,low,6,Dynadot Inc,03/07/2026 17:02,03/07/2027 17:02,26/09/2026 08:34
 9e1cc053-1cbc-408f-b902-7e6b432341b4,region.vision,available,9.99,,high,low,6,name.com,,,
 6170ec9f-de25-4bb5-86d4-10dcd89a7a1f,atlas.supply,resell,,,high,medium,5,"Global Domains International, Inc. DBA DomainCostClub.com",23/05/2026 15:15,23/05/2027 15:15,26/09/2026 04:06
+94189f91-cb7d-4928-b98f-2b0afbee84e1,world.zone,resell,,,high,medium,5,"Spaceship, Inc.",19/01/2022 20:14,19/01/2027 20:14,27/09/2026 08:03
 9c0a0a5f-8755-4b9b-ad1d-6ae65ee08b74,atlas.guitars,premium,2600,2600,high,medium,5,namecheap,,,20/09/2026 21:47
 4d56c371-0d54-4f53-a95b-afd72ffa41a2,landscape.tires,available,5.99,78.99,high,low,9,namesilo,,,25/09/2026 04:23
 845adc44-9d93-4a64-8643-def6c522e9ac,country.download,available,5.25,6.25,high,low,7,namesilo,,,
@@ -916,7 +914,7 @@ c4566aec-2938-40f0-898a-7096d4708933,environment.bot,premium,116,116,high,low,11
 b1a340ec-89cf-4adb-bbdc-1acc75b482fe,geographical.me,available,,,high,high,12,,,,
 d88928cc-7d3b-4f93-bf4e-0a82c310295f,region.sexy,available,2749.99,2749.99,high,low,6,namesilo,,,
 3b8e2e0a-4bd4-4c71-ae43-e68eb7fa062a,area.mov,premium,623.75,,high,low,4,name.com,,,
-cb365044-4537-4b01-8301-b950f5e33365,demographic.at,available,,,high,high,11,,,,
+cb365044-4537-4b01-8301-b950f5e33365,demographic.at,available,11.99,11.99,high,high,11,namesilo,,,27/09/2026 06:04
 ab0dc150-4bf5-4c47-9e24-8a447fc36d5a,landscape.hiphop,available,23.99,23.99,high,low,9,namesilo,,,25/09/2026 04:23
 dec9a26c-70ff-4aee-a8b7-9b728b376bf7,climate.country,available,,,high,low,7,,,,
 df83b577-4008-4d2a-86f0-c0632d4f9dbb,geographic.foo,premium,73.75,73.75,high,low,10,name.com,,,18/08/2026 22:27
@@ -950,7 +948,6 @@ a2aa1241-6f73-483b-9743-7ca499444707,environment.actor,available,16.99,44.49,hig
 7bf973ab-1e47-4a0e-acee-23f0ace73622,spatial.observer,premium,11.8,11.8,high,high,7,namesilo,,,10/09/2026 15:07
 04e8a876-c697-4994-b1cc-08c1131fc514,land.accountant,premium,650,84.5,high,low,4,namecheap,,,
 3637d04b-8fcd-4665-a098-fa4f539d8d6b,earth.florist,available,14.99,,high,medium,5,name.com,,,
-20e072e1-37d4-42eb-bb77-5c6cdaad2193,ecosystem.ninja,available,,,high,high,9,,,,
 d9e80281-46a6-497e-bbfc-ac177d33e2f7,nation.land,available,19.99,,high,low,6,name.com,,,
 286a3f1a-d86f-498c-b173-e2a860090628,spatial.blackfriday,available,114.99,114.99,high,high,7,namesilo,,,10/09/2026 15:07
 8a9c0809-9582-4002-a1b9-514a84221ab8,earth.fun,premium,1562.5,,high,medium,5,name.com,,,
@@ -999,3 +996,6 @@ d1e0a278-a5bd-47c6-9658-9077a9d0df03,territory.inc,premium,2061.5,2660,high,low,
 831b87c0-c5f3-441a-a70b-e312137c4bf0,land.dad,premium,648.7,648.7,high,low,4,namecheap,,,
 b09919c5-d161-4343-a46f-b1a465bf72bd,geographic.company,available,3.99,23.99,high,low,10,name.com,,,18/08/2026 22:27
 4ace60ef-0c13-4ab0-a187-927fb5e6b9ed,territory.fashion,available,32.49,32.49,high,low,9,namesilo,,,
+a13c8f66-87e2-4942-99b1-41d713ede01e,maps.london,premium,671.36,59.99,high,low,4,name.com,,,
+6ed07382-45a8-4588-9cfe-73db1b0e48c2,land.poker,available,14.99,,high,low,4,name.com,,,
+20aa94c4-881f-41f4-898d-c0e329b94ba4,land.trade,resell,,,high,low,4,"Global Domains International, Inc. DBA DomainCostClub.com",29/07/2019 12:43,29/07/2030 12:43,26/09/2026 07:08
