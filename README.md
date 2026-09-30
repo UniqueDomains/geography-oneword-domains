@@ -1,10 +1,10 @@
-# One-Word Geography Domain Names Across 506 TLDs (142,153)
+# One-Word Geography Domain Names Across 506 TLDs (153,784)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-142%2C153%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-153%2C784%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 139,727 one-word geography domain names across 506 TLDs, with a median ask of $708. Updated daily, it covers a wide range of extensions and price points for comparing brandability, renewal cost, and fit before choosing a name.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **142,153 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **153,784 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 142,153 domains · **Median ask:** $345.73 · **High-demand under $2,500:** 808
+**Public extract:** 1,000 rows · **Live catalog:** 153,784 domains · **Median ask:** $325.87 · **High-demand under $2,500:** 886
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/sector/geography`
 **Best for:** founders, investors, studios
 
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain          | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                     |
 | --------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
-| map.archi       | available | $24.99      | —             | high           | medium | 3      | name.com                      |
-| map.camera      | resell    | $72.98      | —             | high           | medium | 3      | Dynadot Inc                   |
-| map.airforce    | premium   | $103.99     | $103.99       | high           | medium | 3      | namesilo                      |
-| map.bingo       | available | $14.99      | —             | high           | medium | 3      | name.com                      |
+| map.actor       | available | $10.81      | $35.53        | high           | medium | 3      | porkbun                       |
 | map.co          | resell    | $263,769.75 | $48.99        | high           | medium | 3      | GoDaddy.com, LLC              |
 | map.associates  | premium   | $85.80      | $85.80        | high           | medium | 3      | namecheap                     |
-| map.broker      | available | $19.99      | —             | high           | medium | 3      | name.com                      |
+| map.airforce    | available | $83         | $83           | high           | medium | 3      | spaceship                     |
 | map.enterprises | resell    | $5.99       | —             | high           | medium | 3      | Sav.com, LLC                  |
-| map.attorney    | premium   | $128.70     | $128.70       | high           | medium | 3      | namecheap                     |
-| map.christmas   | available | $34.99      | $34.99        | high           | medium | 3      | namesilo                      |
-| region.best     | resell    | $23.08      | —             | high           | low    | 6      | NameCheap, Inc.               |
-| map.auction     | premium   | $260        | $260          | high           | medium | 3      | namecheap                     |
-| map.cleaning    | available | $75.49      | $75.49        | high           | medium | 3      | namesilo                      |
+| map.attorney    | premium   | $102.67     | $102.67       | high           | medium | 3      | spaceship                     |
+| map.archi       | available | $13.39      | $82.90        | high           | medium | 3      | porkbun                       |
+| area.place      | resell    | $14         | $28           | high           | low    | 4      | namecheap                     |
+| map.auction     | premium   | $207.20     | $207.20       | high           | medium | 3      | spaceship                     |
+| map.auto        | available | $2,070      | $2,950        | high           | medium | 3      | namecheap                     |
+| cartography.co  | resell    | $4,600      | $48.99        | high           | high   | 11     | GoDaddy.com, LLC              |
+| map.band        | premium   | $54.36      | $108.60       | high           | medium | 3      | porkbun                       |
+| map.bingo       | available | $42.64      | $42.64        | high           | medium | 3      | spaceship                     |
+| map.agency      | resell    | —           | —             | high           | medium | 3      | Porkbun LLC                   |
+| map.bar         | premium   | $3,260.45   | $4,657.70     | high           | medium | 3      | spaceship                     |
+| map.broker      | available | $28.20      | $28.20        | high           | medium | 3      | cloudflare                    |
 | map.app         | resell    | —           | —             | high           | medium | 3      | West263 International Limited |
-| map.band        | premium   | $128.70     | $128.70       | high           | medium | 3      | namecheap                     |
-| map.coupons     | available | $3.99       | —             | high           | medium | 3      | name.com                      |
-| map.autos       | resell    | —           | —             | high           | medium | 3      | Sav.com, LLC - 48             |
-| map.bar         | premium   | $2,925      | $5,850        | high           | medium | 3      | namecheap                     |
-| map.credit      | available | $11.49      | $104.99       | high           | medium | 3      | namesilo                      |
+| map.bayern      | premium   | $100.06     | $34.35        | high           | medium | 3      | dynadot                       |
+| map.car         | available | $2,140.22   | $2,140.22     | high           | medium | 3      | dynadot                       |
 | map.berlin      | resell    | —           | —             | high           | medium | 3      | —                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 142,153 live domains                       |
+| 1,000-row public sample | 153,784 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 808 high-demand names under $2,500         |
+| Basic exported fields   | 886 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Geography Domain Names Across 506 TLDs*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Geography Domain Names Across 506 TLDs*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
