@@ -1,10 +1,10 @@
-# One-Word Geography Domain Names Across 506 TLDs (184,319)
+# One-Word Geography Domain Names Across 506 TLDs (191,276)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-184%2C319%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-191%2C276%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 139,727 one-word geography domain names across 506 TLDs, with a median ask of $708. Updated daily, it covers a wide range of extensions and price points for comparing brandability, renewal cost, and fit before choosing a name.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **184,319 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **191,276 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 184,319 domains · **Median ask:** $284.13 · **High-demand under $2,500:** 850
+**Public extract:** 1,000 rows · **Live catalog:** 191,276 domains · **Median ask:** $278.36 · **High-demand under $2,500:** 812
 
 **Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/sector/geography`
@@ -25,7 +25,7 @@ This selection includes 139,727 one-word geography domain names across 506 TLDs,
 <p align="center">
   <a href="https://unique.domains/domains/sector/geography?utm_source=github&utm_medium=referral&utm_campaign=repo_geography_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./geography.csv">CSV</a> / <a href="./geography.json">JSON</a>
-  · <a href="https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_geography_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_geography_oneword_domains&utm_content=top_methodology"><b>📖 Glossary</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_geography_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain          | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                     |
 | --------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
-| map.airforce    | available | $83         | $83           | high           | medium | 3      | spaceship                     |
+| map.actor       | available | $10.81      | $35.53        | high           | medium | 3      | porkbun                       |
 | map.camera      | resell    | $72.98      | —             | high           | medium | 3      | Dynadot Inc                   |
-| map.associates  | premium   | $85.80      | $85.80        | high           | medium | 3      | namecheap                     |
+| map.band        | premium   | $54.36      | $108.60       | high           | medium | 3      | porkbun                       |
 | map.archi       | available | $13.39      | $82.90        | high           | medium | 3      | porkbun                       |
 | map.co          | resell    | $263,769.75 | $48.99        | high           | medium | 3      | GoDaddy.com, LLC              |
-| map.attorney    | premium   | $102.67     | $102.67       | high           | medium | 3      | spaceship                     |
-| map.bingo       | available | $42.64      | $42.64        | high           | medium | 3      | spaceship                     |
+| map.bayern      | premium   | $100.06     | $34.35        | high           | medium | 3      | dynadot                       |
+| map.auto        | available | $2,070      | $2,950        | high           | medium | 3      | namecheap                     |
 | map.enterprises | resell    | $5.99       | —             | high           | medium | 3      | Sav.com, LLC                  |
-| map.auction     | premium   | $207.20     | $207.20       | high           | medium | 3      | spaceship                     |
+| map.blackfriday | premium   | $390        | $390          | high           | medium | 3      | namecheap                     |
+| map.bingo       | available | $42.64      | $42.64        | high           | medium | 3      | spaceship                     |
+| cartography.co  | resell    | $4,600      | $48.99        | high           | high   | 11     | GoDaddy.com, LLC              |
+| map.blog        | premium   | $1,293.95   | $5,175.20     | high           | medium | 3      | spaceship                     |
 | map.broker      | available | $28.20      | $28.20        | high           | medium | 3      | cloudflare                    |
-| region.best     | resell    | $23.08      | —             | high           | low    | 6      | NameCheap, Inc.               |
-| map.band        | premium   | $54.36      | $108.60       | high           | medium | 3      | porkbun                       |
+| map.agency      | resell    | —           | —             | high           | medium | 3      | Porkbun LLC                   |
+| map.boo         | premium   | $999.20     | $1,298.70     | high           | medium | 3      | unstoppable                   |
 | map.car         | available | $2,140.22   | $2,140.22     | high           | medium | 3      | dynadot                       |
 | map.app         | resell    | —           | —             | high           | medium | 3      | West263 International Limited |
-| map.bar         | premium   | $3,260.45   | $4,657.70     | high           | medium | 3      | spaceship                     |
+| map.bot         | premium   | $2,587.70   | $2,587.70     | high           | medium | 3      | spaceship                     |
 | map.cars        | available | $2,060.25   | $2,064.19     | high           | medium | 3      | porkbun                       |
 | map.baby        | resell    | —           | —             | high           | medium | 3      | Dynadot Inc                   |
-| map.bayern      | premium   | $100.06     | $34.35        | high           | medium | 3      | dynadot                       |
-| map.christmas   | available | $1.24       | $31.16        | high           | medium | 3      | spaceship                     |
-| map.berlin      | resell    | —           | —             | high           | medium | 3      | —                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 184,319 live domains                                 |
+| 1,000-row public sample | 191,276 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 850 high-demand names under $2,500                   |
+| Basic exported fields   | 812 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -152,7 +152,7 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 ## 🔗 Related links
 
 - [Live search](https://unique.domains/domains/sector/geography?utm_source=github&utm_medium=referral&utm_campaign=repo_geography_oneword_domains&utm_content=top_open_search)
-- [How the data is built](https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_geography_oneword_domains&utm_content=top_methodology)
+- [Glossary](https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_geography_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_geography_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_geography_oneword_domains&utm_content=top_api_docs)
 - [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
