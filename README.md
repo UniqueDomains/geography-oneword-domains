@@ -1,10 +1,10 @@
-# One-Word Geography Domain Names Across 506 TLDs (199,878)
+# One-Word Geography Domain Names Across 506 TLDs (199,845)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-199%2C878%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-199%2C845%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 139,727 one-word geography domain names across 506 TLDs, with a median ask of $708. Updated daily, it covers a wide range of extensions and price points for comparing brandability, renewal cost, and fit before choosing a name.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **199,878 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **199,845 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 199,878 domains · **Median ask:** $273.97 · **High-demand under $2,500:** 3,222
+**Public extract:** 1,000 rows · **Live catalog:** 199,845 domains · **Median ask:** $273.13 · **High-demand under $2,500:** 3,720
 
 **Last updated:** 2026-11-01
 **Canonical page:** `https://unique.domains/domains/sector/geography`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
-| map.airforce    | available | $83       | $83           | high           | low    | 3      | spaceship                     |
-| map.enterprises | resell    | $5.99     | —             | high           | low    | 3      | Sav.com, LLC                  |
-| map.attorney    | premium   | $102.67   | $102.67       | high           | low    | 3      | spaceship                     |
-| map.bingo       | available | $42.64    | $42.64        | high           | low    | 3      | spaceship                     |
-| area.place      | resell    | $14       | $28           | high           | low    | 4      | namecheap                     |
-| map.auction     | premium   | $207.20   | $207.20       | high           | low    | 3      | spaceship                     |
-| map.broker      | available | $28.20    | $28.20        | high           | low    | 3      | cloudflare                    |
-| map.agency      | resell    | —         | —             | high           | low    | 3      | Porkbun LLC                   |
-| map.band        | premium   | $54.36    | $108.60       | high           | low    | 3      | porkbun                       |
-| map.christmas   | available | $1.24     | $31.16        | high           | low    | 3      | spaceship                     |
-| map.app         | resell    | —         | —             | high           | low    | 3      | West263 International Limited |
-| map.bayern      | premium   | $100.06   | $34.35        | high           | low    | 3      | dynadot                       |
-| map.cleaning    | available | $79.98    | $94.98        | high           | low    | 3      | namecheap                     |
-| map.berlin      | resell    | —         | —             | high           | low    | 3      | —                             |
-| map.blackfriday | premium   | $390      | $390          | high           | low    | 3      | namecheap                     |
-| map.desi        | available | $19.98    | $22.98        | high           | low    | 3      | namecheap                     |
-| map.blue        | resell    | —         | —             | high           | low    | 3      | Gandi SAS                     |
-| map.blog        | premium   | $1,293.95 | $5,175.20     | high           | low    | 3      | spaceship                     |
-| map.equipment   | available | $22.97    | $22.97        | high           | low    | 3      | spaceship                     |
-| map.bond        | resell    | —         | —             | high           | low    | 3      | Dominet (HK) Limited          |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
+| map.airforce   | available | $83       | $83           | high           | low    | 3      | spaceship                     |
+| map.camera     | resell    | $72.98    | —             | high           | low    | 3      | Dynadot Inc                   |
+| map.associates | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap                     |
+| map.archi      | available | $13.39    | $82.90        | high           | low    | 3      | porkbun                       |
+| map.app        | resell    | —         | —             | high           | low    | 3      | West263 International Limited |
+| map.attorney   | premium   | $102.67   | $102.67       | high           | low    | 3      | spaceship                     |
+| map.broker     | available | $28.20    | $28.20        | high           | low    | 3      | cloudflare                    |
+| map.baby       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                   |
+| map.auction    | premium   | $207.20   | $207.20       | high           | low    | 3      | spaceship                     |
+| map.car        | available | $2,140.22 | $2,140.22     | high           | low    | 3      | dynadot                       |
+| map.berlin     | resell    | —         | —             | high           | low    | 3      | —                             |
+| map.bar        | premium   | $3,260.45 | $4,657.70     | high           | low    | 3      | spaceship                     |
+| map.cars       | available | $2,060.25 | $2,064.19     | high           | low    | 3      | porkbun                       |
+| map.blue       | resell    | —         | —             | high           | low    | 3      | Gandi SAS                     |
+| map.bayern     | premium   | $100.06   | $34.35        | high           | low    | 3      | dynadot                       |
+| map.cleaning   | available | $79.98    | $94.98        | high           | low    | 3      | namecheap                     |
+| map.boats      | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.               |
+| map.bid        | premium   | $650      | $84.50        | high           | low    | 3      | namecheap                     |
+| map.credit     | available | $6.64     | $84.21        | high           | low    | 3      | dynadot                       |
+| map.bond       | resell    | —         | —             | high           | low    | 3      | Dominet (HK) Limited          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 199,878 live domains                                 |
+| 1,000-row public sample | 199,845 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 3,222 high-demand names under $2,500                 |
+| Basic exported fields   | 3,720 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
